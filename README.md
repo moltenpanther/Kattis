@@ -3,7 +3,7 @@ My Kattis Solutions
 
 | Problem | My Solution | Difficulty |  Time |
 | --- | --- | --- | --- |
-| [99problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) |  | s |
+| [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) |  | s |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](solutions/aaah.java) |  | s |
 | [](https://open.kattis.com/problems/) | [](solutions/.java) |  | s |
 | [](https://open.kattis.com/problems/) | [](solutions/.java) |  | s |
