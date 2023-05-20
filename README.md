@@ -1,8 +1,8 @@
-# Kattis
+#Kattis
 My Kattis Solutions
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.7 | Easy|
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](solutions/aaah.java) | 1.8 | Easy|
 | [ABC](https://open.kattis.com/problems/abc) | [abc](solutions/abc.java) | 2.1 | Easy|
@@ -411,6 +411,3 @@ My Kattis Solutions
 | [Zamka](https://open.kattis.com/problems/zamka) | [zamka](solutions/zamka.java) | 1.5 | Easy|
 | [Zoom](https://open.kattis.com/problems/zoom) | [zoom](solutions/zoom.java) | 1.7 | Easy|
 | [Zyxab](https://open.kattis.com/problems/zyxab) | [zyxab](solutions/zyxab.java) | 2.9 | Medium|
-
-
-
