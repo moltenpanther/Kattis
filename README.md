@@ -1,8 +1,8 @@
-#Kattis
+**#Kattis**
 My Kattis Solutions
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.7 | Easy|
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](solutions/aaah.java) | 1.8 | Easy|
 | [ABC](https://open.kattis.com/problems/abc) | [abc](solutions/abc.java) | 2.1 | Easy|
