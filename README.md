@@ -412,7 +412,3 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Zamka](https://open.kattis.com/problems/zamka) | [zamka](solutions/zamka.java) | 1.5 | Easy |
 | [Zoom](https://open.kattis.com/problems/zoom) | [zoom](solutions/zoom.java) | 1.7 | Easy |
 | [Zyxab](https://open.kattis.com/problems/zyxab) | [zyxab](solutions/zyxab.java) | 2.9 | Medium |
-
-
-
-| [Zyxab](https://open.kattis.com/problems/zyxab) | [zyxab](solutions/zyxab.java) | 2.9 | Medium |
