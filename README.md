@@ -1,7 +1,7 @@
 **My Kattis Solutions**
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
-| --: | --: | :-: | :-: |
+| :-- | :-- | :-: | :-: |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.7 | Easy|
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](solutions/aaah.java) | 1.8 | Easy|
 | [ABC](https://open.kattis.com/problems/abc) | [abc](solutions/abc.java) | 2.1 | Easy|
@@ -20,7 +20,7 @@
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [areal](solutions/areal.java) | 1.7 | Easy|
 | [Arm Coordination](https://open.kattis.com/problems/armcoordination) | [armcoordination](solutions/armcoordination.java) | 1.7 | Easy|
 | [Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy) | [armystrengtheasy](solutions/armystrengtheasy.java) | 2.2 | Easy|
-| [Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](solutions/upprodun.java) | 1.2 |  - 1.6Easy|
+| [Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](solutions/upprodun.java) | 1.2 - 1 | .6Easy|
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [asciiaddition](solutions/asciiaddition.java) | 2.0 | Easy|
 | [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [astrologicalsign](solutions/astrologicalsign.java) | 2.2 | Easy|
 | [Autori](https://open.kattis.com/problems/autori) | [autori](solutions/autori.java) | 1.3 | Easy|
@@ -41,8 +41,8 @@
 | [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | [bestrelayteam](solutions/bestrelayteam.java) | 2.0 | Easy|
 | [Betting](https://open.kattis.com/problems/betting) | [betting](solutions/betting.java) | 1.3 | Easy|
 | [Bijele](https://open.kattis.com/problems/bijele) | [bijele](solutions/bijele.java) | 1.4 | Easy|
-| [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [fodelsedagsmemorisering](solutions/fodelsedagsmemorisering.java) | 1.2 |  - 1.7Easy|
-| [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 |  - 1.9Easy|
+| [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [fodelsedagsmemorisering](solutions/fodelsedagsmemorisering.java) | 1.2 - 1 | .7Easy|
+| [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 - 1 | .9Easy|
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy|
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](solutions/boatparts.java) | 1.6 | Easy|
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [bookingaroom](solutions/bookingaroom.java) | 1.6 | Easy|
@@ -50,8 +50,8 @@
 | [Bracket Matching](https://open.kattis.com/problems/bracketmatching) | [bracketmatching](solutions/bracketmatching.java) | 1.7 | Easy|
 | [Breaking Branches](https://open.kattis.com/problems/breakingbranches) | [breakingbranches](solutions/breakingbranches.java) | 1.6 | Easy|
 | [Broken Calculator](https://open.kattis.com/problems/brokencalculator) | [brokencalculator](solutions/brokencalculator.java) | 2.7 | Easy|
-| [Building Highways](https://open.kattis.com/problems/buildinghighways) | [buildinghighways](solutions/buildinghighways.java) | 1.2 |  - 1.7Easy|
-| [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](solutions/pyramids.java) | 1.4 |  - 1.5Easy|
+| [Building Highways](https://open.kattis.com/problems/buildinghighways) | [buildinghighways](solutions/buildinghighways.java) | 1.2 - 1 | .7Easy|
+| [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](solutions/pyramids.java) | 1.4 - 1 | .5Easy|
 | [Buka](https://open.kattis.com/problems/buka) | [buka](solutions/buka.java) | 2.0 | Easy|
 | [Bus](https://open.kattis.com/problems/bus) | [bus](solutions/bus.java) | 1.6 | Easy|
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [busnumbers](solutions/busnumbers.java) | 2.6 | Easy|
@@ -162,7 +162,7 @@
 | [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces](solutions/hidingplaces.java) | 1.7 | Easy|
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](solutions/hissingmicrophone.java) | 1.4 | Easy|
 | [Hitting the Targets](https://open.kattis.com/problems/hittingtargets) | [hittingtargets](solutions/hittingtargets.java) | 1.6 | Easy|
-| [Homework](https://open.kattis.com/problems/heimavinna) | [heimavinna](solutions/heimavinna.java) | 1.1 |  - 1.5Easy|
+| [Homework](https://open.kattis.com/problems/heimavinna) | [heimavinna](solutions/heimavinna.java) | 1.1 - 1 | .5Easy|
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](solutions/apaxianparent.java) | 1.7 | Easy|
 | [Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus) | [huntthewumpus](solutions/huntthewumpus.java) | 2.2 | Easy|
 | [I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure) | [guessthedatastructure](solutions/guessthedatastructure.java) | 3.0 | Medium|
@@ -238,7 +238,7 @@
 | [N-sum](https://open.kattis.com/problems/nsum) | [nsum](solutions/nsum.java) | 1.4 | Easy|
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](solutions/numberfun.java) | 1.5 | Easy|
 | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [numbertree](solutions/numbertree.java) | 2.1 | Easy|
-| [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho](solutions/oddecho.java) | 1.3 |  - 1.4Easy|
+| [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho](solutions/oddecho.java) | 1.3 - 1 | .4Easy|
 | [Odd Gnome](https://open.kattis.com/problems/oddgnome) | [oddgnome](solutions/oddgnome.java) | 1.8 | Easy|
 | [Oddities](https://open.kattis.com/problems/oddities) | [oddities](solutions/oddities.java) | 1.5 | Easy|
 | [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](solutions/oddmanout.java) | 1.5 | Easy|
@@ -297,7 +297,7 @@
 | [Rectangle Area](https://open.kattis.com/problems/rectanglearea) | [rectanglearea](solutions/rectanglearea.java) | 1.6 | Easy|
 | [Relocation](https://open.kattis.com/problems/relocation) | [relocation](solutions/relocation.java) | 1.5 | Easy|
 | [Restaurant Opening](https://open.kattis.com/problems/restaurantopening) | [restaurantopening](solutions/restaurantopening.java) | 1.8 | Easy|
-| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](solutions/ofugsnuid.java) | 1.2 |  - 1.5Easy|
+| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](solutions/ofugsnuid.java) | 1.2 - 1 | .5Easy|
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](solutions/reversebinary.java) | 1.5 | Easy|
 | [Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](solutions/reverserot.java) | 1.7 | Easy|
 | [Rhyming Slang](https://open.kattis.com/problems/rhyming) | [rhyming](solutions/rhyming.java) | 2.8 | Medium|
@@ -328,9 +328,9 @@
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy|
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy|
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [skocimis](solutions/skocimis.java) | 1.6 | Easy|
-| [Skru op!](https://open.kattis.com/problems/skruop) | [skruop](solutions/skruop.java) | 1.3 |  - 1.5Easy|
+| [Skru op!](https://open.kattis.com/problems/skruop) | [skruop](solutions/skruop.java) | 1.3 - 1 | .5Easy|
 | [Sky Islands](https://open.kattis.com/problems/skyislands) | [skyislands](solutions/skyislands.java) | 2.1 | Easy|
-| [SMIL](https://open.kattis.com/problems/smil) | [smil](solutions/smil.java) | 1.3 |  - 1.5Easy|
+| [SMIL](https://open.kattis.com/problems/smil) | [smil](solutions/smil.java) | 1.3 - 1 | .5Easy|
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [sodaslurper](solutions/sodaslurper.java) | 1.7 | Easy|
 | [Soft Passwords](https://open.kattis.com/problems/softpasswords) | [softpasswords](solutions/softpasswords.java) | 2.6 | Easy|
 | [Sok](https://open.kattis.com/problems/sok) | [sok](solutions/sok.java) | 1.7 | Easy|
@@ -365,19 +365,19 @@
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [taisformula](solutions/taisformula.java) | 1.6 | Easy|
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](solutions/twostones.java) | 1.4 | Easy|
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](solutions/tarifa.java) | 1.4 | Easy|
-| [Tastelogger](https://open.kattis.com/problems/keylogger) | [keylogger](solutions/keylogger.java) | 1.3 |  - 2.5Easy|
+| [Tastelogger](https://open.kattis.com/problems/keylogger) | [keylogger](solutions/keylogger.java) | 1.3 - 2 | .5Easy|
 | [Test Drive](https://open.kattis.com/problems/testdrive) | [testdrive](solutions/testdrive.java) | 1.9 | Easy|
 | [Tetration](https://open.kattis.com/problems/tetration) | [tetration](solutions/tetration.java) | 1.6 | Easy|
 | [Tetris](https://open.kattis.com/problems/tetris) | [tetris](solutions/tetris.java) | 1.8 | Easy|
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](solutions/humancannonball2.java) | 1.6 | Easy|
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [thebackslashproblem](solutions/thebackslashproblem.java) | 2.3 | Easy|
-| [The Clock](https://open.kattis.com/problems/klockan2) | [klockan2](solutions/klockan2.java) | 1.6 |  - 1.7Easy|
+| [The Clock](https://open.kattis.com/problems/klockan2) | [klockan2](solutions/klockan2.java) | 1.6 - 1 | .7Easy|
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [easiest](solutions/easiest.java) | 1.6 | Easy|
 | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure) | [thegrandadventure](solutions/thegrandadventure.java) | 2.1 | Easy|
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](solutions/keytocrypto.java) | 1.7 | Easy|
 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](solutions/thelastproblem.java) | 1.6 | Easy|
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](solutions/owlandfox.java) | 1.8 | Easy|
-| [The Plank](https://open.kattis.com/problems/theplank) | [theplank](solutions/theplank.java) | 1.7 |  - 1.8Easy|
+| [The Plank](https://open.kattis.com/problems/theplank) | [theplank](solutions/theplank.java) | 1.7 - 1 | .8Easy|
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.java) | 1.8 | Easy|
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy|
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy|
