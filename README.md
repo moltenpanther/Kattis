@@ -269,6 +269,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](solutions/pizza2.java) | 1.8 | Easy |
 | [Planina](https://open.kattis.com/problems/planina) | [planina](solutions/planina.java) | 1.4 | Easy |
 | [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](solutions/plantingtrees.java) | 1.8 | Easy |
+| [Plants vs Bad Guys](https://open.kattis.com/problems/pvbg) | [pvbg](solutions/pvbg.java) | 1.4 - 1.7 | Easy |
 | [Pokechat](https://open.kattis.com/problems/pokechat) | [pokechat](solutions/pokechat.java) | 1.4 | Easy |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](solutions/pokerhand.java) | 1.5 | Easy |
 | [Popularity Contest](https://open.kattis.com/problems/popularitycontest) | [popularitycontest](solutions/popularitycontest.java) | 2.0 | Easy |
