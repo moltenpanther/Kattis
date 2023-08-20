@@ -228,7 +228,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Mosquito Multiplication](https://open.kattis.com/problems/mosquito) | [mosquito](solutions/mosquito.java) | 1.8 | Easy |
 | [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader) | [mrcodeformatgrader](solutions/mrcodeformatgrader.java) | 2.1 | Easy |
 | [Mult!](https://open.kattis.com/problems/mult) | [mult](solutions/mult.java) | 1.7 | Easy |
-| [Mumble Rap](https://open.kattis.com/problems/mumblerap) | [mult](solutions/mumblerap.java) | 1.5 - 1.7 | Easy |
+| [Mumble Rap](https://open.kattis.com/problems/mumblerap) | [mumblerap](solutions/mumblerap.java) | 1.5 - 1.7 | Easy |
 | [Musical Notation](https://open.kattis.com/problems/musicalnotation) | [musicalnotation](solutions/musicalnotation.java) | 2.0 | Easy |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](solutions/musicalscales.java) | 1.7 | Easy |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](solutions/nastyhacks.java) | 1.4 | Easy |
