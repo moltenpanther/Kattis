@@ -48,6 +48,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](solutions/boatparts.java) | 1.6 | Easy |
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [bookingaroom](solutions/bookingaroom.java) | 1.6 | Easy |
+| [Boss Battle](https://open.kattis.com/problems/bossbattle) | [bossbattle](solutions/bossbattle.java) | 1.8 | Easy |
 | [Bounding Robots](https://open.kattis.com/problems/boundingrobots) | [boundingrobots](solutions/boundingrobots.java) | 1.7 | Easy |
 | [Bracket Matching](https://open.kattis.com/problems/bracketmatching) | [bracketmatching](solutions/bracketmatching.java) | 1.7 | Easy |
 | [Breaking Branches](https://open.kattis.com/problems/breakingbranches) | [breakingbranches](solutions/breakingbranches.java) | 1.6 | Easy |
