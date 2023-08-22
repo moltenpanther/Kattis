@@ -59,6 +59,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [busnumbers](solutions/busnumbers.java) | 2.6 | Easy |
 | [Busy Schedule](https://open.kattis.com/problems/busyschedule) | [busyschedule](solutions/busyschedule.java) | 2.5 | Easy |
 | [Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [canadianseh](solutions/canadianseh.java) | 1.6 | Easy |
+| [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](solutions/cardtrick2.java) | 1.8 | Easy |
 | [Cetiri](https://open.kattis.com/problems/cetiri) | [cetiri](solutions/cetiri.java) | 1.8 | Easy |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](solutions/cetvrta.java) | 1.4 | Easy |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [chanukah](solutions/chanukah.java) | 1.4 | Easy |
