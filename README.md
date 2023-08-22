@@ -212,6 +212,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](solutions/magictrick.java) | 1.4 | Easy |
 | [Making A Meowth](https://open.kattis.com/problems/makingameowth) | [makingameowth](solutions/makingameowth.java) | 1.6 | Easy |
 | [Marko](https://open.kattis.com/problems/marko) | [marko](solutions/marko.java) | 1.9 | Easy |
+| [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [metaprogramming](solutions/metaprogramming.java) | 2.1 | Easy |
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](solutions/methodicmultiplication.java) | 1.6 | Easy |
 | [Metronome](https://open.kattis.com/problems/metronome) | [metronome](solutions/metronome.java) | 1.3 | Easy |
