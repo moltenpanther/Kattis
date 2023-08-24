@@ -335,6 +335,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy) | [shoppinglisteasy](solutions/shoppinglisteasy.java) | 2.0 | Easy |
 | [Sibice](https://open.kattis.com/problems/sibice) | [sibice](solutions/sibice.java) | 1.5 | Easy |
 | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [sidewayssorting](solutions/sidewayssorting.java) | 2.3 | Easy |
+| [Simple Cron Spec](https://open.kattis.com/problems/simplecronspec) | [simplecronspec](solutions/simplecronspec.java) | 2.0 | Easy |
 | [Simon Says](https://open.kattis.com/problems/simon) | [simon](solutions/simon.java) | 3.0 | Medium |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](solutions/simonsays.java) | 1.6 | Easy |
 | [Simone](https://open.kattis.com/problems/simone) | [simone](solutions/simone.java) | 1.9 | Easy |
