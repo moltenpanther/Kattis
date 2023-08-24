@@ -316,8 +316,6 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](solutions/romans.java) | 1.7 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
-| [Songbook](https://open.kattis.com/problems/sangbok) | [sangbok](solutions/sangbok.java) | 1.5 - 1.9 | Easy |
-
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](solutions/savingdaylight.java) | 1.9 | Easy |
 | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](solutions/savingforretirement.java) | 2.0 | Easy |
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](solutions/princesspeach.java) | 2.1 | Easy |
@@ -337,6 +335,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [sidewayssorting](solutions/sidewayssorting.java) | 2.3 | Easy |
 | [Simon Says](https://open.kattis.com/problems/simon) | [simon](solutions/simon.java) | 3.0 | Medium |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](solutions/simonsays.java) | 1.6 | Easy |
+| [Simone](https://open.kattis.com/problems/simone) | [simone](solutions/simone.java) | 1.9 | Easy |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](solutions/simpleaddition.java) | 2.2 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy |
@@ -349,6 +348,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Sok](https://open.kattis.com/problems/sok) | [sok](solutions/sok.java) | 1.7 | Easy |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](solutions/carrots.java) | 1.3 | Easy |
 | [Some Sum](https://open.kattis.com/problems/somesum) | [somesum](solutions/somesum.java) | 2.1 | Easy |
+| [Songbook](https://open.kattis.com/problems/sangbok) | [sangbok](solutions/sangbok.java) | 1.5 - 1.9 | Easy |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [sortofsorting](solutions/sortofsorting.java) | 2.1 | Easy |
 | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [sorttwonumbers](solutions/sorttwonumbers.java) | 1.3 | Easy |
 | [Soundex](https://open.kattis.com/problems/soundex) | [soundex](solutions/soundex.java) | 2.6 | Easy |
