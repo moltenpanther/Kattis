@@ -216,6 +216,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](solutions/magictrick.java) | 1.4 | Easy |
 | [Making A Meowth](https://open.kattis.com/problems/makingameowth) | [makingameowth](solutions/makingameowth.java) | 1.6 | Easy |
 | [Marko](https://open.kattis.com/problems/marko) | [marko](solutions/marko.java) | 1.9 | Easy |
+| [Math Homework](https://open.kattis.com/problems/mathhomework) | [mathhomework](solutions/mathhomework.java) | 1.9 | Easy |
 | [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [metaprogramming](solutions/metaprogramming.java) | 2.1 | Easy |
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](solutions/methodicmultiplication.java) | 1.6 | Easy |
@@ -279,6 +280,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Plants vs Bad Guys](https://open.kattis.com/problems/pvbg) | [pvbg](solutions/pvbg.java) | 1.4 - 1.7 | Easy |
 | [Pokechat](https://open.kattis.com/problems/pokechat) | [pokechat](solutions/pokechat.java) | 1.4 | Easy |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](solutions/pokerhand.java) | 1.5 | Easy |
+| [Polynomial Multiplication 1](https://open.kattis.com/problems/polymul1) | [polymul1](solutions/polymul1.java) | 1.9 | Easy |
 | [Popularity Contest](https://open.kattis.com/problems/popularitycontest) | [popularitycontest](solutions/popularitycontest.java) | 2.0 | Easy |
 | [Popular Vote](https://open.kattis.com/problems/vote) | [vote](solutions/vote.java) | 2.0 | Easy |
 | [Pot](https://open.kattis.com/problems/pot) | [pot](solutions/pot.java) | 1.4 | Easy |
