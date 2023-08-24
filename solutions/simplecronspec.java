@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.Scanner;
 
 public class simplecronspec {
@@ -7,9 +6,8 @@ public class simplecronspec {
     public static void main(String[] args) {
         
     	Scanner scan = new Scanner(System.in);
-    	HashSet<String> hash = new HashSet<String>();
-    	
     	int[][][] clock = new int[24][60][60];
+	    
     	int unique = 0;
     	int total = 0;
 
