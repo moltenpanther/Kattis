@@ -258,6 +258,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Ordinals](https://open.kattis.com/problems/ordinals) | [ordinals](solutions/ordinals.java) | 1.7 | Easy |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [ostgotska](solutions/ostgotska.java) | 1.7 | Easy |
 | [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking) | [pachydermpeanutpacking](solutions/pachydermpeanutpacking.java) | 2.0 | Easy |
+| [Packagemanager](https://open.kattis.com/problems/pakethanterare) | [pakethanterare](solutions/pakethanterare.java) | 1.5 - 1.9 | Easy |
 | [Parking](https://open.kattis.com/problems/parking) | [parking](solutions/parking.java) | 2.3 | Easy |
 | [Parking](https://open.kattis.com/problems/parking2) | [parking2](solutions/parking2.java) | 1.5 | Easy |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [patuljci](solutions/patuljci.java) | 1.8 | Easy |
