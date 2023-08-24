@@ -84,15 +84,5 @@ public class simplecronspec {
 		
 		return timeArray;
 	}
-
-	private static int[] fillTimeArray(int num) {
-		
-		int[] timeArray = new int[num];	
-		for(int i = 0; i < num; i++) {
-			timeArray[i] = i;
-		}
-		
-		return timeArray;
-	}
-
+	
 }
