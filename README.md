@@ -344,6 +344,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [skocimis](solutions/skocimis.java) | 1.6 | Easy |
 | [Skru op!](https://open.kattis.com/problems/skruop) | [skruop](solutions/skruop.java) | 1.3 - 1.5 | Easy |
 | [Sky Islands](https://open.kattis.com/problems/skyislands) | [skyislands](solutions/skyislands.java) | 2.1 | Easy |
+| [Slatkisi](https://open.kattis.com/problems/slatkisi) | [slatkisi](solutions/slatkisi.java) | 2.0 | Easy |
 | [SMIL](https://open.kattis.com/problems/smil) | [smil](solutions/smil.java) | 1.3 - 1.5 | Easy |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [sodaslurper](solutions/sodaslurper.java) | 1.7 | Easy |
 | [Soft Passwords](https://open.kattis.com/problems/softpasswords) | [softpasswords](solutions/softpasswords.java) | 2.6 | Easy |
