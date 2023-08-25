@@ -80,8 +80,9 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](solutions/conformity.java) | 1.6 | Easy |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [convexpolygonarea](solutions/convexpolygonarea.java) | 1.8 | Easy |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest) | [costumecontest](solutions/costumecontest.java) | 1.9 | Easy |
-| [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](solutions/countingclauses.java) | 1.6 | Easy |
+| [Count Doubles](https://open.kattis.com/problems/countdoubles) | [countdoubles](solutions/countdoubles.java) | 2.0 | Easy |
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [countthevowels](solutions/countthevowels.java) | 1.3 | Easy |
+| [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](solutions/countingclauses.java) | 1.6 | Easy |
 | [Course Scheduling](https://open.kattis.com/problems/coursescheduling) | [coursescheduling](solutions/coursescheduling.java) | 1.8 | Easy |
 | [Cpr-nummer](https://open.kattis.com/problems/cprnummer) | [cprnummer](solutions/cprnummer.java) | 1.4 | Easy |
 | [Crne](https://open.kattis.com/problems/crne) | [crne](solutions/crne.java) | 2.6 | Easy |
