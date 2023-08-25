@@ -131,6 +131,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Final Exam](https://open.kattis.com/problems/finalexam2) | [finalexam2](solutions/finalexam2.java) | 1.7 | Easy |
 | [Finding An A](https://open.kattis.com/problems/findingana) | [findingana](solutions/findingana.java) | 1.3 | Easy |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](solutions/fizzbuzz.java) | 1.3 | Easy |
+| [Flip Flow](https://open.kattis.com/problems/flipflow) | [flipflow](solutions/flipflow.java) | 2.0 | Easy |
 | [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](solutions/forcedchoice.java) | 1.5 | Easy |
 | [Fountain](https://open.kattis.com/problems/fontan) | [fontan](solutions/fontan.java) | 2.0 | Easy |
 | [Free Food](https://open.kattis.com/problems/freefood) | [freefood](solutions/freefood.java) | 1.6 | Easy |
