@@ -178,6 +178,7 @@ Solved: 432
 | [Hitting the Targets](https://open.kattis.com/problems/hittingtargets) | [hittingtargets](solutions/hittingtargets.java) | 1.6 | Easy |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [heimavinna](solutions/heimavinna.java) | 1.1 - 1.5 | Easy |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](solutions/apaxianparent.java) | 1.7 | Easy |
+| [Hot Hike](https://open.kattis.com/problems/hothike) | [hothike](solutions/hothike.java) | 2.1 | Easy |
 | [Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus) | [huntthewumpus](solutions/huntthewumpus.java) | 2.2 | Easy |
 | [I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure) | [guessthedatastructure](solutions/guessthedatastructure.java) | 3.0 | Medium |
 | [I Could Have Won](https://open.kattis.com/problems/icouldhavewon) | [icouldhavewon](solutions/icouldhavewon.java) | 3.1 | Medium |
