@@ -93,6 +93,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](solutions/dasblinkenlights.java) | 1.8 | Easy |
 | [Datum](https://open.kattis.com/problems/datum) | [datum](solutions/datum.java) | 1.4 | Easy |
 | [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](solutions/deathknight.java) | 1.6 | Easy |
+| [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [delimitersoup](solutions/delimitersoup.java) | 2.0 | Easy |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](solutions/detaileddifferences.java) | 1.4 | Easy |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](solutions/dicecup.java) | 1.4 | Easy |
 | [Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](solutions/dicegame.java) | 1.6 | Easy |
