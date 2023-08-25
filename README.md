@@ -119,6 +119,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Erase Securely](https://open.kattis.com/problems/erase) | [erase](solutions/erase.java) | 1.7 | Easy |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
+| [Expected Earnings](https://open.kattis.com/problems/expectedearnings) | [expectedearnings](solutions/expectedearnings.java) | 1.9 | Easy |
 | [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [eyeofsauron](solutions/eyeofsauron.java) | 1.4 | Easy |
 | [Fading Wind](https://open.kattis.com/problems/fadingwind) | [fadingwind](solutions/fadingwind.java) | 1.4 | Easy |
 | [Faktor](https://open.kattis.com/problems/faktor) | [faktor](solutions/faktor.java) | 1.4 | Easy |
