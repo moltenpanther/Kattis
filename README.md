@@ -387,6 +387,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [synchronizinglists](solutions/synchronizinglists.java) | 1.7 | Easy |
 | [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [t9spelling](solutions/t9spelling.java) | 1.8 | Easy |
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [taisformula](solutions/taisformula.java) | 1.6 | Easy |
+| [Tajna](https://open.kattis.com/problems/tajna) | [tajna](solutions/tajna.java) | 2.1 | Easy |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](solutions/twostones.java) | 1.4 | Easy |
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](solutions/tarifa.java) | 1.4 | Easy |
 | [Tastelogger](https://open.kattis.com/problems/keylogger) | [keylogger](solutions/keylogger.java) | 1.3 - 2.5 | Easy |
