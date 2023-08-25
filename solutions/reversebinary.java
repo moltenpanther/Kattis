@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Kattis {
+public class reversebinary {
 
 	public static void main(String[] args) {
 
@@ -8,19 +8,13 @@ public class Kattis {
 
 		int num = scan.nextInt();
 		String bin = Integer.toBinaryString(num);
-		int len = bin.length();
-		String dig = "";
+		
 		String binRev = "";
-		int rev = 0;
-
-		for (int i = len; i > 0; i--) {
-
-			dig = bin.substring(i - 1, i);
-			binRev += dig;
-
+		for (int i = bin.length(); i > 0; i--) {
+			binRev += bin.substring(i - 1, i);
 		}
 
-		rev = Integer.parseInt(binRev, 2);
+		int rev = Integer.parseInt(binRev, 2);
 		System.out.println(rev);
 
 		scan.close();
