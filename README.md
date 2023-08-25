@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 432
+Solved: 430+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
