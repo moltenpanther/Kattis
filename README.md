@@ -315,6 +315,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [ratingproblems](solutions/ratingproblems.java) | 1.4 | Easy |
 | [Recount](https://open.kattis.com/problems/recount) | [recount](solutions/recount.java) | 2.0 | Easy |
 | [Rectangle Area](https://open.kattis.com/problems/rectanglearea) | [rectanglearea](solutions/rectanglearea.java) | 1.6 | Easy |
+| [Primary Register](https://open.kattis.com/problems/register) | [register](solutions/register.java) | 2.1 | Easy |
 | [Relocation](https://open.kattis.com/problems/relocation) | [relocation](solutions/relocation.java) | 1.5 | Easy |
 | [Restaurant Opening](https://open.kattis.com/problems/restaurantopening) | [restaurantopening](solutions/restaurantopening.java) | 1.8 | Easy |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](solutions/ofugsnuid.java) | 1.2 - 1.5 | Easy |
