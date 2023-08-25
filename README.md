@@ -137,6 +137,7 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Friday the 13th](https://open.kattis.com/problems/friday) | [friday](solutions/friday.java) | 2.0 | Easy |
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [froshweek2](solutions/froshweek2.java) | 2.2 | Easy |
 | [Fun House](https://open.kattis.com/problems/funhouse) | [funhouse](solutions/funhouse.java) | 1.9 | Easy |
+| [Functional Fun](https://open.kattis.com/problems/functionalfun) | [functionalfun](solutions/functionalfun.java) | 2.0 | Easy |
 | [FYI](https://open.kattis.com/problems/fyi) | [fyi](solutions/fyi.java) | 1.3 | Easy |
 | [Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell) | [gandalfsspell](solutions/gandalfsspell.java) | 2.1 | Easy |
 | [GCD](https://open.kattis.com/problems/gcd) | [gcd](solutions/gcd.java) | 1.7 | Easy |
