@@ -195,6 +195,7 @@ Solved: 432
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](solutions/jackolanternjuxtaposition.java) | 1.3 | Easy |
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [janitortroubles](solutions/janitortroubles.java) | 1.5 | Easy |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [jobexpenses](solutions/jobexpenses.java) | 1.5 | Easy |
+| [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam) | [jointjogjam](solutions/jointjogjam.java) | 1.7 | Easy |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](solutions/judgingmoose.java) | 1.5 | Easy |
 | [Jumbled Compass](https://open.kattis.com/problems/compass) | [compass](solutions/compass.java) | 1.9 | Easy |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](solutions/jumbojavelin.java) | 1.3 | Easy |
