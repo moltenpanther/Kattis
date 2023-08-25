@@ -149,7 +149,6 @@ These problems were completed over multiple years as I was taking CS classes, so
 | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [greedilyincreasing](solutions/greedilyincreasing.java) | 2.1 | Easy |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [greetings2](solutions/greetings2.java) | 1.3 | Easy |
 | [Growling Gears](https://open.kattis.com/problems/growlinggears) | [growlinggears](solutions/growlinggears.java) | 2.0 | Easy |
-
 | [Hailstone Sequences](https://open.kattis.com/problems/hailstone2) | [hailstone2](solutions/hailstone2.java) | 1.8 | Easy |
 | [Half a Cookie](https://open.kattis.com/problems/halfacookie) | [halfacookie](solutions/halfacookie.java) | 1.8 | Easy |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](solutions/hangingout.java) | 1.6 | Easy |
