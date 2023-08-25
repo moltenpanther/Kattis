@@ -423,6 +423,7 @@ Solved: 432
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](solutions/zoo.java) | 1.8 | Easy |
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [undeadoralive](solutions/undeadoralive.java) | 1.4 | Easy |
 | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [unlockpattern](solutions/unlockpattern.java) | 1.7 | Easy |
+| [UTF-8](https://open.kattis.com/problems/utf8) | [utf8](solutions/utf8.java) | 2.1 | Easy |
 | [Vauvau](https://open.kattis.com/problems/vauvau) | [vauvau](solutions/vauvau.java) | 1.9 | Easy |
 | [Veci](https://open.kattis.com/problems/veci) | [veci](solutions/veci.java) | 1.9 | Easy |
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [queens](solutions/queens.java) | 2.9 | Medium |
