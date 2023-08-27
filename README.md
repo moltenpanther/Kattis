@@ -6,7 +6,7 @@ Solved: 430+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
-| [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [onedfroggereasy](solutions/onedfroggereasy.java) | 3.5 | Easy |
+| [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [1dfroggereasy](solutions/onedfroggereasy.java) | 3.5 | Easy |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.7 | Easy |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](solutions/aaah.java) | 1.8 | Easy |
 | [ABC](https://open.kattis.com/problems/abc) | [abc](solutions/abc.java) | 2.1 | Easy |
@@ -167,6 +167,7 @@ Solved: 430+
 | [Hay Points](https://open.kattis.com/problems/haypoints) | [haypoints](solutions/haypoints.java) | 2.0 | Easy |
 | [Head Guard](https://open.kattis.com/problems/headguard) | [headguard](solutions/headguard.java) | 2.1 | Easy |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](solutions/heartrate.java) | 1.4 | Easy |
+| [Height Ordering](https://open.kattis.com/problems/height) | [height](solutions/height.java) | 2.0 | Easy |
 | [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](solutions/heirsdilemma.java) | 1.7 | Easy |
 | [Heliocentric](https://open.kattis.com/problems/heliocentric) | [heliocentric](solutions/heliocentric.java) | 1.8 | Easy |
 | [Hello World!](https://open.kattis.com/problems/hello) | [hello](solutions/hello.java) | 1.2 | Easy |
