@@ -69,6 +69,7 @@ Solved: 430+
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [chanukah](solutions/chanukah.java) | 1.4 | Easy |
 | [Character Development](https://open.kattis.com/problems/character) | [character](solutions/character.java) | 2.3 | Easy |
 | [Charting Progress](https://open.kattis.com/problems/chartingprogress) | [chartingprogress](solutions/chartingprogress.java) | 2.0 | Easy |
+| [Circuit Math](https://open.kattis.com/problems/circuitmath) | [circuitmath](solutions/circuitmath.java) | 2.0 | Easy |
 | [Cinema Crowds](https://open.kattis.com/problems/cinema) | [cinema](solutions/cinema.java) | 2.2 | Easy |
 | [Cinema Crowds 2](https://open.kattis.com/problems/cinema2) | [cinema2](solutions/cinema2.java) | 1.8 | Easy |
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [classfieldtrip](solutions/classfieldtrip.java) | 1.4 | Easy |
