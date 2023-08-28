@@ -257,6 +257,7 @@ Solved: 430+
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](solutions/nodup.java) | 1.4 | Easy |
 | [Not Amused](https://open.kattis.com/problems/notamused) | [notamused](solutions/notamused.java) | 2.5 | Easy |
 | [No Thanks!](https://open.kattis.com/problems/nothanks) | [nothanks](solutions/nothanks.java) | 2.0 | Easy |
+| [NOP](https://open.kattis.com/problems/nop) | [nop](solutions/nop.java) | 2.1 | Easy |
 | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [npuzzle](solutions/npuzzle.java) | 2.1 | Easy |
 | [N-sum](https://open.kattis.com/problems/nsum) | [nsum](solutions/nsum.java) | 1.4 | Easy |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](solutions/numberfun.java) | 1.5 | Easy |
