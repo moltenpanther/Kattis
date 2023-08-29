@@ -9,13 +9,7 @@ public class anotherbrick {
         int height = scan.nextInt();
         int width = scan.nextInt();
         int bricks = scan.nextInt();
-        
-        /*int[] brick = new int[bricks];
-        for(int i = 0; i < bricks; i++) {
-        	brick[i] = scan.nextInt();
-        }
-        */
-        
+
         // Counting
         int sum = 0;
         int layers = 0;
@@ -40,7 +34,8 @@ public class anotherbrick {
         		i = bricks;
         	}        	
         }
-        
+
+        // Output
         if(good) {
         	System.out.println("YES");
         }else {
