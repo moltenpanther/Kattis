@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class ranksort {
+public class rankproblem {
 
     public static void main(String[] args) {
 
