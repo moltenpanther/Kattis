@@ -20,6 +20,7 @@ Solved: 440+
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](solutions/anewalphabet.java) | 1.9 | Easy |
 | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick) | [anotherbrick](solutions/anotherbrick.java) | 2.1 | Easy |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](solutions/apaxiaaans.java) | 1.4 | Easy |
+| [A Rank Problem](https://open.kattis.com/problems/rankproblem) | [rankproblem](solutions/rankproblem.java) | 2.3 | Easy |
 | [A Rational Sequence](https://open.kattis.com/problems/rationalsequence) | [rationalsequence](solutions/rationalsequence.java) | 4.9 | Medium |
 | [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2) | [rationalsequence2](solutions/rationalsequence2.java) | 1.6 | Easy |
 | [A Rational Sequence (Take 3)](https://open.kattis.com/problems/rationalsequence3) | [rationalsequence3](solutions/rationalsequence3.java) | 1.7 | Easy |
