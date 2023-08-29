@@ -33,6 +33,7 @@ public class anotherbrick {
         	if(sum > width) {
         		i = bricks;
         	}        	
+            
         }
 
         // Output
