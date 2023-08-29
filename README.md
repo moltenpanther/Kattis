@@ -112,6 +112,7 @@ Solved: 430+
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [drmmessages](solutions/drmmessages.java) | 1.5 | Easy |
 | [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere) | [drunkvigenere](solutions/drunkvigenere.java) | 1.6 | Easy |
 | [Early Winter](https://open.kattis.com/problems/earlywinter) | [earlywinter](solutions/earlywinter.java) | 1.7 | Easy |
+| [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone) | [saxophone](solutions/saxophone.java) | 2.1 | Easy |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [echoechoecho](solutions/echoechoecho.java) | 1.3 | Easy |
 | [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](solutions/eenymeeny.java) | 1.8 | Easy |
 | [Egypt](https://open.kattis.com/problems/egypt) | [egypt](solutions/egypt.java) | 2.1 | Easy |
