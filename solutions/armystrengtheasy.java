@@ -1,45 +1,62 @@
-import java.util.ArrayList;
-import java.util.Collections;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.Scanner;
-public class Kattis {
 
-	public static void main(String[] args) {
-		
-		Scanner scan = new Scanner(System.in);
-		
-		double cases = scan.nextDouble();
-	
-		for(double i = 0; i < cases; i++) {
-			
-			double godzilla = scan.nextDouble();
-			double mechagod = scan.nextDouble();
-			ArrayList<Double> armyG = new ArrayList<>(); 
-			ArrayList<Double> armyM = new ArrayList<>(); 
-			
-			for(double j = 0; j < godzilla; j++) {
-				armyG.add(scan.nextDouble());
-			}
-			for(double j = 0; j < mechagod; j++) {
-				armyM.add(scan.nextDouble());
-			}
-			Collections.sort(armyG);
-			Collections.sort(armyM);
-			
-			while(armyG.size() > 0 && armyM.size() > 0) {
-				
-				if(armyG.get(0) < armyM.get(0)) {
-					armyG.remove(armyG.get(0));
-				}else {
-					armyM.remove(armyM.get(0));
-				}
-			}
-			
-			if(armyG.size() == 0) {
-				System.out.println("MechaGodzilla");
-			}else {
-				System.out.println("Godzilla");
-			}	
-		}
-		scan.close();
-	}	
-}	
+public class armystrengtheasy {
+
+    public static void main(String[] args) throws IOException {
+
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        
+        int cases = Integer.parseInt(br.readLine());
+        for(int i = 0; i < cases; i++) {
+        	
+        	br.readLine();
+        	
+        	// Loading and processing number input
+        	String[] numMonsters = br.readLine().split(" ");
+        	int numGodz = Integer.parseInt(numMonsters[1]);
+        	int numMech = Integer.parseInt(numMonsters[0]);
+        	
+        	String[] armyGodzStr = br.readLine().split(" ");
+        	int[] armyGodz = new int[armyGodzStr.length];
+        	for(int j = 0; j < armyGodzStr.length; j++) {
+        		armyGodz[j] = Integer.parseInt(armyGodzStr[j]);
+        	}
+        	String[] armyMechStr = br.readLine().split(" ");
+        	int[] armyMech = new int[armyMechStr.length];
+        	for(int j = 0; j < armyMechStr.length; j++) {
+        		armyMech[j] = Integer.parseInt(armyMechStr[j]);
+        	}
+        	
+        	// Sorting
+        	Arrays.sort(armyGodz);
+        	Arrays.sort(armyMech);
+        	
+        	// Fight!
+        	int iGodz = 0;
+        	int iMech = 0;
+        	        	
+        	while(iMech < armyMech.length && iGodz < armyGodz.length) {
+        		if(armyMech[iMech] <= armyGodz[iGodz]) {
+        			iMech++;        			
+        		}else {
+        			iGodz++;
+        		}	
+        	}
+        	
+            // Output
+        	if(iMech == armyMech.length) {
+        		System.out.println("Godzilla");          		
+        	}else {
+        		System.out.println("MechaGodzilla");
+        	}
+        	
+        }
+            
+        br.close();
+    }
+
+}
