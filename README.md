@@ -239,6 +239,7 @@ Solved: 440+
 | [Marko](https://open.kattis.com/problems/marko) | [marko](solutions/marko.java) | 1.9 | Easy |
 | [Math Homework](https://open.kattis.com/problems/mathhomework) | [mathhomework](solutions/mathhomework.java) | 1.9 | Easy |
 | [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
+| [Messy Lists](https://open.kattis.com/problems/stokigalistor) | [stokigalistor](solutions/stokigalistor.java) | 1.4 - 2.2 | Easy |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [metaprogramming](solutions/metaprogramming.java) | 2.1 | Easy |
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](solutions/methodicmultiplication.java) | 1.6 | Easy |
 | [Metronome](https://open.kattis.com/problems/metronome) | [metronome](solutions/metronome.java) | 1.3 | Easy |
