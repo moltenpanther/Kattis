@@ -367,6 +367,7 @@ Solved: 450+
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](solutions/simonsays.java) | 1.6 | Easy |
 | [Simone](https://open.kattis.com/problems/simone) | [simone](solutions/simone.java) | 1.9 | Easy |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](solutions/simpleaddition.java) | 2.2 | Easy |
+| [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [skocimis](solutions/skocimis.java) | 1.6 | Easy |
