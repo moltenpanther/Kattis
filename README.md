@@ -28,6 +28,7 @@ Solved: 440+
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [areal](solutions/areal.java) | 1.7 | Easy |
 | [Arm Coordination](https://open.kattis.com/problems/armcoordination) | [armcoordination](solutions/armcoordination.java) | 1.7 | Easy |
 | [Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy) | [armystrengtheasy](solutions/armystrengtheasy.java) | 2.2 | Easy |
+| [Army Strength (Hard)](https://open.kattis.com/problems/armystrengthhard) | [armystrengthhard](solutions/armystrengthhard.java) | 2.1 | Easy |
 | [Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](solutions/upprodun.java) | 1.2 - 1.6 | Easy |
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [asciiaddition](solutions/asciiaddition.java) | 2.0 | Easy |
 | [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [astrologicalsign](solutions/astrologicalsign.java) | 2.2 | Easy |
