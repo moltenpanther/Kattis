@@ -96,6 +96,7 @@ Solved: 450+
 | [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](solutions/countingclauses.java) | 1.6 | Easy |
 | [Course Scheduling](https://open.kattis.com/problems/coursescheduling) | [coursescheduling](solutions/coursescheduling.java) | 1.8 | Easy |
 | [Cpr-nummer](https://open.kattis.com/problems/cprnummer) | [cprnummer](solutions/cprnummer.java) | 1.4 | Easy |
+| [Cracking RSA](https://open.kattis.com/problems/crackingrsa) | [crackingrsa](solutions/crackingrsa.java) | 2.2 | Easy |
 | [Crne](https://open.kattis.com/problems/crne) | [crne](solutions/crne.java) | 2.6 | Easy |
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](solutions/conundrum.java) | 1.4 | Easy |
 | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [cudoviste](solutions/cudoviste.java) | 1.4 | Easy |
