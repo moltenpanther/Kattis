@@ -448,6 +448,7 @@ Solved: 450+
 | [Video Speedup](https://open.kattis.com/problems/videospeedup) | [videospeedup](solutions/videospeedup.java) | 1.8 | Easy |
 | [Volim](https://open.kattis.com/problems/volim) | [volim](solutions/volim.java) | 1.7 | Easy |
 | [Warehouse](https://open.kattis.com/problems/warehouse) | [warehouse](solutions/warehouse.java) | 2.2 | Easy |
+| [Watchdog](https://open.kattis.com/problems/watchdog) | [watchdog](solutions/watchdog.java) | 2.2 | Easy |
 | [Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone) | [hailstone](solutions/hailstone.java) | 2.6 | Easy |
 | [Weak Vertices](https://open.kattis.com/problems/weakvertices) | [weakvertices](solutions/weakvertices.java) | 1.5 | Easy |
 | [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [whatdoesthefoxsay](solutions/whatdoesthefoxsay.java) | 2.4 | Easy |
