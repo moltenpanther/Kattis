@@ -44,6 +44,7 @@ Solved: 450+
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [basicprogramming2](solutions/basicprogramming2.java) | 3.5 | Medium |
 | [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [basketballoneonone](solutions/basketballoneonone.java) | 1.7 | Easy |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](solutions/batterup.java) | 1.3 | Easy |
+| [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [beavergnaw](solutions/beavergnaw.java) | 1.7 | Easy |
 | [Beehives](https://open.kattis.com/problems/beehives) | [beehives](solutions/beehives.java) | 2.2 | Easy |
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](solutions/beekeeper.java) | 2.6 | Easy |
 | [Bela](https://open.kattis.com/problems/bela) | [bela](solutions/bela.java) | 1.4 | Easy |
