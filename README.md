@@ -394,6 +394,7 @@ Solved: 450+
 | [Speedrun](https://open.kattis.com/problems/speedrun) | [speedrun](solutions/speedrun.java) | 2.3 | Easy |
 | [Spelling Bee](https://open.kattis.com/problems/spellingbee) | [spellingbee](solutions/spellingbee.java) | 2.0 | Easy |
 | [Splat](https://open.kattis.com/problems/splat) | [splat](solutions/splat.java) | 2.5 | Easy |
+| [Spritt](https://open.kattis.com/problems/spritt) | [spritt](solutions/spritt.java) | 1.9 | Easy |
 | [Square Peg](https://open.kattis.com/problems/squarepeg) | [squarepeg](solutions/squarepeg.java) | 1.7 | Easy |
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](solutions/cups.java) | 1.6 | Easy |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](solutions/zanzibar.java) | 1.5 | Easy |
