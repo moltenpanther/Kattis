@@ -209,6 +209,7 @@ Solved: 450+
 | [Jabuke](https://open.kattis.com/problems/jabuke) | [jabuke](solutions/jabuke.java) | 1.8 | Easy |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](solutions/jackolanternjuxtaposition.java) | 1.3 | Easy |
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [janitortroubles](solutions/janitortroubles.java) | 1.5 | Easy |
+| [Jewelry Box](https://open.kattis.com/problems/jewelrybox) | [jewelrybox](solutions/jewelrybox.java) | 1.7 | Easy |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [jobexpenses](solutions/jobexpenses.java) | 1.5 | Easy |
 | [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam) | [jointjogjam](solutions/jointjogjam.java) | 1.7 | Easy |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](solutions/judgingmoose.java) | 1.5 | Easy |
