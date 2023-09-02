@@ -458,6 +458,8 @@ Solved: 450+
 | [Watchdog](https://open.kattis.com/problems/watchdog) | [watchdog](solutions/watchdog.java) | 2.2 | Easy |
 | [Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone) | [hailstone](solutions/hailstone.java) | 2.6 | Easy |
 | [Weak Vertices](https://open.kattis.com/problems/weakvertices) | [weakvertices](solutions/weakvertices.java) | 1.5 | Easy |
+| [Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy) | [welcomeeasy](solutions/welcomeeasy.java) | 2.2 | Easy |
+| [Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard) | [welcomehard](solutions/welcomehard.java) | 4.4 | Easy |
 | [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [whatdoesthefoxsay](solutions/whatdoesthefoxsay.java) | 2.4 | Easy |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [whichisgreater](solutions/whichisgreater.java) | 1.4 | Easy |
 | [Who Wins?](https://open.kattis.com/problems/vemvinner) | [vemvinner](solutions/vemvinner.java) | 1.8 - 2.2 | Easy |
