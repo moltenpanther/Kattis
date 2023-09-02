@@ -402,6 +402,7 @@ Solved: 450+
 | [Stopwatch](https://open.kattis.com/problems/stopwatch) | [stopwatch](solutions/stopwatch.java) | 1.4 | Easy |
 | [Streets Ahead](https://open.kattis.com/problems/streetsahead) | [streetsahead](solutions/streetsahead.java) | 1.9 | Easy |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [timeloop](solutions/timeloop.java) | 1.4 | Easy |
+| [Successful Zoom](https://open.kattis.com/problems/successfulzoom) | [successfulzoom](solutions/successfulzoom.java) | 2.2 | Easy |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [sumkindofproblem](solutions/sumkindofproblem.java) | 1.7 | Easy |
 | [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [sumoftheothers](solutions/sumoftheothers.java) | 2.3 | Easy |
 | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [sumsquareddigits](solutions/sumsquareddigits.java) | 1.4 | Easy |
