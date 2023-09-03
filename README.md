@@ -453,6 +453,7 @@ Solved: 460+
 | [Veci](https://open.kattis.com/problems/veci) | [veci](solutions/veci.java) | 1.9 | Easy |
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [queens](solutions/queens.java) | 2.9 | Medium |
 | [Video Speedup](https://open.kattis.com/problems/videospeedup) | [videospeedup](solutions/videospeedup.java) | 1.8 | Easy |
+| [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur) | [vidsnuningur](solutions/vidsnuningur.java) | 2.2 | Easy |
 | [Volim](https://open.kattis.com/problems/volim) | [volim](solutions/volim.java) | 1.7 | Easy |
 | [Warehouse](https://open.kattis.com/problems/warehouse) | [warehouse](solutions/warehouse.java) | 2.2 | Easy |
 | [Watchdog](https://open.kattis.com/problems/watchdog) | [watchdog](solutions/watchdog.java) | 2.2 | Easy |
