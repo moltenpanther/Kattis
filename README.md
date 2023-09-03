@@ -26,6 +26,7 @@ Solved: 460+
 | [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2) | [rationalsequence2](solutions/rationalsequence2.java) | 1.6 | Easy |
 | [A Rational Sequence (Take 3)](https://open.kattis.com/problems/rationalsequence3) | [rationalsequence3](solutions/rationalsequence3.java) | 1.7 | Easy |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [areal](solutions/areal.java) | 1.7 | Easy |
+| [Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions) | [arithmeticfunctions](solutions/arithmeticfunctions.java) | 1.6 | Easy |
 | [Arm Coordination](https://open.kattis.com/problems/armcoordination) | [armcoordination](solutions/armcoordination.java) | 1.7 | Easy |
 | [Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy) | [armystrengtheasy](solutions/armystrengtheasy.java) | 2.2 | Easy |
 | [Army Strength (Hard)](https://open.kattis.com/problems/armystrengthhard) | [armystrengthhard](solutions/armystrengthhard.java) | 2.1 | Easy |
