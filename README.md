@@ -238,6 +238,7 @@ Solved: 460+
 | [Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer) | [lessvsfewer](solutions/lessvsfewer.java) | 2.1 | Easy |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
+| [Logic Functions](https://open.kattis.com/problems/logicfunctions) | [logicfunctions](solutions/logicfunctions.cpp) | 1.5 | Easy |
 | [Loo Rolls](https://open.kattis.com/problems/loorolls) | [loorolls](solutions/loorolls.java) | 1.7 | Easy |
 | [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](solutions/lostlineup.java) | 1.6 | Easy |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](solutions/luhnchecksum.java) | 1.8 | Easy |
