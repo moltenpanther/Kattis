@@ -313,6 +313,7 @@ Solved: 460+
 | [Popularity Contest](https://open.kattis.com/problems/popularitycontest) | [popularitycontest](solutions/popularitycontest.java) | 2.0 | Easy |
 | [Popular Vote](https://open.kattis.com/problems/vote) | [vote](solutions/vote.java) | 2.0 | Easy |
 | [Pot](https://open.kattis.com/problems/pot) | [pot](solutions/pot.java) | 1.4 | Easy |
+| [Powers of 2 (Easy)](https://open.kattis.com/problems/powersoftwoeasy) | [powersoftwoeasy](solutions/powersoftwoeasy.java) | 2.3 | Easy |
 | [Preludes](https://open.kattis.com/problems/chopin) | [chopin](solutions/chopin.java) | 1.8 | Easy |
 | [Prerequisites?](https://open.kattis.com/problems/prerequisites) | [prerequisites](solutions/prerequisites.java) | 2.1 | Easy |
 | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [primaryarithmetic](solutions/primaryarithmetic.java) | 3.0 | Medium |
