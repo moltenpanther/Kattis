@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 460+
+Solved: 470+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -449,6 +449,7 @@ Solved: 460+
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](solutions/tripletexting.java) | 1.7 | Easy |
 | [Turtle Master](https://open.kattis.com/problems/turtlemaster) | [turtlemaster](solutions/turtlemaster.java) | 2.8 | Medium |
 | [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](solutions/twosum.java) | 1.4 | Easy |
+| [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff) | [ullendullendoff](solutions/ullendullendoff.java) | 2.2 - 2.4 | Easy |
 | [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](solutions/ultimatebinarywatch.java) | 1.7 | Easy |
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](solutions/zoo.java) | 1.8 | Easy |
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [undeadoralive](solutions/undeadoralive.java) | 1.4 | Easy |
