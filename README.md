@@ -270,6 +270,7 @@ Solved: 470+
 | [Mumble Rap](https://open.kattis.com/problems/mumblerap) | [mumblerap](solutions/mumblerap.java) | 1.5 - 1.7 | Easy |
 | [Musical Notation](https://open.kattis.com/problems/musicalnotation) | [musicalnotation](solutions/musicalnotation.java) | 2.0 | Easy |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](solutions/musicalscales.java) | 1.7 | Easy |
+| [Mylla](https://open.kattis.com/problems/mylla) | [mylla](solutions/mylla.java) | 2.7 | Easy |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](solutions/nastyhacks.java) | 1.4 | Easy |
 | [Natrij](https://open.kattis.com/problems/natrij) | [natrij](solutions/natrij.java) | 3.1 | Medium |
 | [Nimionese](https://open.kattis.com/problems/nimionese) | [nimionese](solutions/nimionese.java) | 2.2 | Easy |
