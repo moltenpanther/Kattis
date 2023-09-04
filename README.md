@@ -88,6 +88,7 @@ Solved: 470+
 | [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo) | [coffeecupcombo](solutions/coffeecupcombo.java) | 1.8 | Easy |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](solutions/cold.java) | 1.3 | Easy |
 | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [competitivearcadebasketball](solutions/competitivearcadebasketball.java) | 2.3 | Easy |
+| [Completing the Square](https://open.kattis.com/problems/completingthesquare) | [completingthesquare](solutions/completingthesquare.java) | 2.0 | Easy |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](solutions/compoundwords.java) | 1.7 | Easy |
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](solutions/conformity.java) | 1.6 | Easy |
 | [Contingency Planning](https://open.kattis.com/problems/contingencyplanning) | [contingencyplanning](solutions/contingencyplanning.java) | 2.0 | Easy |
