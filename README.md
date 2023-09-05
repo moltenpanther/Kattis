@@ -104,6 +104,7 @@ Solved: 470+
 | [Crne](https://open.kattis.com/problems/crne) | [crne](solutions/crne.java) | 2.6 | Easy |
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](solutions/conundrum.java) | 1.4 | Easy |
 | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [cudoviste](solutions/cudoviste.java) | 1.4 | Easy |
+| [Curve Speed](https://open.kattis.com/problems/curvespeed) | [curvespeed](solutions/curvespeed.java) | 2.7 | Easy |
 | [Cut in Line](https://open.kattis.com/problems/cutinline) | [cutinline](solutions/cutinline.java) | 1.6 | Easy |
 | [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | [cutthenegativity](solutions/cutthenegativity.java) | 1.4 | Easy |
 | [Damaged Equation](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.3 | Easy |
