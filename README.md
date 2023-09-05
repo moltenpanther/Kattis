@@ -180,6 +180,7 @@ Solved: 470+
 | [Hangman](https://open.kattis.com/problems/hangman) | [hangman](solutions/hangman.java) | 1.6 | Easy |
 | [Happy Happy Prime Prime](https://open.kattis.com/problems/happyprime) | [happyprime](solutions/happyprime.java) | 2.0 | Easy |
 | [Hardware](https://open.kattis.com/problems/hardware) | [hardware](solutions/hardware.java) | 2.0 | Easy |
+| [Hardwood Species](https://open.kattis.com/problems/hardwoodspecies) | [hardwoodspecies](solutions/hardwoodspecies.java) | 2.7 | Easy |
 | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](solutions/harshadnumbers.java) | 1.5 | Easy |
 | [Haughty Cuisine](https://open.kattis.com/problems/haughtycuisine) | [haughtycuisine](solutions/haughtycuisine.java) | 1.7 | Easy |
 | [Hay Points](https://open.kattis.com/problems/haypoints) | [haypoints](solutions/haypoints.java) | 2.0 | Easy |
