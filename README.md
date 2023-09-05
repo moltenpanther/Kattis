@@ -381,6 +381,7 @@ Solved: 470+
 | [Simone](https://open.kattis.com/problems/simone) | [simone](solutions/simone.java) | 1.9 | Easy |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](solutions/simpleaddition.java) | 2.2 | Easy |
 | [Simple Factoring](https://open.kattis.com/problems/simplefactoring) | [simplefactoring](solutions/simplefactoring.java) | 2.5 | Easy |
+| [Simplicity](https://open.kattis.com/problems/simplicity) | [simplicity](solutions/simplicity.java) | 2.8 | Easy |
 | [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy |
