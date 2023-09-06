@@ -359,6 +359,7 @@ Solved: 470+
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](solutions/romans.java) | 1.7 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
+| [Sanic](https://open.kattis.com/problems/sanic) | [sanic](solutions/sanic.java) | 2.8 | Easy |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](solutions/savingdaylight.java) | 1.9 | Easy |
 | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](solutions/savingforretirement.java) | 2.0 | Easy |
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](solutions/princesspeach.java) | 2.1 | Easy |
