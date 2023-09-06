@@ -300,6 +300,7 @@ Solved: 470+
 | [Packagemanager](https://open.kattis.com/problems/pakethanterare) | [pakethanterare](solutions/pakethanterare.java) | 1.5 - 1.9 | Easy |
 | [Parking](https://open.kattis.com/problems/parking) | [parking](solutions/parking.java) | 2.3 | Easy |
 | [Parking](https://open.kattis.com/problems/parking2) | [parking2](solutions/parking2.java) | 1.5 | Easy |
+| [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](solutions/parsinghex.java) | 2.8 | Medium |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [patuljci](solutions/patuljci.java) | 1.8 | Easy |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](solutions/pauleigon.java) | 1.8 | Easy |
 | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [peasoup](solutions/peasoup.java) | 3.0 | Medium |
@@ -381,7 +382,7 @@ Solved: 470+
 | [Simone](https://open.kattis.com/problems/simone) | [simone](solutions/simone.java) | 1.9 | Easy |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](solutions/simpleaddition.java) | 2.2 | Easy |
 | [Simple Factoring](https://open.kattis.com/problems/simplefactoring) | [simplefactoring](solutions/simplefactoring.java) | 2.5 | Easy |
-| [Simplicity](https://open.kattis.com/problems/simplicity) | [simplicity](solutions/simplicity.java) | 2.8 | Easy |
+| [Simplicity](https://open.kattis.com/problems/simplicity) | [simplicity](solutions/simplicity.java) | 2.8 | Medium |
 | [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy |
