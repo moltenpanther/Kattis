@@ -413,6 +413,7 @@ Solved: 470+
 | [Spritt](https://open.kattis.com/problems/spritt) | [spritt](solutions/spritt.java) | 1.9 | Easy |
 | [Square Peg](https://open.kattis.com/problems/squarepeg) | [squarepeg](solutions/squarepeg.java) | 1.7 | Easy |
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](solutions/cups.java) | 1.6 | Easy |
+| [Stafur](https://open.kattis.com/problems/stafur) | [stafur](solutions/stafur.java) | 3.3 | Easy |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](solutions/zanzibar.java) | 1.5 | Easy |
 | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](solutions/stararrangements.java) | 1.7 | Easy |
 | [Statistics](https://open.kattis.com/problems/statistics) | [statistics](solutions/statistics.java) | 1.9 | Easy |
