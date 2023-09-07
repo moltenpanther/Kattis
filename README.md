@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 470+
+Solved: 480+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -361,7 +361,7 @@ Solved: 470+
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](solutions/romans.java) | 1.7 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
-| [Sanic](https://open.kattis.com/problems/sanic) | [sanic](solutions/sanic.java) | 2.8 | Easy |
+| [Sanic](https://open.kattis.com/problems/sanic) | [sanic](solutions/sanic.java) | 2.8 | Medium |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](solutions/savingdaylight.java) | 1.9 | Easy |
 | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](solutions/savingforretirement.java) | 2.0 | Easy |
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](solutions/princesspeach.java) | 2.1 | Easy |
@@ -413,7 +413,7 @@ Solved: 470+
 | [Spritt](https://open.kattis.com/problems/spritt) | [spritt](solutions/spritt.java) | 1.9 | Easy |
 | [Square Peg](https://open.kattis.com/problems/squarepeg) | [squarepeg](solutions/squarepeg.java) | 1.7 | Easy |
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](solutions/cups.java) | 1.6 | Easy |
-| [Stafur](https://open.kattis.com/problems/stafur) | [stafur](solutions/stafur.java) | 3.3 | Easy |
+| [Stafur](https://open.kattis.com/problems/stafur) | [stafur](solutions/stafur.java) | 3.3 | Medium |
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](solutions/zanzibar.java) | 1.5 | Easy |
 | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](solutions/stararrangements.java) | 1.7 | Easy |
 | [Statistics](https://open.kattis.com/problems/statistics) | [statistics](solutions/statistics.java) | 1.9 | Easy |
@@ -469,6 +469,7 @@ Solved: 470+
 | [Right-of-Way](https://open.kattis.com/problems/vajningsplikt) | [vajningsplikt](solutions/vajningsplikt.java) | 2.2 | Easy |
 | [Vauvau](https://open.kattis.com/problems/vauvau) | [vauvau](solutions/vauvau.java) | 1.9 | Easy |
 | [Veci](https://open.kattis.com/problems/veci) | [veci](solutions/veci.java) | 1.9 | Easy |
+| [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon) | [vefthjonatjon](solutions/vefthjonatjon.java) | 3.0 | Medium |
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [queens](solutions/queens.java) | 2.9 | Medium |
 | [Video Speedup](https://open.kattis.com/problems/videospeedup) | [videospeedup](solutions/videospeedup.java) | 1.8 | Easy |
 | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur) | [vidsnuningur](solutions/vidsnuningur.java) | 2.2 | Easy |
