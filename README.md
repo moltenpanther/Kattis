@@ -484,6 +484,7 @@ Solved: 480+
 | [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [whatdoesthefoxsay](solutions/whatdoesthefoxsay.java) | 2.4 | Easy |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [whichisgreater](solutions/whichisgreater.java) | 1.4 | Easy |
 | [Who Wins?](https://open.kattis.com/problems/vemvinner) | [vemvinner](solutions/vemvinner.java) | 1.8 - 2.2 | Easy |
+| [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [wizardofodds](solutions/wizardofodds.java) | 2.9 | Medium |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [wordsfornumbers](solutions/wordsfornumbers.java) | 2.8 | Medium |
 | [Yoda](https://open.kattis.com/problems/yoda) | [yoda](solutions/yoda.java) | 2.1 | Easy |
 | [Zamka](https://open.kattis.com/problems/zamka) | [zamka](solutions/zamka.java) | 1.5 | Easy |
