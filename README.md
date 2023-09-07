@@ -404,6 +404,7 @@ Solved: 480+
 | [Songbook](https://open.kattis.com/problems/sangbok) | [sangbok](solutions/sangbok.java) | 1.5 - 1.9 | Easy |
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [sortofsorting](solutions/sortofsorting.java) | 2.1 | Easy |
 | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [sorttwonumbers](solutions/sorttwonumbers.java) | 1.3 | Easy |
+| [Sóttkví](https://open.kattis.com/problems/sottkvi) | [sottkvi](solutions/sottkvi.java) | 2.8 | Easy |
 | [Soundex](https://open.kattis.com/problems/soundex) | [soundex](solutions/soundex.java) | 2.6 | Easy |
 | [Soylent](https://open.kattis.com/problems/soylent) | [soylent](solutions/soylent.java) | 1.7 | Easy |
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](solutions/spavanac.java) | 1.4 | Easy |
