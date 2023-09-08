@@ -472,6 +472,7 @@ Solved: 480+
 | [Right-of-Way](https://open.kattis.com/problems/vajningsplikt) | [vajningsplikt](solutions/vajningsplikt.java) | 2.2 | Easy |
 | [Vauvau](https://open.kattis.com/problems/vauvau) | [vauvau](solutions/vauvau.java) | 1.9 | Easy |
 | [Veci](https://open.kattis.com/problems/veci) | [veci](solutions/veci.java) | 1.9 | Easy |
+| [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar) | [vedurheidar](solutions/vedurheidar.java) | 2.1 | Easy |
 | [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon) | [vefthjonatjon](solutions/vefthjonatjon.java) | 3.0 | Medium |
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [queens](solutions/queens.java) | 2.9 | Medium |
 | [Video Speedup](https://open.kattis.com/problems/videospeedup) | [videospeedup](solutions/videospeedup.java) | 1.8 | Easy |
