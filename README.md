@@ -299,6 +299,7 @@ Solved: 490+
 | [Ordinals](https://open.kattis.com/problems/ordinals) | [ordinals](solutions/ordinals.java) | 1.7 | Easy |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [ostgotska](solutions/ostgotska.java) | 1.7 | Easy |
 | [Overdraft](https://open.kattis.com/problems/overdraft) | [overdraft](solutions/overdraft.java) | 2.0 | Easy |
+| [Óvissa](https://open.kattis.com/problems/ovissa) | [ovissa](solutions/ovissa.java) | 1.4 | Easy |
 | [Over the Hill, Part 1](https://open.kattis.com/problems/overthehill1) | [overthehill1](solutions/overthehill1.java) | 2.5 | Easy |
 | [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking) | [pachydermpeanutpacking](solutions/pachydermpeanutpacking.java) | 2.0 | Easy |
 | [Packagemanager](https://open.kattis.com/problems/pakethanterare) | [pakethanterare](solutions/pakethanterare.java) | 1.5 - 1.9 | Easy |
