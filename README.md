@@ -81,6 +81,7 @@ Solved: 480+
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [circuitmath](solutions/circuitmath.java) | 2.0 | Easy |
 | [Cinema Crowds](https://open.kattis.com/problems/cinema) | [cinema](solutions/cinema.java) | 2.2 | Easy |
 | [Cinema Crowds 2](https://open.kattis.com/problems/cinema2) | [cinema2](solutions/cinema2.java) | 1.8 | Easy |
+| [Cinema Seating](https://open.kattis.com/problems/cinemaseating) | [cinemaseating](solutions/cinemaseating.java) | 2.8 | Medium |
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [classfieldtrip](solutions/classfieldtrip.java) | 1.4 | Easy |
 | [Climbing Worm](https://open.kattis.com/problems/climbingworm) | [climbingworm](solutions/climbingworm.java) | 2.3 | Easy |
 | [Closing the Loop](https://open.kattis.com/problems/closingtheloop) | [closingtheloop](solutions/closingtheloop.java) | 1.7 | Easy |
