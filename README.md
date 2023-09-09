@@ -171,6 +171,7 @@ Solved: 490+
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](solutions/gerrymandering.java) | 1.6 | Easy |
 | [Ghost Leg](https://open.kattis.com/problems/ghostleg) | [ghostleg](solutions/ghostleg.java) | 1.4 | Easy |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](solutions/goatrope.java) | 1.6 | Easy |
+| [Goomba Stacks](https://open.kattis.com/problems/goombastacks) | [goombastacks](solutions/goombastacks.java) | 1.4 | Easy |
 | [Grading](https://open.kattis.com/problems/grading) | [grading](solutions/grading.java) | 1.6 | Easy |
 | [Graduation](https://open.kattis.com/problems/skolavslutningen) | [skolavslutningen](solutions/skolavslutningen.java) | 1.2 - 2.2 | Easy |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](solutions/grassseed.java) | 1.4 | Easy |
@@ -244,6 +245,7 @@ Solved: 490+
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](solutions/laptopsticker.java) | 1.5 | Easy |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](solutions/lastfactorialdigit.java) | 1.5 | Easy |
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [leftbeehind](solutions/leftbeehind.java) | 1.7 | Easy |
+| [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [leggjasaman](solutions/leggjasaman.java) | 1.4 | Easy |
 | [Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer) | [lessvsfewer](solutions/lessvsfewer.java) | 2.1 | Easy |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
