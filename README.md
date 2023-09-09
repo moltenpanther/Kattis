@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 480+
+Solved: 490+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -475,6 +475,7 @@ Solved: 480+
 | [Veci](https://open.kattis.com/problems/veci) | [veci](solutions/veci.java) | 1.9 | Easy |
 | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar) | [vedurheidar](solutions/vedurheidar.java) | 2.1 | Easy |
 | [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon) | [vefthjonatjon](solutions/vefthjonatjon.java) | 3.0 | Medium |
+| [Velkomin!](https://open.kattis.com/problems/velkomin) | [velkomin](solutions/velkomin.java) | 1.3 | Easy |
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [queens](solutions/queens.java) | 2.9 | Medium |
 | [Video Speedup](https://open.kattis.com/problems/videospeedup) | [videospeedup](solutions/videospeedup.java) | 1.8 | Easy |
 | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur) | [vidsnuningur](solutions/vidsnuningur.java) | 2.2 | Easy |
