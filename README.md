@@ -16,6 +16,7 @@ Solved: 490+
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble) | [addingtrouble](solutions/addingtrouble.java) | 1.4 | Easy |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](solutions/addtwonumbers.java) | 1.3 | Easy |
 | [A Different Problem](https://open.kattis.com/problems/different) | [different](solutions/different.java) | 2.7 | Easy |
+| [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](solutions/ameriskur.java) | 1.5 - 1.6 | Easy |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](solutions/anewalphabet.java) | 1.9 | Easy |
