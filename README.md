@@ -318,6 +318,7 @@ Solved: 500+
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](solutions/parsinghex.java) | 2.8 | Medium |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [patuljci](solutions/patuljci.java) | 1.8 | Easy |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](solutions/pauleigon.java) | 1.8 | Easy |
+| [Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon) | [peachpowderpolygon](solutions/peachpowderpolygon.java) | 1.9 | Easy |
 | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [peasoup](solutions/peasoup.java) | 3.0 | Medium |
 | [Peg](https://open.kattis.com/problems/peg) | [peg](solutions/peg.java) | 2.0 | Easy |
 | [Peragrams](https://open.kattis.com/problems/peragrams) | [peragrams](solutions/peragrams.java) | 1.9 | Easy |
