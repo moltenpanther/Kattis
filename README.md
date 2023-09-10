@@ -481,6 +481,7 @@ Solved: 490+
 | [Vauvau](https://open.kattis.com/problems/vauvau) | [vauvau](solutions/vauvau.java) | 1.9 | Easy |
 | [Veci](https://open.kattis.com/problems/veci) | [veci](solutions/veci.java) | 1.9 | Easy |
 | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar) | [vedurheidar](solutions/vedurheidar.java) | 2.1 | Easy |
+| [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi) | [vedurvindhradi](solutions/vedurvindhradi.java) | 1.9 - 2.0 | Easy |
 | [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon) | [vefthjonatjon](solutions/vefthjonatjon.java) | 3.0 | Medium |
 | [Velkomin!](https://open.kattis.com/problems/velkomin) | [velkomin](solutions/velkomin.java) | 1.3 | Easy |
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [queens](solutions/queens.java) | 2.9 | Medium |
