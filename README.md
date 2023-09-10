@@ -205,6 +205,7 @@ Solved: 490+
 | [Homework](https://open.kattis.com/problems/heimavinna) | [heimavinna](solutions/heimavinna.java) | 1.1 - 1.5 | Easy |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](solutions/apaxianparent.java) | 1.7 | Easy |
 | [Hot Hike](https://open.kattis.com/problems/hothike) | [hothike](solutions/hothike.java) | 2.1 | Easy |
+| [Hraðgreining](https://open.kattis.com/problems/hradgreining) | [hradgreining](solutions/hradgreining.java) | 2.0 | Easy |
 | [H to O](https://open.kattis.com/problems/htoo) | [htoo](solutions/htoo.java) | 2.8 | Medium |
 | [Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus) | [huntthewumpus](solutions/huntthewumpus.java) | 2.2 | Easy |
 | [I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure) | [guessthedatastructure](solutions/guessthedatastructure.java) | 3.0 | Medium |
