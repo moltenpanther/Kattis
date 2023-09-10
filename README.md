@@ -211,6 +211,7 @@ Solved: 490+
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining) | [hradgreining](solutions/hradgreining.java) | 2.0 | Easy |
 | [H to O](https://open.kattis.com/problems/htoo) | [htoo](solutions/htoo.java) | 2.8 | Medium |
 | [Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus) | [huntthewumpus](solutions/huntthewumpus.java) | 2.2 | Easy |
+| [Hydra's Heads](https://open.kattis.com/problems/hydrasheads) | [hydrasheads](solutions/hydrasheads.java) | 1.8 | Easy |
 | [I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure) | [guessthedatastructure](solutions/guessthedatastructure.java) | 3.0 | Medium |
 | [I Could Have Won](https://open.kattis.com/problems/icouldhavewon) | [icouldhavewon](solutions/icouldhavewon.java) | 3.1 | Medium |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](solutions/icpcawards.java) | 1.5 | Easy |
