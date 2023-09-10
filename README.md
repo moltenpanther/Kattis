@@ -138,6 +138,7 @@ Solved: 490+
 | [Eligibility](https://open.kattis.com/problems/eligibility) | [eligibility](solutions/eligibility.java) | 1.6 | Easy |
 | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh) | [empleh](solutions/empleh.java) | 1.7 | Easy |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](solutions/encodedmessage.java) | 1.5 | Easy |
+| [Endurvinnsla](https://open.kattis.com/problems/endurvinnsla) | [endurvinnsla](solutions/endurvinnsla.java) | 2.3 | Easy |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [engineeringenglish](solutions/engineeringenglish.java) | 2.4 | Easy |
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [epigdanceoff](solutions/epigdanceoff.java) | 2.1 | Easy |
 | [Erase Securely](https://open.kattis.com/problems/erase) | [erase](solutions/erase.java) | 1.7 | Easy |
