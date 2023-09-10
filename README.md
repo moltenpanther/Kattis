@@ -160,6 +160,7 @@ Solved: 490+
 | [Flip Flow](https://open.kattis.com/problems/flipflow) | [flipflow](solutions/flipflow.java) | 2.0 | Easy |
 | [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](solutions/forcedchoice.java) | 1.5 | Easy |
 | [Fountain](https://open.kattis.com/problems/fontan) | [fontan](solutions/fontan.java) | 2.0 | Easy |
+| [Framtíðar FIFA](https://open.kattis.com/problems/fifa) | [fifa](solutions/fifa.java) | 1.5 - 1.6 | Easy |
 | [Free Food](https://open.kattis.com/problems/freefood) | [freefood](solutions/freefood.java) | 1.6 | Easy |
 | [Friday the 13th](https://open.kattis.com/problems/friday) | [friday](solutions/friday.java) | 2.0 | Easy |
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [froshweek2](solutions/froshweek2.java) | 2.2 | Easy |
