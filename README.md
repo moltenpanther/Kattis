@@ -488,6 +488,7 @@ Solved: 500+
 | [Right-of-Way](https://open.kattis.com/problems/vajningsplikt) | [vajningsplikt](solutions/vajningsplikt.java) | 2.2 | Easy |
 | [Vauvau](https://open.kattis.com/problems/vauvau) | [vauvau](solutions/vauvau.java) | 1.9 | Easy |
 | [Veci](https://open.kattis.com/problems/veci) | [veci](solutions/veci.java) | 1.9 | Easy |
+| [Vector Functions](https://open.kattis.com/problems/vectorfunctions) | [vectorfunctions](solutions/vectorfunctions.java) | 2.9 | Medium |
 | [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar) | [vedurheidar](solutions/vedurheidar.java) | 2.1 | Easy |
 | [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi) | [vedurvindhradi](solutions/vedurvindhradi.java) | 1.9 - 2.0 | Easy |
 | [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon) | [vefthjonatjon](solutions/vefthjonatjon.java) | 3.0 | Medium |
