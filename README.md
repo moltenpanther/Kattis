@@ -138,6 +138,7 @@ Solved: 500+
 | [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi) | [ekkidaudi](solutions/ekkidaudi.java) | 1.7 - 2.0 | Easy |
 | [Election](https://open.kattis.com/problems/election2) | [election2](solutions/election2.java) | 2.6 | Easy |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](solutions/electricaloutlets.java) | 1.4 | Easy |
+| [Elevator Trouble](https://open.kattis.com/problems/elevatortrouble) | [elevatortrouble](solutions/elevatortrouble.java) | 2.7 | Easy |
 | [Eligibility](https://open.kattis.com/problems/eligibility) | [eligibility](solutions/eligibility.java) | 1.6 | Easy |
 | [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh) | [empleh](solutions/empleh.java) | 1.7 | Easy |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](solutions/encodedmessage.java) | 1.5 | Easy |
