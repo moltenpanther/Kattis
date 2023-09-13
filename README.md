@@ -463,6 +463,7 @@ Solved: 500+
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](solutions/humancannonball2.java) | 1.6 | Easy |
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [thebackslashproblem](solutions/thebackslashproblem.java) | 2.3 | Easy |
 | [The Clock](https://open.kattis.com/problems/klockan2) | [klockan2](solutions/klockan2.java) | 1.6 - 1.7 | Easy |
+| [The Dragon of Loowater](https://open.kattis.com/problems/loowater) | [loowater](solutions/loowater.java) | 2.9 | Medium |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [easiest](solutions/easiest.java) | 1.6 | Easy |
 | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure) | [thegrandadventure](solutions/thegrandadventure.java) | 2.1 | Easy |
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](solutions/keytocrypto.java) | 1.7 | Easy |
