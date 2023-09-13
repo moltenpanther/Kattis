@@ -101,8 +101,9 @@ Solved: 500+
 | [Cooking Water](https://open.kattis.com/problems/cookingwater) | [cookingwater](solutions/cookingwater.java) | 2.1 | Easy |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest) | [costumecontest](solutions/costumecontest.java) | 1.9 | Easy |
 | [Count Doubles](https://open.kattis.com/problems/countdoubles) | [countdoubles](solutions/countdoubles.java) | 2.0 | Easy |
-| [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [countthevowels](solutions/countthevowels.java) | 1.3 | Easy |
 | [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](solutions/countingclauses.java) | 1.6 | Easy |
+| [Counting Days](https://open.kattis.com/problems/countingdays) | [countingdays](solutions/countingdays.java) | 2.6 | Easy |
+| [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [countthevowels](solutions/countthevowels.java) | 1.3 | Easy |
 | [Course Scheduling](https://open.kattis.com/problems/coursescheduling) | [coursescheduling](solutions/coursescheduling.java) | 1.8 | Easy |
 | [Cpr-nummer](https://open.kattis.com/problems/cprnummer) | [cprnummer](solutions/cprnummer.java) | 1.4 | Easy |
 | [Cracking RSA](https://open.kattis.com/problems/crackingrsa) | [crackingrsa](solutions/crackingrsa.java) | 2.2 | Easy |
@@ -149,6 +150,7 @@ Solved: 500+
 | [Erase Securely](https://open.kattis.com/problems/erase) | [erase](solutions/erase.java) | 1.7 | Easy |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
+| [Evening Out 1](https://open.kattis.com/problems/eveningout1) | [eveningout1](solutions/eveningout1.java) | 2.5 | Easy |
 | [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical) | [exactlyelectrical](solutions/exactlyelectrical.java) | 2.2 | Easy |
 | [Expected Earnings](https://open.kattis.com/problems/expectedearnings) | [expectedearnings](solutions/expectedearnings.java) | 1.9 | Easy |
 | [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [eyeofsauron](solutions/eyeofsauron.java) | 1.4 | Easy |
