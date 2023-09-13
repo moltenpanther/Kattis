@@ -457,6 +457,7 @@ Solved: 500+
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](solutions/twostones.java) | 1.4 | Easy |
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](solutions/tarifa.java) | 1.4 | Easy |
 | [Tastelogger](https://open.kattis.com/problems/keylogger) | [keylogger](solutions/keylogger.java) | 1.3 - 2.5 | Easy |
+| [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion) | [temperatureconfusion](solutions/temperatureconfusion.java) | 2.9 | Medium |
 | [Test Drive](https://open.kattis.com/problems/testdrive) | [testdrive](solutions/testdrive.java) | 1.9 | Easy |
 | [Tetration](https://open.kattis.com/problems/tetration) | [tetration](solutions/tetration.java) | 1.6 | Easy |
 | [Tetris](https://open.kattis.com/problems/tetris) | [tetris](solutions/tetris.java) | 1.8 | Easy |
