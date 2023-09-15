@@ -138,6 +138,7 @@ Solved: 500+
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [echoechoecho](solutions/echoechoecho.java) | 1.3 | Easy |
 | [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](solutions/eenymeeny.java) | 1.8 | Easy |
 | [Egypt](https://open.kattis.com/problems/egypt) | [egypt](solutions/egypt.java) | 2.1 | Easy |
+| [Eight Queens](https://open.kattis.com/problems/8queens) | [eightqueens](solutions/eightqueens.java) | 2.9 | Medium |
 | [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi) | [ekkidaudi](solutions/ekkidaudi.java) | 1.7 - 2.0 | Easy |
 | [Election](https://open.kattis.com/problems/election2) | [election2](solutions/election2.java) | 2.6 | Easy |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](solutions/electricaloutlets.java) | 1.4 | Easy |
