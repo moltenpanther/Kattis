@@ -390,6 +390,7 @@ Solved: 500+
 | [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe) | [scalingrecipe](solutions/scalingrecipe.java) | 1.8 | Easy |
 | [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](solutions/recipes.java) | 1.8 | Easy |
 | [School Spirit](https://open.kattis.com/problems/schoolspirit) | [schoolspirit](solutions/schoolspirit.java) | 1.7 | Easy |
+| [Scrolling Sign](https://open.kattis.com/problems/scrollingsign) | [scrollingsign](solutions/scrollingsign.java) | 2.9 | Medium |
 | [Secret Message](https://open.kattis.com/problems/secretmessage) | [secretmessage](solutions/secretmessage.java) | 1.9 | Easy |
 | [Secure Doors](https://open.kattis.com/problems/securedoors) | [securedoors](solutions/securedoors.java) | 1.7 | Easy |
 | [Semafori](https://open.kattis.com/problems/semafori) | [semafori](solutions/semafori.java) | 2.0 | Easy |
