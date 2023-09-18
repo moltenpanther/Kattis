@@ -34,6 +34,7 @@ Solved: 500+
 | [Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](solutions/upprodun.java) | 1.2 - 1.6 | Easy |
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [asciiaddition](solutions/asciiaddition.java) | 2.0 | Easy |
 | [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [astrologicalsign](solutions/astrologicalsign.java) | 2.2 | Easy |
+| [Atlogur](https://open.kattis.com/problems/atlogur) | [atlogur](solutions/atlogur.java) | 1.9 | Easy |
 | [Autori](https://open.kattis.com/problems/autori) | [autori](solutions/autori.java) | 1.3 | Easy |
 | [Average Character](https://open.kattis.com/problems/averagecharacter) | [averagecharacter](solutions/averagecharacter.java) | 1.8 | Easy |
 | [Avion](https://open.kattis.com/problems/avion) | [avion](solutions/avion.java) | 1.4 | Easy |
