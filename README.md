@@ -41,6 +41,7 @@ Solved: 500+
 | [Babelfish](https://open.kattis.com/problems/babelfish) | [babelfish](solutions/babelfish.java) | 2.5 | Easy |
 | [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](solutions/babybites.java) | 1.9 | Easy |
 | [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](solutions/babylonian.java) | 2.2 | Easy |
+| [Baby Panda](https://open.kattis.com/problems/babypanda) | [babypanda](solutions/babypanda.java) | 2.2 | Easy |
 | [Backspace](https://open.kattis.com/problems/backspace) | [backspace](solutions/backspace.java) | 3.2 | Medium |
 | [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) | [baconeggsandspam](solutions/baconeggsandspam.java) | 1.9 | Easy |
 | [Bannorð](https://open.kattis.com/problems/bannord) | [bannord](solutions/bannord.java) | 3.3 | Medium |
