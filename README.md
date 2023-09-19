@@ -314,6 +314,7 @@ Solved: 520+
 | [Odd Gnome](https://open.kattis.com/problems/oddgnome) | [oddgnome](solutions/oddgnome.java) | 1.8 | Easy |
 | [Oddities](https://open.kattis.com/problems/oddities) | [oddities](solutions/oddities.java) | 1.5 | Easy |
 | [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](solutions/oddmanout.java) | 1.5 | Easy |
+| [Off-World Records](https://open.kattis.com/problems/offworldrecords) | [offworldrecords](solutions/offworldrecords.java) | 2.2 | Easy |
 | [Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](solutions/oktalni.java) | 2.0 | Easy |
 | [Okvir](https://open.kattis.com/problems/okvir) | [okvir](solutions/okvir.java) | 2.0 | Easy |
 | [Okviri](https://open.kattis.com/problems/okviri) | [okviri](solutions/okviri.java) | 2.0 | Easy |
