@@ -100,6 +100,7 @@ Solved: 520+
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](solutions/compoundwords.java) | 1.7 | Easy |
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](solutions/conformity.java) | 1.6 | Easy |
 | [Contingency Planning](https://open.kattis.com/problems/contingencyplanning) | [contingencyplanning](solutions/contingencyplanning.java) | 2.0 | Easy |
+| [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](solutions/conversationlog.java) | 2.9 | Medium |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [convexpolygonarea](solutions/convexpolygonarea.java) | 1.8 | Easy |
 | [Cooking Water](https://open.kattis.com/problems/cookingwater) | [cookingwater](solutions/cookingwater.java) | 2.1 | Easy |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest) | [costumecontest](solutions/costumecontest.java) | 1.9 | Easy |
