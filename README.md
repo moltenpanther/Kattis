@@ -164,6 +164,7 @@ Solved: 520+
 | [Falling Apart](https://open.kattis.com/problems/fallingapart) | [fallingapart](solutions/fallingapart.java) | 1.7 | Easy |
 | [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity](solutions/falsesecurity.java) | 2.0 | Easy |
 | [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal) | [fbiuniversal](solutions/fbiuniversal.java) | 2.2 | Easy |
+| [Ferry Loading IV](https://open.kattis.com/problems/ferryloading4) | [ferryloading4](solutions/ferryloading4.java) | 3.0 | Medium |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](solutions/fiftyshades.java) | 1.5 | Easy |
 | [Filip](https://open.kattis.com/problems/filip) | [filip](solutions/filip.java) | 1.4 | Easy |
 | [Final Exam](https://open.kattis.com/problems/finalexam2) | [finalexam2](solutions/finalexam2.java) | 1.7 | Easy |
