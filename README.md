@@ -486,6 +486,7 @@ Solved: 520+
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
+| [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](solutions/touchscreenkeyboard.java) | 2.3 | Easy |
 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](solutions/tornbygge.java) | 1.7 | Easy |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](solutions/transitwoes.java) | 1.5 | Easy |
 | [Treasure Hunt](https://open.kattis.com/problems/treasurehunt) | [treasurehunt](solutions/treasurehunt.java) | 2.7 | Easy |
