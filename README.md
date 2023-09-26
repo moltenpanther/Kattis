@@ -279,6 +279,7 @@ Solved: 520+
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](solutions/magictrick.java) | 1.4 | Easy |
 | [Making A Meowth](https://open.kattis.com/problems/makingameowth) | [makingameowth](solutions/makingameowth.java) | 1.6 | Easy |
 | [Marko](https://open.kattis.com/problems/marko) | [marko](solutions/marko.java) | 1.9 | Easy |
+| [Mars Window](https://open.kattis.com/problems/marswindow) | [marswindow](solutions/marswindow.java) | 2.4 | Easy |
 | [Math Homework](https://open.kattis.com/problems/mathhomework) | [mathhomework](solutions/mathhomework.java) | 1.9 | Easy |
 | [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
 | [Messy Lists](https://open.kattis.com/problems/stokigalistor) | [stokigalistor](solutions/stokigalistor.java) | 1.4 - 2.2 | Easy |
