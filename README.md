@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 520+
+Solved: 530+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -395,7 +395,8 @@ Solved: 520+
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](solutions/romans.java) | 1.7 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
-| [Same Digits (Easy)](https://open.kattis.com/problems/samedigitseasy) | [samedigitseasy](solutions/samedigitseasy.java) | 2.4 | Easy |
+| [Same Digits (Easy)](https://open.kattis.com/problems/samedigitseasy) | [samedigitseasy](solutions/samedigitseasy.java) | 2.1 | Easy |
+| [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard) | [samedigitshard](solutions/samedigitshard.java) | 2.5 | Easy |
 | [Sanic](https://open.kattis.com/problems/sanic) | [sanic](solutions/sanic.java) | 2.8 | Medium |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](solutions/savingdaylight.java) | 1.9 | Easy |
 | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](solutions/savingforretirement.java) | 2.0 | Easy |
