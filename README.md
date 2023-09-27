@@ -529,6 +529,7 @@ Solved: 530+
 | [Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard) | [welcomehard](solutions/welcomehard.java) | 4.4 | Easy |
 | [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [whatdoesthefoxsay](solutions/whatdoesthefoxsay.java) | 2.4 | Easy |
 | [Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall) | [wheresmywaterfall](solutions/wheresmywaterfall.java) | 3.8 | Medium |
+| [Which Base it it Anyway?](https://open.kattis.com/problems/whichbase) | [whichbase](solutions/whichbase.java) | 2.8 | Medium |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [whichisgreater](solutions/whichisgreater.java) | 1.4 | Easy |
 | [Who Wins?](https://open.kattis.com/problems/vemvinner) | [vemvinner](solutions/vemvinner.java) | 1.8 - 2.2 | Easy |
 | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [wizardofodds](solutions/wizardofodds.java) | 2.9 | Medium |
