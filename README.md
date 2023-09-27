@@ -316,6 +316,7 @@ Solved: 530+
 | [N-sum](https://open.kattis.com/problems/nsum) | [nsum](solutions/nsum.java) | 1.4 | Easy |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](solutions/numberfun.java) | 1.5 | Easy |
 | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [numbertree](solutions/numbertree.java) | 2.1 | Easy |
+| [Ocean's Anti-11](https://open.kattis.com/problems/anti11) | [anti11](solutions/anti11.java) | 2.6 | Easy |
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho](solutions/oddecho.java) | 1.3 - 1.4 | Easy |
 | [Odd Gnome](https://open.kattis.com/problems/oddgnome) | [oddgnome](solutions/oddgnome.java) | 1.8 | Easy |
 | [Oddities](https://open.kattis.com/problems/oddities) | [oddities](solutions/oddities.java) | 1.5 | Easy |
