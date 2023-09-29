@@ -309,6 +309,7 @@ Solved: 530+
 | [Nimionese](https://open.kattis.com/problems/nimionese) | [nimionese](solutions/nimionese.java) | 2.2 | Easy |
 | [Nine Knights](https://open.kattis.com/problems/nineknights) | [nineknights](solutions/nineknights.java) | 2.3 | Easy |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](solutions/nodup.java) | 1.4 | Easy |
+| [Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers) | [noonerizedspumbers](solutions/noonerizedspumbers.java) | 2.7 | Easy |
 | [Not Amused](https://open.kattis.com/problems/notamused) | [notamused](solutions/notamused.java) | 2.5 | Easy |
 | [No Thanks!](https://open.kattis.com/problems/nothanks) | [nothanks](solutions/nothanks.java) | 2.0 | Easy |
 | [NOP](https://open.kattis.com/problems/nop) | [nop](solutions/nop.java) | 2.1 | Easy |
