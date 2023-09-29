@@ -395,6 +395,7 @@ Solved: 530+
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](solutions/reversebinary.java) | 1.5 | Easy |
 | [Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](solutions/reverserot.java) | 1.7 | Easy |
 | [Rhyming Slang](https://open.kattis.com/problems/rhyming) | [rhyming](solutions/rhyming.java) | 2.8 | Medium |
+| [Rice Judge](https://open.kattis.com/problems/risdomare) | [risdomare](solutions/risdomare.java) | 2.1 - 3.2 | Medium |
 | [RijeĿi](https://open.kattis.com/problems/rijeci) | [rijeci](solutions/rijeci.java) | 1.6 | Easy |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](solutions/romans.java) | 1.7 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
