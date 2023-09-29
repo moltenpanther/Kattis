@@ -238,6 +238,7 @@ Solved: 530+
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](solutions/measurement.java) | 2.0 | Easy |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](solutions/internationaldates.java) | 1.5 | Easy |
 | [Interval Scheduling](https://open.kattis.com/problems/intervalscheduling) | [intervalscheduling](solutions/intervalscheduling.java) | 1.9 | Easy |
+| [Is It Even?](https://open.kattis.com/problems/isiteven) | [isiteven](solutions/isiteven.java) | 3.1 | Medium |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [isithalloween](solutions/isithalloween.java) | 1.4 | Easy |
 | [Islands](https://open.kattis.com/problems/islands3) | [islands3](solutions/islands3.java) | 1.7 | Easy |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](solutions/everywhere.java) | 1.4 | Easy |
