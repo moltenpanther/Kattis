@@ -154,6 +154,7 @@ Solved: 530+
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](solutions/encodedmessage.java) | 1.5 | Easy |
 | [Endurvinnsla](https://open.kattis.com/problems/endurvinnsla) | [endurvinnsla](solutions/endurvinnsla.java) | 2.3 | Easy |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [engineeringenglish](solutions/engineeringenglish.java) | 2.4 | Easy |
+| [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](solutions/enlarginghashtables.java) | 3.1 | Medium |
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [epigdanceoff](solutions/epigdanceoff.java) | 2.1 | Easy |
 | [Erase Securely](https://open.kattis.com/problems/erase) | [erase](solutions/erase.java) | 1.7 | Easy |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
