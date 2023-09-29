@@ -490,6 +490,7 @@ Solved: 530+
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](solutions/owlandfox.java) | 1.8 | Easy |
 | [The Plank](https://open.kattis.com/problems/theplank) | [theplank](solutions/theplank.java) | 1.7 - 1.8 | Easy |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.java) | 1.8 | Easy |
+| [Tic-Tac State](https://open.kattis.com/problems/tictacstate) | [tictacstate](solutions/tictacstate.java) | 2.8 | Medium |
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
