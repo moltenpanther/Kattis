@@ -1,0 +1,24 @@
+public static int gcd(int a, int b) {
+    if (a == 0) {
+        return b;           
+    }
+    
+    return gcd(b % a, a);
+}
+
+public static int findGCD(int nums[]) {
+            
+    int ans = nums[0];
+    for (int i = 1; i < nums.length; i++) {
+        
+        int num = nums[i];
+        
+        ans = gcd(ans, num);
+
+        if(ans == 1) {
+           return 1;
+        }
+    }
+
+    return ans;
+}
