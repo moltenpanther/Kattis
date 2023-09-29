@@ -297,6 +297,7 @@ Solved: 530+
 | [Moderate Pace](https://open.kattis.com/problems/moderatepace) | [moderatepace](solutions/moderatepace.java) | 1.6 | Easy |
 | [Modulo](https://open.kattis.com/problems/modulo) | [modulo](solutions/modulo.java) | 1.6 | Easy |
 | [Monopoly](https://open.kattis.com/problems/monopol) | [monopol](solutions/monopol.java) | 1.4 - 1.5 | Easy |
+| [Morse Code Palindromes](https://open.kattis.com/problems/morsecodepalindromes) | [morsecodepalindromes](solutions/morsecodepalindromes.java) | 3.1 | Medium |
 | [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [moscowdream](solutions/moscowdream.java) | 2.3 | Easy |
 | [Mosquito Multiplication](https://open.kattis.com/problems/mosquito) | [mosquito](solutions/mosquito.java) | 1.8 | Easy |
 | [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader) | [mrcodeformatgrader](solutions/mrcodeformatgrader.java) | 2.1 | Easy |
