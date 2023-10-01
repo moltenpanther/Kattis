@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 530+
+Solved: 540+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -371,6 +371,7 @@ Solved: 530+
 | [Prerequisites?](https://open.kattis.com/problems/prerequisites) | [prerequisites](solutions/prerequisites.java) | 2.1 | Easy |
 | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [primaryarithmetic](solutions/primaryarithmetic.java) | 3.0 | Medium |
 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [printingcosts](solutions/printingcosts.java) | 2.2 | Easy |
+| [Problem Classification](https://open.kattis.com/problems/problemclassification) | [problemclassification](solutions/problemclassification.java) | 3.0 | Medium |
 | [Progressive Scramble](https://open.kattis.com/problems/progressivescramble) | [progressivescramble](solutions/progressivescramble.java) | 2.1 | Easy |
 | [Proofs](https://open.kattis.com/problems/proofs) | [proofs](solutions/proofs.java) | 2.5 | Easy |
 | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [provincesandgold](solutions/provincesandgold.java) | 1.5 | Easy |
