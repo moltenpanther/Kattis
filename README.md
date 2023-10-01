@@ -19,6 +19,7 @@ Solved: 530+
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](solutions/ameriskur.java) | 1.5 - 1.6 | Easy |
+| [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [anagramcounting](solutions/anagramcounting.java) | 3.1 | Medium |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](solutions/anewalphabet.java) | 1.9 | Easy |
 | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick) | [anotherbrick](solutions/anotherbrick.java) | 2.1 | Easy |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](solutions/apaxiaaans.java) | 1.4 | Easy |
