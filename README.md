@@ -454,6 +454,7 @@ Solved: 540+
 | [Sóttkví](https://open.kattis.com/problems/sottkvi) | [sottkvi](solutions/sottkvi.java) | 2.8 | Easy |
 | [Soundex](https://open.kattis.com/problems/soundex) | [soundex](solutions/soundex.java) | 2.6 | Easy |
 | [Soylent](https://open.kattis.com/problems/soylent) | [soylent](solutions/soylent.java) | 1.7 | Easy |
+| [Space Race](https://open.kattis.com/problems/spacerace) | [spacerace](solutions/spacerace.java) | 2.3 | Easy |
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](solutions/spavanac.java) | 1.4 | Easy |
 | [Speeding](https://open.kattis.com/problems/speeding) | [speeding](solutions/speeding.java) | 1.6 | Easy |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](solutions/speedlimit.java) | 1.5 | Easy |
