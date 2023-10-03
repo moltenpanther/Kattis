@@ -95,6 +95,7 @@ Solved: 540+
 | [Climbing Worm](https://open.kattis.com/problems/climbingworm) | [climbingworm](solutions/climbingworm.java) | 2.3 | Easy |
 | [Closing the Loop](https://open.kattis.com/problems/closingtheloop) | [closingtheloop](solutions/closingtheloop.java) | 1.7 | Easy |
 | [Coconut Splat](https://open.kattis.com/problems/coconut) | [coconut](solutions/coconut.java) | 1.6 | Easy |
+| [Code Cleanups](https://open.kattis.com/problems/codecleanups) | [codecleanups](solutions/codecleanups.java) | 3.1 | Medium |
 | [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | [codetosavelives](solutions/codetosavelives.java) | 1.6 | Easy |
 | [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo) | [coffeecupcombo](solutions/coffeecupcombo.java) | 1.8 | Easy |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](solutions/cold.java) | 1.3 | Easy |
