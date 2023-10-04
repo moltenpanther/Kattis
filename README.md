@@ -107,6 +107,7 @@ Solved: 540+
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](solutions/conversationlog.java) | 2.9 | Medium |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [convexpolygonarea](solutions/convexpolygonarea.java) | 1.8 | Easy |
 | [Cooking Water](https://open.kattis.com/problems/cookingwater) | [cookingwater](solutions/cookingwater.java) | 2.1 | Easy |
+| [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization) | [cosmicpathoptimization](solutions/cosmicpathoptimization.java) | 2.0 | Easy |
 | [Costume Contest](https://open.kattis.com/problems/costumecontest) | [costumecontest](solutions/costumecontest.java) | 1.9 | Easy |
 | [Count Doubles](https://open.kattis.com/problems/countdoubles) | [countdoubles](solutions/countdoubles.java) | 2.0 | Easy |
 | [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](solutions/countingclauses.java) | 1.6 | Easy |
