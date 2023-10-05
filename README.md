@@ -178,6 +178,7 @@ Solved: 540+
 | [Finding An A](https://open.kattis.com/problems/findingana) | [findingana](solutions/findingana.java) | 1.3 | Easy |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](solutions/fizzbuzz.java) | 1.3 | Easy |
 | [Flip Flow](https://open.kattis.com/problems/flipflow) | [flipflow](solutions/flipflow.java) | 2.0 | Easy |
+| [Flying Safely](https://open.kattis.com/problems/flyingsafely) | [flyingsafely](solutions/flyingsafely.java) | 1.8 | Easy |
 | [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](solutions/forcedchoice.java) | 1.5 | Easy |
 | [Fountain](https://open.kattis.com/problems/fontan) | [fontan](solutions/fontan.java) | 2.0 | Easy |
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa) | [fifa](solutions/fifa.java) | 1.5 - 1.6 | Easy |
