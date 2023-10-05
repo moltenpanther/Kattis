@@ -536,6 +536,7 @@ Solved: 540+
 | [Video Speedup](https://open.kattis.com/problems/videospeedup) | [videospeedup](solutions/videospeedup.java) | 1.8 | Easy |
 | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur) | [vidsnuningur](solutions/vidsnuningur.java) | 2.2 | Easy |
 | [Volim](https://open.kattis.com/problems/volim) | [volim](solutions/volim.java) | 1.7 | Easy |
+| [Walrus Weights](https://open.kattis.com/problems/walrusweights) | [walrusweights](solutions/walrusweights.java) | 2.7 | Easy |
 | [Warehouse](https://open.kattis.com/problems/warehouse) | [warehouse](solutions/warehouse.java) | 2.2 | Easy |
 | [Watchdog](https://open.kattis.com/problems/watchdog) | [watchdog](solutions/watchdog.java) | 2.2 | Easy |
 | [Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone) | [hailstone](solutions/hailstone.java) | 2.6 | Easy |
