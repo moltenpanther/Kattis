@@ -242,6 +242,7 @@ Solved: 540+
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [imageprocessing](solutions/imageprocessing.java) | 2.0 | Easy |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](solutions/measurement.java) | 2.0 | Easy |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](solutions/internationaldates.java) | 1.5 | Easy |
+| [Interplanetary Tunnels](https://open.kattis.com/problems/interplanetarytunnels) | [interplanetarytunnels](solutions/interplanetarytunnels.java) | 2.4 | Easy |
 | [Interval Scheduling](https://open.kattis.com/problems/intervalscheduling) | [intervalscheduling](solutions/intervalscheduling.java) | 1.9 | Easy |
 | [Is It Even?](https://open.kattis.com/problems/isiteven) | [isiteven](solutions/isiteven.java) | 3.1 | Medium |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [isithalloween](solutions/isithalloween.java) | 1.4 | Easy |
