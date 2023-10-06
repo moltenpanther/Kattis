@@ -510,6 +510,7 @@ Solved: 550+
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
+| [Torn To Pieces](https://open.kattis.com/problems/torn2pieces) | [torn2pieces](solutions/torn2pieces.java) | 3.2 | Medium |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](solutions/touchscreenkeyboard.java) | 2.3 | Easy |
 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](solutions/tornbygge.java) | 1.7 | Easy |
 | [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [trainpassengers](solutions/trainpassengers.java) | 3.2 | Medium |
