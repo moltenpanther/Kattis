@@ -251,6 +251,7 @@ Solved: 550+
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](solutions/everywhere.java) | 1.4 | Easy |
 | [Jabuke](https://open.kattis.com/problems/jabuke) | [jabuke](solutions/jabuke.java) | 1.8 | Easy |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](solutions/jackolanternjuxtaposition.java) | 1.3 | Easy |
+| [Jane Eyre](https://open.kattis.com/problems/janeeyre) | [janeeyre](solutions/janeeyre.java) | 3.3 | Medium |
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [janitortroubles](solutions/janitortroubles.java) | 1.5 | Easy |
 | [Jazz it Up!](https://open.kattis.com/problems/jazzitup) | [jazzitup](solutions/jazzitup.java) | 2.2 | Easy |
 | [Jewelry Box](https://open.kattis.com/problems/jewelrybox) | [jewelrybox](solutions/jewelrybox.java) | 1.7 | Easy |
