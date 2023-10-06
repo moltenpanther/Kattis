@@ -517,6 +517,7 @@ Solved: 540+
 | [Tri](https://open.kattis.com/problems/tri) | [tri](solutions/tri.java) | 1.8 | Easy |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [triarea](solutions/triarea.java) | 1.4 | Easy |
 | [Trik](https://open.kattis.com/problems/trik) | [trik](solutions/trik.java) | 1.4 | Easy |
+| [Trilemma](https://open.kattis.com/problemstrilemma) | [trilemma](solutions/trilemma.java) | 3.2 | Medium |
 | [Trip Odometer](https://open.kattis.com/problems/tripodometer) | [tripodometer](solutions/tripodometer.java) | 2.2 | Easy |
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](solutions/tripletexting.java) | 1.7 | Easy |
 | [Turtle Master](https://open.kattis.com/problems/turtlemaster) | [turtlemaster](solutions/turtlemaster.java) | 2.8 | Medium |
