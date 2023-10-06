@@ -512,6 +512,7 @@ Solved: 550+
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](solutions/touchscreenkeyboard.java) | 2.3 | Easy |
 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](solutions/tornbygge.java) | 1.7 | Easy |
+| [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [trainpassengers](solutions/trainpassengers.java) | 3.2 | Medium |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](solutions/transitwoes.java) | 1.5 | Easy |
 | [Treasure Hunt](https://open.kattis.com/problems/treasurehunt) | [treasurehunt](solutions/treasurehunt.java) | 2.7 | Easy |
 | [Tri](https://open.kattis.com/problems/tri) | [tri](solutions/tri.java) | 1.8 | Easy |
