@@ -242,6 +242,7 @@ Solved: 550+
 | [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](solutions/maptiles2.java) | 1.6 | Easy |
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [imageprocessing](solutions/imageprocessing.java) | 2.0 | Easy |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](solutions/measurement.java) | 2.0 | Easy |
+| [Incognito](https://open.kattis.com/problems/incognito) | [incognito](solutions/incognito.java) | 3.3 | Medium |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](solutions/internationaldates.java) | 1.5 | Easy |
 | [Interplanetary Tunnels](https://open.kattis.com/problems/interplanetarytunnels) | [interplanetarytunnels](solutions/interplanetarytunnels.java) | 2.4 | Easy |
 | [Interval Scheduling](https://open.kattis.com/problems/intervalscheduling) | [intervalscheduling](solutions/intervalscheduling.java) | 1.9 | Easy |
