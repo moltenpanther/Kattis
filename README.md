@@ -241,6 +241,7 @@ Solved: 550+
 | [I Could Have Won](https://open.kattis.com/problems/icouldhavewon) | [icouldhavewon](solutions/icouldhavewon.java) | 3.1 | Medium |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](solutions/icpcawards.java) | 1.5 | Easy |
 | [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](solutions/maptiles2.java) | 1.6 | Easy |
+| [Image Decoding](https://open.kattis.com/problems/imagedecoding) | [imagedecoding](solutions/imagedecoding.java) | 3.3 | Medium |
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [imageprocessing](solutions/imageprocessing.java) | 2.0 | Easy |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](solutions/measurement.java) | 2.0 | Easy |
 | [Incognito](https://open.kattis.com/problems/incognito) | [incognito](solutions/incognito.java) | 3.3 | Medium |
