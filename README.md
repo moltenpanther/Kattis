@@ -552,6 +552,7 @@ Solved: 550+
 | [Weak Vertices](https://open.kattis.com/problems/weakvertices) | [weakvertices](solutions/weakvertices.java) | 1.5 | Easy |
 | [Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy) | [welcomeeasy](solutions/welcomeeasy.java) | 2.2 | Easy |
 | [Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard) | [welcomehard](solutions/welcomehard.java) | 4.4 | Easy |
+| [WERTYU](https://open.kattis.com/problems/wertyu) | [wertyu](solutions/wertyu.java) | 3.3 | Medium |
 | [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [whatdoesthefoxsay](solutions/whatdoesthefoxsay.java) | 2.4 | Easy |
 | [Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall) | [wheresmywaterfall](solutions/wheresmywaterfall.java) | 3.8 | Medium |
 | [Which Base it it Anyway?](https://open.kattis.com/problems/whichbase) | [whichbase](solutions/whichbase.java) | 2.8 | Medium |
