@@ -352,6 +352,7 @@ Solved: 550+
 | [Parking](https://open.kattis.com/problems/parking) | [parking](solutions/parking.java) | 2.3 | Easy |
 | [Parking](https://open.kattis.com/problems/parking2) | [parking2](solutions/parking2.java) | 1.5 | Easy |
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](solutions/parsinghex.java) | 2.8 | Medium |
+| [Pascal](https://open.kattis.com/problems/pascal) | [pascal](solutions/pascal.java) | 3.3 | Medium |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [patuljci](solutions/patuljci.java) | 1.8 | Easy |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](solutions/pauleigon.java) | 1.8 | Easy |
 | [Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon) | [peachpowderpolygon](solutions/peachpowderpolygon.java) | 1.9 | Easy |
