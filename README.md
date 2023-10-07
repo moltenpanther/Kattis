@@ -112,6 +112,7 @@ Solved: 550+
 | [Count Doubles](https://open.kattis.com/problems/countdoubles) | [countdoubles](solutions/countdoubles.java) | 2.0 | Easy |
 | [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](solutions/countingclauses.java) | 1.6 | Easy |
 | [Counting Days](https://open.kattis.com/problems/countingdays) | [countingdays](solutions/countingdays.java) | 2.6 | Easy |
+| [Counting Stars](https://open.kattis.com/problems/countingstars) | [countingstars](solutions/countingstars.java) | 3.3 | Medium |
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [countthevowels](solutions/countthevowels.java) | 1.3 | Easy |
 | [Course Scheduling](https://open.kattis.com/problems/coursescheduling) | [coursescheduling](solutions/coursescheduling.java) | 1.8 | Easy |
 | [Cpr-nummer](https://open.kattis.com/problems/cprnummer) | [cprnummer](solutions/cprnummer.java) | 1.4 | Easy |
