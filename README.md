@@ -6,8 +6,8 @@ Solved: 560+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
-| [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [1dfroggereasy](solutions/onedfroggereasy.java) | 3.5 | Easy |
-| [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.7 | Easy |
+| [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [1dfroggereasy](solutions/onedfroggereasy.java) | 3.5 | Medium |
+| [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.9 | Medium |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](solutions/aaah.java) | 1.8 | Easy |
 | [ABC](https://open.kattis.com/problems/abc) | [abc](solutions/abc.java) | 2.1 | Easy |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [aboveaverage](solutions/aboveaverage.java) | 2.2 | Easy |
