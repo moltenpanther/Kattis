@@ -86,6 +86,7 @@ Solved: 560+
 | [Character Development](https://open.kattis.com/problems/character) | [character](solutions/character.java) | 2.3 | Easy |
 | [Charged](https://open.kattis.com/problems/charged) | [charged](solutions/charged.java) | 2.1 | Easy |
 | [Charting Progress](https://open.kattis.com/problems/chartingprogress) | [chartingprogress](solutions/chartingprogress.java) | 2.0 | Easy |
+| [Chess](https://open.kattis.com/problems/chess) | [chess](solutions/chess.java) | 3.3 | Medium |
 | [Chocolate Division](https://open.kattis.com/problems/chocolatedivision) | [chocolatedivision](solutions/chocolatedivision.java) | 1.9 | Easy |
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [circuitmath](solutions/circuitmath.java) | 2.0 | Easy |
 | [Cinema Crowds](https://open.kattis.com/problems/cinema) | [cinema](solutions/cinema.java) | 2.2 | Easy |
