@@ -226,6 +226,7 @@ Solved: 560+
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [helpaphd](solutions/helpaphd.java) | 1.6 | Easy |
 | [Help Me With The Game](https://open.kattis.com/problems/helpme) | [helpme](solutions/helpme.java) | 2.8 | Medium |
 | [Herman](https://open.kattis.com/problems/herman) | [herman](solutions/herman.java) | 1.6 | Easy |
+| [Heroes of Velmar](https://open.kattis.com/problems/heroesofvelmar) | [heroesofvelmar](solutions/heroesofvelmar.java) | 1.9 | Easy |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [hidden](solutions/hidden.java) | 2.5 | Easy |
 | [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces](solutions/hidingplaces.java) | 1.7 | Easy |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](solutions/hissingmicrophone.java) | 1.4 | Easy |
