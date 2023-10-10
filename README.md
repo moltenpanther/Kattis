@@ -128,6 +128,7 @@ Solved: 560+
 | [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | [cutthenegativity](solutions/cutthenegativity.java) | 1.4 | Easy |
 | [Cypher Decypher](https://open.kattis.com/problems/cypherdecypher) | [cypherdecypher](solutions/cypherdecypher.java) | 1.8 | Easy |
 | [Damaged Equation](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.3 | Easy |
+| [Dart Scores](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.4 | Easy |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](solutions/dasblinkenlights.java) | 1.8 | Easy |
 | [Datum](https://open.kattis.com/problems/datum) | [datum](solutions/datum.java) | 1.4 | Easy |
 | [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](solutions/deathknight.java) | 1.6 | Easy |
@@ -520,6 +521,7 @@ Solved: 560+
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.java) | 1.8 | Easy |
 | [Tic-Tac State](https://open.kattis.com/problems/tictacstate) | [tictacstate](solutions/tictacstate.java) | 2.8 | Medium |
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
+| [Time Travelling Temperatures](https://open.kattis.com/problems/temperature) | [temperature](solutions/temperature.java) | 2.2 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
 | [Torn To Pieces](https://open.kattis.com/problems/torn2pieces) | [torn2pieces](solutions/torn2pieces.java) | 3.2 | Medium |
