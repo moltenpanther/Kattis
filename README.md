@@ -95,6 +95,7 @@ Solved: 560+
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [classfieldtrip](solutions/classfieldtrip.java) | 1.4 | Easy |
 | [Climbing Worm](https://open.kattis.com/problems/climbingworm) | [climbingworm](solutions/climbingworm.java) | 2.3 | Easy |
 | [Closing the Loop](https://open.kattis.com/problems/closingtheloop) | [closingtheloop](solutions/closingtheloop.java) | 1.7 | Easy |
+| [Coast Length](https://open.kattis.com/problems/coast) | [coast](solutions/coast.java) | 3.3 | Medium |
 | [Coconut Splat](https://open.kattis.com/problems/coconut) | [coconut](solutions/coconut.java) | 1.6 | Easy |
 | [Code Cleanups](https://open.kattis.com/problems/codecleanups) | [codecleanups](solutions/codecleanups.java) | 3.1 | Medium |
 | [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | [codetosavelives](solutions/codetosavelives.java) | 1.6 | Easy |
