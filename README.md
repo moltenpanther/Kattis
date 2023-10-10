@@ -358,6 +358,7 @@ Solved: 560+
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](solutions/parsinghex.java) | 2.8 | Medium |
 | [Pascal](https://open.kattis.com/problems/pascal) | [pascal](solutions/pascal.java) | 3.3 | Medium |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [patuljci](solutions/patuljci.java) | 1.8 | Easy |
+| [Path Tracing](https://open.kattis.com/problems/pathtracing) | [pathtracing](solutions/pathtracing.java) | 3.3 | Medium |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](solutions/pauleigon.java) | 1.8 | Easy |
 | [Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon) | [peachpowderpolygon](solutions/peachpowderpolygon.java) | 1.9 | Easy |
 | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [peasoup](solutions/peasoup.java) | 3.0 | Medium |
