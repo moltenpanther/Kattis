@@ -71,6 +71,7 @@ Solved: 560+
 | [Bracket Matching](https://open.kattis.com/problems/bracketmatching) | [bracketmatching](solutions/bracketmatching.java) | 1.7 | Easy |
 | [Breaking Branches](https://open.kattis.com/problems/breakingbranches) | [breakingbranches](solutions/breakingbranches.java) | 1.6 | Easy |
 | [Broken Calculator](https://open.kattis.com/problems/brokencalculator) | [brokencalculator](solutions/brokencalculator.java) | 2.7 | Easy |
+| [Broken Swords](https://open.kattis.com/problems/brokenswords) | [brokenswords](solutions/brokenswords.java) | 1.9 | Easy |
 | [Building Highways](https://open.kattis.com/problems/buildinghighways) | [buildinghighways](solutions/buildinghighways.java) | 1.2 - 1.7 | Easy |
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](solutions/pyramids.java) | 1.4 - 1.5 | Easy |
 | [Buka](https://open.kattis.com/problems/buka) | [buka](solutions/buka.java) | 2.0 | Easy |
