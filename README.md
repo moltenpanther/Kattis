@@ -309,6 +309,7 @@ Solved: 560+
 | [Mia](https://open.kattis.com/problems/mia) | [mia](solutions/mia.java) | 2.1 | Easy |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [mirror](solutions/mirror.java) | 1.8 | Easy |
 | [Misa](https://open.kattis.com/problems/misa) | [misa](solutions/misa.java) | 2.0 | Easy |
+| [Missing Number](https://open.kattis.com/problems/missingnumber) | [missingnumber](solutions/missingnumber.java) | 3.3 | Medium |
 | [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](solutions/missingnumbers.java) | 1.7 | Easy |
 | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](solutions/mixedfractions.java) | 1.6 | Easy |
 | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [mjehuric](solutions/mjehuric.java) | 1.7 | Easy |
