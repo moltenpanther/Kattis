@@ -18,6 +18,7 @@ Solved: 570+
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](solutions/addtwonumbers.java) | 1.3 | Easy |
 | [A Different Problem](https://open.kattis.com/problems/different) | [different](solutions/different.java) | 2.7 | Easy |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
+| [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [alphabetspam](solutions/alphabetspam.java) | 3.9 | Medium |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](solutions/ameriskur.java) | 1.5 - 1.6 | Easy |
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [anagramcounting](solutions/anagramcounting.java) | 3.1 | Medium |
