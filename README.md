@@ -201,6 +201,7 @@ Solved: 560+
 | [GCVWR](https://open.kattis.com/problems/gcvwr) | [gcvwr](solutions/gcvwr.java) | 1.4 | Easy |
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](solutions/gerrymandering.java) | 1.6 | Easy |
 | [Ghost Leg](https://open.kattis.com/problems/ghostleg) | [ghostleg](solutions/ghostleg.java) | 1.4 | Easy |
+| [GlitchBot](https://open.kattis.com/problems/glitchbot) | [glitchbot](solutions/glitchbot.java) | 2.0 | Easy |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](solutions/goatrope.java) | 1.6 | Easy |
 | [Good Morning!](https://open.kattis.com/problems/goodmorning) | [goodmorning](solutions/goodmorning.java) | 2.8 | Medium |
 | [Goomba Stacks](https://open.kattis.com/problems/goombastacks) | [goombastacks](solutions/goombastacks.java) | 1.4 | Easy |
