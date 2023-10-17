@@ -250,6 +250,7 @@ Solved: 570+
 | [I Could Have Won](https://open.kattis.com/problems/icouldhavewon) | [icouldhavewon](solutions/icouldhavewon.java) | 3.1 | Medium |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](solutions/icpcawards.java) | 1.5 | Easy |
 | [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](solutions/maptiles2.java) | 1.6 | Easy |
+| [I Hate The Number Nine](https://open.kattis.com/problems/nine) | [nine](solutions/nine.java) | 3.2 | Medium |
 | [Image Decoding](https://open.kattis.com/problems/imagedecoding) | [imagedecoding](solutions/imagedecoding.java) | 3.3 | Medium |
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [imageprocessing](solutions/imageprocessing.java) | 2.0 | Easy |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](solutions/measurement.java) | 2.0 | Easy |
