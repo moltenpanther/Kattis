@@ -333,6 +333,7 @@ Solved: 570+
 | [Natrij](https://open.kattis.com/problems/natrij) | [natrij](solutions/natrij.java) | 3.1 | Medium |
 | [Nimionese](https://open.kattis.com/problems/nimionese) | [nimionese](solutions/nimionese.java) | 2.2 | Easy |
 | [Nine Knights](https://open.kattis.com/problems/nineknights) | [nineknights](solutions/nineknights.java) | 2.3 | Easy |
+| [Ninety-nine](https://open.kattis.com/problems/ninetynine) | [ninetynine](solutions/ninetynine.java) | 1.2 - 3.5 | Medium |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](solutions/nodup.java) | 1.4 | Easy |
 | [Noonerized Spumbers](https://open.kattis.com/problems/noonerizedspumbers) | [noonerizedspumbers](solutions/noonerizedspumbers.java) | 2.7 | Easy |
 | [Not Amused](https://open.kattis.com/problems/notamused) | [notamused](solutions/notamused.java) | 2.5 | Easy |
