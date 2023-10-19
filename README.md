@@ -355,6 +355,7 @@ Solved: 570+
 | [Okviri](https://open.kattis.com/problems/okviri) | [okviri](solutions/okviri.java) | 2.0 | Easy |
 | [Older Brother](https://open.kattis.com/problems/olderbrother) | [olderbrother](solutions/olderbrother.java) | 3.1 | Medium |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](solutions/onechicken.java) | 1.9 | Easy |
+| [Open Source](https://open.kattis.com/problems/opensource) | [opensource](solutions/opensource.java) | 3.6 | Medium |
 | [Ordinals](https://open.kattis.com/problems/ordinals) | [ordinals](solutions/ordinals.java) | 1.7 | Easy |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [ostgotska](solutions/ostgotska.java) | 1.7 | Easy |
 | [Overdraft](https://open.kattis.com/problems/overdraft) | [overdraft](solutions/overdraft.java) | 2.0 | Easy |
