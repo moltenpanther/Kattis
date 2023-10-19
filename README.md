@@ -323,6 +323,7 @@ Solved: 570+
 | [Morse Code Palindromes](https://open.kattis.com/problems/morsecodepalindromes) | [morsecodepalindromes](solutions/morsecodepalindromes.java) | 3.1 | Medium |
 | [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [moscowdream](solutions/moscowdream.java) | 2.3 | Easy |
 | [Mosquito Multiplication](https://open.kattis.com/problems/mosquito) | [mosquito](solutions/mosquito.java) | 1.8 | Easy |
+| [Mountain Biking](https://open.kattis.com/problems/mountainbiking) | [mountainbiking](solutions/mountainbiking.java) | 3.1 | Medium |
 | [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader) | [mrcodeformatgrader](solutions/mrcodeformatgrader.java) | 2.1 | Easy |
 | [Mult!](https://open.kattis.com/problems/mult) | [mult](solutions/mult.java) | 1.7 | Easy |
 | [Mumble Rap](https://open.kattis.com/problems/mumblerap) | [mumblerap](solutions/mumblerap.java) | 1.5 - 1.7 | Easy |
