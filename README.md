@@ -518,6 +518,7 @@ Solved: 570+
 | [Test Drive](https://open.kattis.com/problems/testdrive) | [testdrive](solutions/testdrive.java) | 1.9 | Easy |
 | [Tetration](https://open.kattis.com/problems/tetration) | [tetration](solutions/tetration.java) | 1.6 | Easy |
 | [Tetris](https://open.kattis.com/problems/tetris) | [tetris](solutions/tetris.java) | 1.8 | Easy |
+| [Text Encryption](https://open.kattis.com/problems/textencryption) | [textencryption](solutions/textencryption.java) | 3.4 | Medium |
 | [Thank God it's Friday](https://open.kattis.com/problems/tgif) | [tgif](solutions/tgif.java) | 3.2 | Medium |
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](solutions/humancannonball2.java) | 1.6 | Easy |
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [thebackslashproblem](solutions/thebackslashproblem.java) | 2.3 | Easy |
