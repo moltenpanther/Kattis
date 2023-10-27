@@ -552,6 +552,7 @@ Solved: 580+
 | [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](solutions/twosum.java) | 1.4 | Easy |
 | [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff) | [ullendullendoff](solutions/ullendullendoff.java) | 2.2 - 2.4 | Easy |
 | [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](solutions/ultimatebinarywatch.java) | 1.7 | Easy |
+| [Umm Code](https://open.kattis.com/problems/ummcode) | [ummcode](solutions/ummcode.java) | 3.4 | Medium |
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](solutions/zoo.java) | 1.8 | Easy |
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [undeadoralive](solutions/undeadoralive.java) | 1.4 | Easy |
 | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [unlockpattern](solutions/unlockpattern.java) | 1.7 | Easy |
