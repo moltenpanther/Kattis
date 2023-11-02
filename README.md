@@ -542,6 +542,7 @@ Solved: 580+
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
 | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature) | [temperature](solutions/temperature.java) | 2.2 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
+| [Toilet Seat](https://open.kattis.com/problems/toilet) | [toilet](solutions/toilet.java) | 2.4 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
 | [Torn To Pieces](https://open.kattis.com/problems/torn2pieces) | [torn2pieces](solutions/torn2pieces.java) | 3.2 | Medium |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](solutions/touchscreenkeyboard.java) | 2.3 | Easy |
