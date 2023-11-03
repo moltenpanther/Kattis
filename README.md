@@ -153,6 +153,7 @@ Solved: 590+
 | [Drinking Song](https://open.kattis.com/problems/drinkingsong) | [drinkingsong](solutions/drinkingsong.java) | 2.3 | Easy |
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [drmmessages](solutions/drmmessages.java) | 1.5 | Easy |
 | [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere) | [drunkvigenere](solutions/drunkvigenere.java) | 1.6 | Easy |
+| [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](solutions/dyslectionary.java) | 3.5 | Medium |
 | [Early Winter](https://open.kattis.com/problems/earlywinter) | [earlywinter](solutions/earlywinter.java) | 1.7 | Easy |
 | [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone) | [saxophone](solutions/saxophone.java) | 2.1 | Easy |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [echoechoecho](solutions/echoechoecho.java) | 1.3 | Easy |
