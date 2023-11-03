@@ -30,6 +30,7 @@ Solved: 590+
 | [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2) | [rationalsequence2](solutions/rationalsequence2.java) | 1.6 | Easy |
 | [A Rational Sequence (Take 3)](https://open.kattis.com/problems/rationalsequence3) | [rationalsequence3](solutions/rationalsequence3.java) | 1.7 | Easy |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [areal](solutions/areal.java) | 1.7 | Easy |
+| [Are You Listening?](https://open.kattis.com/problems/areyoulistening) | [areyoulistening](solutions/areyoulistening.java) | 2.4 | Easy |
 | [Arithmetic Decoding](https://open.kattis.com/problems/arithmeticdecoding) | [arithmeticdecoding](solutions/arithmeticdecoding.java) | 2.4 | Easy |
 | [Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions) | [arithmeticfunctions](solutions/arithmeticfunctions.java) | 1.6 | Easy |
 | [Arm Coordination](https://open.kattis.com/problems/armcoordination) | [armcoordination](solutions/armcoordination.java) | 1.7 | Easy |
