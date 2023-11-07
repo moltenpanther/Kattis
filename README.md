@@ -24,6 +24,7 @@ Solved: 590+
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [anagramcounting](solutions/anagramcounting.java) | 3.1 | Medium |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](solutions/anewalphabet.java) | 1.9 | Easy |
 | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick) | [anotherbrick](solutions/anotherbrick.java) | 2.1 | Easy |
+| [Anti-Palindromel](https://open.kattis.com/problems/antipalindrome) | [antipalindrome](solutions/antipalindrome.java) | 1.7 | Easy |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](solutions/apaxiaaans.java) | 1.4 | Easy |
 | [A Rank Problem](https://open.kattis.com/problems/rankproblem) | [rankproblem](solutions/rankproblem.java) | 2.3 | Easy |
 | [A Rational Sequence](https://open.kattis.com/problems/rationalsequence) | [rationalsequence](solutions/rationalsequence.java) | 4.9 | Medium |
