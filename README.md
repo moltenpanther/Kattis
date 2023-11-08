@@ -303,6 +303,7 @@ Solved: 590+
 | [Ladder](https://open.kattis.com/problems/ladder) | [ladder](solutions/ladder.java) | 1.5 | Easy |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](solutions/laptopsticker.java) | 1.5 | Easy |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](solutions/lastfactorialdigit.java) | 1.5 | Easy |
+| [Last Minute](https://open.kattis.com/problems/lastminute) | [lastminute](solutions/lastminute.java) | 2.3 | Easy |
 | [Lawn Mower](https://open.kattis.com/problems/lawnmower) | [lawnmower](solutions/lawnmower.java) | 2.0 | Easy |
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [leftbeehind](solutions/leftbeehind.java) | 1.7 | Easy |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [leggjasaman](solutions/leggjasaman.java) | 1.4 | Easy |
