@@ -197,6 +197,7 @@ Solved: 600+
 | [Finding An A](https://open.kattis.com/problems/findingana) | [findingana](solutions/findingana.java) | 1.3 | Easy |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](solutions/fizzbuzz.java) | 1.3 | Easy |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz2) | [fizzbuzz2](solutions/fizzbuzz2.java) | 3.1 | Medium |
+| [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla) | [flatbokuveisla](solutions/flatbokuveisla.java) | 1.4 | Easy |
 | [Flip Flow](https://open.kattis.com/problems/flipflow) | [flipflow](solutions/flipflow.java) | 2.0 | Easy |
 | [Flying Safely](https://open.kattis.com/problems/flyingsafely) | [flyingsafely](solutions/flyingsafely.java) | 1.8 | Easy |
 | [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](solutions/forcedchoice.java) | 1.5 | Easy |
