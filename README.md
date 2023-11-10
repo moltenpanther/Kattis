@@ -18,6 +18,7 @@ Solved: 600+
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](solutions/addtwonumbers.java) | 1.3 | Easy |
 | [A Different Problem](https://open.kattis.com/problems/different) | [different](solutions/different.java) | 2.7 | Easy |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
+| [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | [aleidibio](solutions/aleidibio.java) | 1.4 | Easy |
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [alphabetspam](solutions/alphabetspam.java) | 3.9 | Medium |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](solutions/ameriskur.java) | 1.5 - 1.6 | Easy |
@@ -553,6 +554,7 @@ Solved: 600+
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
 | [Toilet Seat](https://open.kattis.com/problems/toilet) | [toilet](solutions/toilet.java) | 2.4 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
+| [Tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | [tolvunarfraedingartelja](solutions/tolvunarfraedingartelja.java) | 1.2 | Easy |
 | [Torn To Pieces](https://open.kattis.com/problems/torn2pieces) | [torn2pieces](solutions/torn2pieces.java) | 3.2 | Medium |
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](solutions/touchscreenkeyboard.java) | 2.3 | Easy |
 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](solutions/tornbygge.java) | 1.7 | Easy |
