@@ -200,6 +200,7 @@ Solved: 600+
 | [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla) | [flatbokuveisla](solutions/flatbokuveisla.java) | 1.4 | Easy |
 | [Flip Flow](https://open.kattis.com/problems/flipflow) | [flipflow](solutions/flipflow.java) | 2.0 | Easy |
 | [Flying Safely](https://open.kattis.com/problems/flyingsafely) | [flyingsafely](solutions/flyingsafely.java) | 1.8 | Easy |
+| [Flýtibaka](https://open.kattis.com/problems/flytibaka) | [flytibaka](solutions/flytibaka.java) | 1.7 | Easy |
 | [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](solutions/forcedchoice.java) | 1.5 | Easy |
 | [Fountain](https://open.kattis.com/problems/fontan) | [fontan](solutions/fontan.java) | 2.0 | Easy |
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa) | [fifa](solutions/fifa.java) | 1.5 - 1.6 | Easy |
