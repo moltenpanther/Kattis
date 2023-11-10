@@ -329,6 +329,7 @@ Solved: 600+
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](solutions/methodicmultiplication.java) | 1.6 | Easy |
 | [Metronome](https://open.kattis.com/problems/metronome) | [metronome](solutions/metronome.java) | 1.3 | Easy |
 | [Mia](https://open.kattis.com/problems/mia) | [mia](solutions/mia.java) | 2.1 | Easy |
+| [Millifærsla](https://open.kattis.com/problems/millifaersla) | [millifaersla](solutions/millifaersla.java) | 1.5 | Easy |
 | [Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar) | [minimumscalar](solutions/minimumscalar.java) | 2.0 | Easy |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [mirror](solutions/mirror.java) | 1.8 | Easy |
 | [Misa](https://open.kattis.com/problems/misa) | [misa](solutions/misa.java) | 2.0 | Easy |
