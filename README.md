@@ -40,6 +40,7 @@ Solved: 600+
 | [Army Strength (Hard)](https://open.kattis.com/problems/armystrengthhard) | [armystrengthhard](solutions/armystrengthhard.java) | 2.1 | Easy |
 | [Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](solutions/upprodun.java) | 1.2 - 1.6 | Easy |
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [asciiaddition](solutions/asciiaddition.java) | 2.0 | Easy |
+| [ASCII kassi](https://open.kattis.com/problems/asciikassi) | [asciikassi](solutions/asciikassi.java) | 1.7 - 1.8 | Easy |
 | [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [astrologicalsign](solutions/astrologicalsign.java) | 2.2 | Easy |
 | [Attendance](https://open.kattis.com/problems/attendance2) | [attendance2](solutions/attendance2.java) | 2.0 | Easy |
 | [Atlogur](https://open.kattis.com/problems/atlogur) | [atlogur](solutions/atlogur.java) | 1.9 | Easy |
