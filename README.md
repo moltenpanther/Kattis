@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 600+
+Solved: 610+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -167,6 +167,7 @@ Solved: 600+
 | [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](solutions/eenymeeny.java) | 1.8 | Easy |
 | [Egypt](https://open.kattis.com/problems/egypt) | [egypt](solutions/egypt.java) | 2.1 | Easy |
 | [Eight Queens](https://open.kattis.com/problems/8queens) | [eightqueens](solutions/eightqueens.java) | 2.9 | Medium |
+| [Eiginnofn](https://open.kattis.com/problems/eiginnofn) | [eiginnofn](solutions/eiginnofn.java) | 1.6 - 2.2 | Easy |
 | [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi) | [ekkidaudi](solutions/ekkidaudi.java) | 1.7 - 2.0 | Easy |
 | [Election](https://open.kattis.com/problems/election2) | [election2](solutions/election2.java) | 2.6 | Easy |
 | [Election Paradox](https://open.kattis.com/problems/electionparadox) | [electionparadox](solutions/electionparadox.java) | 1.7 | Easy |
@@ -486,6 +487,7 @@ Solved: 600+
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [simplicity](solutions/simplicity.java) | 2.8 | Medium |
 | [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
+| [Skammstöfun](https://open.kattis.com/problems/skammstofun) | [skammstofun](solutions/skammstofun.java) | 1.7 - 2.0 | Easy |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [skocimis](solutions/skocimis.java) | 1.6 | Easy |
 | [Skru op!](https://open.kattis.com/problems/skruop) | [skruop](solutions/skruop.java) | 1.3 - 1.5 | Easy |
