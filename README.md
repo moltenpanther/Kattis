@@ -420,6 +420,7 @@ Solved: 600+
 | [Prerequisites?](https://open.kattis.com/problems/prerequisites) | [prerequisites](solutions/prerequisites.java) | 2.1 | Easy |
 | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [primaryarithmetic](solutions/primaryarithmetic.java) | 3.0 | Medium |
 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [printingcosts](solutions/printingcosts.java) | 2.2 | Easy |
+| [Prjónamynstur](https://open.kattis.com/problems/prjonamynstur) | [prjonamynstur](solutions/prjonamynstur.java) | 1.8 - 2.1 | Easy |
 | [Problem Classification](https://open.kattis.com/problems/problemclassification) | [problemclassification](solutions/problemclassification.java) | 3.0 | Medium |
 | [Progressive Scramble](https://open.kattis.com/problems/progressivescramble) | [progressivescramble](solutions/progressivescramble.java) | 2.1 | Easy |
 | [Proofs](https://open.kattis.com/problems/proofs) | [proofs](solutions/proofs.java) | 2.5 | Easy |
@@ -575,6 +576,7 @@ Solved: 600+
 | [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](solutions/twosum.java) | 1.4 | Easy |
 | [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff) | [ullendullendoff](solutions/ullendullendoff.java) | 2.2 - 2.4 | Easy |
 | [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](solutions/ultimatebinarywatch.java) | 1.7 | Easy |
+| [Umferð](https://open.kattis.com/problems/umferd) | [umferd](solutions/umferd.java) | 1.4 - 2.0 | Easy |
 | [Umm Code](https://open.kattis.com/problems/ummcode) | [ummcode](solutions/ummcode.java) | 3.4 | Medium |
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](solutions/zoo.java) | 1.8 | Easy |
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [undeadoralive](solutions/undeadoralive.java) | 1.4 | Easy |
