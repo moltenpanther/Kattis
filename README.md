@@ -181,6 +181,7 @@ Solved: 610+
 | [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](solutions/enlarginghashtables.java) | 3.1 | Medium |
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [epigdanceoff](solutions/epigdanceoff.java) | 2.1 | Easy |
 | [Erase Securely](https://open.kattis.com/problems/erase) | [erase](solutions/erase.java) | 1.7 | Easy |
+| [Espresso!](https://open.kattis.com/problems/espresso) | [espresso](solutions/espresso.java) | 2.3 | Easy |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
 | [Evening Out 1](https://open.kattis.com/problems/eveningout1) | [eveningout1](solutions/eveningout1.java) | 2.5 | Easy |
