@@ -318,6 +318,7 @@ Solved: 610+
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
 | [Liquid Assets](https://open.kattis.com/problems/liquidassets) | [liquidassets](solutions/liquidassets.java) | 3.3 | Medium |
+| [Locust Locus](https://open.kattis.com/problems/locustlocus) | [locustlocus](solutions/locustlocus.java) | 1.9 | Easy |
 | [Logic Functions](https://open.kattis.com/problems/logicfunctions) | [logicfunctions](solutions/logicfunctions.cpp) | 1.5 | Easy |
 | [Loo Rolls](https://open.kattis.com/problems/loorolls) | [loorolls](solutions/loorolls.java) | 1.7 | Easy |
 | [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](solutions/lostlineup.java) | 1.6 | Easy |
