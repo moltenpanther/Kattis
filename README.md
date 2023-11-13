@@ -202,6 +202,7 @@ Solved: 610+
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz2) | [fizzbuzz2](solutions/fizzbuzz2.java) | 3.1 | Medium |
 | [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla) | [flatbokuveisla](solutions/flatbokuveisla.java) | 1.4 | Easy |
 | [Flip Flow](https://open.kattis.com/problems/flipflow) | [flipflow](solutions/flipflow.java) | 2.0 | Easy |
+| [Flow Layout](https://open.kattis.com/problems/flowlayout) | [flowlayout](solutions/flowlayout.java) | 1.9 | Easy |
 | [Flying Safely](https://open.kattis.com/problems/flyingsafely) | [flyingsafely](solutions/flyingsafely.java) | 1.8 | Easy |
 | [Flýtibaka](https://open.kattis.com/problems/flytibaka) | [flytibaka](solutions/flytibaka.java) | 1.7 | Easy |
 | [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](solutions/forcedchoice.java) | 1.5 | Easy |
