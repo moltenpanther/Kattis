@@ -323,6 +323,7 @@ Solved: 610+
 | [Logic Functions](https://open.kattis.com/problems/logicfunctions) | [logicfunctions](solutions/logicfunctions.cpp) | 1.5 | Easy |
 | [Loo Rolls](https://open.kattis.com/problems/loorolls) | [loorolls](solutions/loorolls.java) | 1.7 | Easy |
 | [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](solutions/lostlineup.java) | 1.6 | Easy |
+| [Lost Map](https://open.kattis.com/problems/lostmap) | [lostmap](solutions/lostmap.java) | 1.8 | Easy |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](solutions/luhnchecksum.java) | 1.8 | Easy |
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](solutions/magictrick.java) | 1.4 | Easy |
 | [Making A Meowth](https://open.kattis.com/problems/makingameowth) | [makingameowth](solutions/makingameowth.java) | 1.6 | Easy |
