@@ -417,6 +417,7 @@ Solved: 610+
 | [Planina](https://open.kattis.com/problems/planina) | [planina](solutions/planina.java) | 1.4 | Easy |
 | [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](solutions/plantingtrees.java) | 1.8 | Easy |
 | [Plants vs Bad Guys](https://open.kattis.com/problems/pvbg) | [pvbg](solutions/pvbg.java) | 1.4 - 1.7 | Easy |
+| [Playfair Cipher](https://open.kattis.com/problems/playfair) | [playfair](solutions/playfair.java) | 2.9 | Medium |
 | [Pokechat](https://open.kattis.com/problems/pokechat) | [pokechat](solutions/pokechat.java) | 1.4 | Easy |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](solutions/pokerhand.java) | 1.5 | Easy |
 | [Polynomial Multiplication 1](https://open.kattis.com/problems/polymul1) | [polymul1](solutions/polymul1.java) | 1.9 | Easy |
