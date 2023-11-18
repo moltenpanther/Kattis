@@ -519,6 +519,7 @@ Solved: 610+
 | [Speeding](https://open.kattis.com/problems/speeding) | [speeding](solutions/speeding.java) | 1.6 | Easy |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](solutions/speedlimit.java) | 1.5 | Easy |
 | [Speedrun](https://open.kattis.com/problems/speedrun) | [speedrun](solutions/speedrun.java) | 2.3 | Easy |
+| [Speedrunning](https://open.kattis.com/problems/speedrunning) | [speedrunning](solutions/speedrunning) | 3.2 | Medium |
 | [Spelling Bee](https://open.kattis.com/problems/spellingbee) | [spellingbee](solutions/spellingbee.java) | 2.0 | Easy |
 | [Splat](https://open.kattis.com/problems/splat) | [splat](solutions/splat.java) | 2.5 | Easy |
 | [Spritt](https://open.kattis.com/problems/spritt) | [spritt](solutions/spritt.java) | 1.9 | Easy |
