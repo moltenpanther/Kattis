@@ -271,6 +271,7 @@ Solved: 620+
 | [I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure) | [guessthedatastructure](solutions/guessthedatastructure.java) | 3.0 | Medium |
 | [I Could Have Won](https://open.kattis.com/problems/icouldhavewon) | [icouldhavewon](solutions/icouldhavewon.java) | 3.1 | Medium |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](solutions/icpcawards.java) | 1.5 | Easy |
+| [ICPC Tutorial](https://open.kattis.com/problems/tutorial) | [tutorial](solutions/tutorial.java) | 3.5 | Medium |
 | [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](solutions/maptiles2.java) | 1.6 | Easy |
 | [I Hate The Number Nine](https://open.kattis.com/problems/nine) | [nine](solutions/nine.java) | 3.2 | Medium |
 | [I'm Thinking of a Number](https://open.kattis.com/problems/thinkingofanumber) | [thinkingofanumber](solutions/thinkingofanumber.java) | 3.4 | Medium |
