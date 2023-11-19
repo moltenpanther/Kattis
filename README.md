@@ -585,6 +585,7 @@ Solved: 620+
 | [Trilemma](https://open.kattis.com/problemstrilemma) | [trilemma](solutions/trilemma.java) | 3.2 | Medium |
 | [Trip Odometer](https://open.kattis.com/problems/tripodometer) | [tripodometer](solutions/tripodometer.java) | 2.2 | Easy |
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](solutions/tripletexting.java) | 1.7 | Easy |
+| [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [trollhunt](solutions/trollhunt.java) | 2.6 | Easy |
 | [Turtle Master](https://open.kattis.com/problems/turtlemaster) | [turtlemaster](solutions/turtlemaster.java) | 2.8 | Medium |
 | [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](solutions/twosum.java) | 1.4 | Easy |
 | [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff) | [ullendullendoff](solutions/ullendullendoff.java) | 2.2 - 2.4 | Easy |
