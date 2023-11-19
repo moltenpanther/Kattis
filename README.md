@@ -64,6 +64,7 @@ Solved: 620+
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](solutions/beekeeper.java) | 2.6 | Easy |
 | [Bela](https://open.kattis.com/problems/bela) | [bela](solutions/bela.java) | 1.4 | Easy |
 | [Bendilfærslur](https://open.kattis.com/problems/bendilfaerslur) | [bendilfaerslur](solutions/bendilfaerslur.java) | 2.8 - 3.4 | Easy |
+| [Best Compression](https://open.kattis.com/problems/bestcompression) | [bestcompression](solutions/bestcompression.java) | 2.6 | Easy |
 | [Best Compromise](https://open.kattis.com/problems/compromise) | [compromise](solutions/compromise.java) | 2.1 | Easy |
 | [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | [bestrelayteam](solutions/bestrelayteam.java) | 2.0 | Easy |
 | [Betting](https://open.kattis.com/problems/betting) | [betting](solutions/betting.java) | 1.3 | Easy |
