@@ -188,6 +188,7 @@ Solved: 620+
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
 | [Evening Out 1](https://open.kattis.com/problems/eveningout1) | [eveningout1](solutions/eveningout1.java) | 2.5 | Easy |
+| [Event Planning](https://open.kattis.com/problems/eventplanning) | [eventplanning](solutions/eventplanning.java) | 2.2 | Easy |
 | [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical) | [exactlyelectrical](solutions/exactlyelectrical.java) | 2.2 | Easy |
 | [Expected Earnings](https://open.kattis.com/problems/expectedearnings) | [expectedearnings](solutions/expectedearnings.java) | 1.9 | Easy |
 | [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [eyeofsauron](solutions/eyeofsauron.java) | 1.4 | Easy |
