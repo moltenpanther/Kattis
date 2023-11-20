@@ -227,6 +227,7 @@ Solved: 620+
 | [Ghost Leg](https://open.kattis.com/problems/ghostleg) | [ghostleg](solutions/ghostleg.java) | 1.4 | Easy |
 | [GlitchBot](https://open.kattis.com/problems/glitchbot) | [glitchbot](solutions/glitchbot.java) | 2.0 | Easy |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](solutions/goatrope.java) | 1.6 | Easy |
+| [Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2) | [goldbach2](solutions/goldbach2.java) | 2.2 | Easy |
 | [Good Morning!](https://open.kattis.com/problems/goodmorning) | [goodmorning](solutions/goodmorning.java) | 2.8 | Medium |
 | [Goomba Stacks](https://open.kattis.com/problems/goombastacks) | [goombastacks](solutions/goombastacks.java) | 1.4 | Easy |
 | [Grading](https://open.kattis.com/problems/grading) | [grading](solutions/grading.java) | 1.6 | Easy |
