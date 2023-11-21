@@ -301,6 +301,7 @@ Solved: 620+
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](solutions/judgingmoose.java) | 1.5 | Easy |
 | [Jumbled Compass](https://open.kattis.com/problems/compass) | [compass](solutions/compass.java) | 1.9 | Easy |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](solutions/jumbojavelin.java) | 1.3 | Easy |
+| [Jury Jeopardy](https://open.kattis.com/problems/juryjeopardy) | [juryjeopardy](solutions/juryjeopardy.java) | 2.3 | Easy |
 | [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](solutions/justaminute.java) | 1.8 | Easy |
 | [Kafkaesque](https://open.kattis.com/problems/kafkaesque) | [kafkaesque](solutions/kafkaesque.java) | 2.0 | Easy |
 | [Karte](https://open.kattis.com/problems/karte) | [karte](solutions/karte.java) | 1.6 | Easy |
