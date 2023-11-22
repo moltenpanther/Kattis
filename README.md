@@ -156,6 +156,7 @@ Solved: 620+
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [digitswap](solutions/digitswap.java) | 1.3 | Easy |
 | [Divvying Up](https://open.kattis.com/problems/divvyingup) | [divvyingup](solutions/divvyingup.java) | 1.6 | Easy |
 | [Dodecaphony](https://open.kattis.com/problems/dodecaphony) | [dodecaphony](solutions/dodecaphony.java) | 3.3 | Medium |
+| [Dog & Gopher](https://open.kattis.com/problems/doggopher) | [doggopher](solutions/doggopher.java) | 2.5 | Easy |
 | [Don't Be Fake](https://open.kattis.com/problems/dontbefake) | [dontbefake](solutions/dontbefake.java) | 1.7 | Easy |
 | [Don't Fall Down Stairs](https://open.kattis.com/problems/dontfalldownstairs) | [dontfalldownstairs](solutions/dontfalldownstairs.java) | 2.2 | Easy |
 | [Double Password](https://open.kattis.com/problems/doublepassword) | [doublepassword](solutions/doublepassword.java) | 1.6 | Easy |
