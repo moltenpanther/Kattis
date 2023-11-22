@@ -436,6 +436,7 @@ Solved: 620+
 | [Preludes](https://open.kattis.com/problems/chopin) | [chopin](solutions/chopin.java) | 1.8 | Easy |
 | [Prerequisites?](https://open.kattis.com/problems/prerequisites) | [prerequisites](solutions/prerequisites.java) | 2.1 | Easy |
 | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [primaryarithmetic](solutions/primaryarithmetic.java) | 3.0 | Medium |
+| [Primary Register](https://open.kattis.com/problems/register) | [register](solutions/register.java) | 2.1 | Easy |
 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [printingcosts](solutions/printingcosts.java) | 2.2 | Easy |
 | [Prjónamynstur](https://open.kattis.com/problems/prjonamynstur) | [prjonamynstur](solutions/prjonamynstur.java) | 1.8 - 2.1 | Easy |
 | [Problem Classification](https://open.kattis.com/problems/problemclassification) | [problemclassification](solutions/problemclassification.java) | 3.0 | Medium |
@@ -459,7 +460,7 @@ Solved: 620+
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [ratingproblems](solutions/ratingproblems.java) | 1.4 | Easy |
 | [Recount](https://open.kattis.com/problems/recount) | [recount](solutions/recount.java) | 2.0 | Easy |
 | [Rectangle Area](https://open.kattis.com/problems/rectanglearea) | [rectanglearea](solutions/rectanglearea.java) | 1.6 | Easy |
-| [Primary Register](https://open.kattis.com/problems/register) | [register](solutions/register.java) | 2.1 | Easy |
+| [Reduced ID Numbers](https://open.kattis.com/problems/reducedidnumbers) | [reducedidnumbers](solutions/reducedidnumbers.java) | 2.5 | Easy |
 | [Relocation](https://open.kattis.com/problems/relocation) | [relocation](solutions/relocation.java) | 1.5 | Easy |
 | [Restaurant Opening](https://open.kattis.com/problems/restaurantopening) | [restaurantopening](solutions/restaurantopening.java) | 1.8 | Easy |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](solutions/ofugsnuid.java) | 1.2 - 1.5 | Easy |
