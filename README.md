@@ -508,6 +508,7 @@ Solved: 620+
 | [Skammstöfun](https://open.kattis.com/problems/skammstofun) | [skammstofun](solutions/skammstofun.java) | 1.7 - 2.0 | Easy |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [skocimis](solutions/skocimis.java) | 1.6 | Easy |
+| [Skotleikur](https://open.kattis.com/problems/skotleikur) | [skotleikur](solutions/skotleikur.java) | 1.7 - 3.1 | Medium |
 | [Skru op!](https://open.kattis.com/problems/skruop) | [skruop](solutions/skruop.java) | 1.3 - 1.5 | Easy |
 | [Sky Islands](https://open.kattis.com/problems/skyislands) | [skyislands](solutions/skyislands.java) | 2.1 | Easy |
 | [Slatkisi](https://open.kattis.com/problems/slatkisi) | [slatkisi](solutions/slatkisi.java) | 2.0 | Easy |
