@@ -309,6 +309,7 @@ Solved: 630+
 | [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](solutions/kemija08.java) | 1.8 | Easy |
 | [Keyboardd](https://open.kattis.com/problems/keyboardd) | [keyboardd](solutions/keyboardd.java) | 2.6 | Easy |
 | [Keywords](https://open.kattis.com/problems/keywords) | [keywords](solutions/keywords.java) | 2.2 | Easy |
+| [Kiki Boba](https://open.kattis.com/problems/kikiboba) | [kikiboba](solutions/kikiboba.java) | 1.2 - 1.3 | Easy |
 | [Kitten on a Tree](https://open.kattis.com/problems/kitten) | [kitten](solutions/kitten.java) | 1.7 | Easy |
 | [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](solutions/kleptography.java) | 1.6 | Easy |
 | [Knapsack](https://open.kattis.com/problems/knapsack) | [knapsack](solutions/knapsack.java) | 4.9 | Medium |
