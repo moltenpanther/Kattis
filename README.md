@@ -71,6 +71,7 @@ Solved: 630+
 | [Bijele](https://open.kattis.com/problems/bijele) | [bijele](solutions/bijele.java) | 1.4 | Easy |
 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [fodelsedagsmemorisering](solutions/fodelsedagsmemorisering.java) | 1.2 - 1.7 | Easy |
 | [Bishops](https://open.kattis.com/problems/bishops) | [bishops](solutions/bishops.java) | 2.3 | Easy |
+| [Bits](https://open.kattis.com/problems/bits) | [bits](solutions/bits.java) | 2.5 | Easy |
 | [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 - 1.9 | Easy |
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](solutions/boatparts.java) | 1.6 | Easy |
