@@ -421,6 +421,7 @@ Solved: 630+
 | [Permutation Code](https://open.kattis.com/problems/permcode) | [permcode](solutions/permcode.java) | 2.3 | Easy |
 | [Permutation Encryption](https://open.kattis.com/problems/permutationencryption) | [permutationencryption](solutions/permutationencryption.java) | 2.6 | Easy |
 | [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [permutedarithmeticsequence](solutions/permutedarithmeticsequence.java) | 2.1 | Easy |
+| [Perket](https://open.kattis.com/problems/perket) | [perket](solutions/perket.java) | 2.3 | Easy |
 | [Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor) | [pervasiveheartmonitor](solutions/pervasiveheartmonitor.java) | 1.8 | Easy |
 | [Pet](https://open.kattis.com/problems/pet) | [pet](solutions/pet.java) | 1.4 | Easy |
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [pieceofcake2](solutions/pieceofcake2.java) | 1.5 | Easy |
