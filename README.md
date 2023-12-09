@@ -470,6 +470,7 @@ Solved: 630+
 | [Recount](https://open.kattis.com/problems/recount) | [recount](solutions/recount.java) | 2.0 | Easy |
 | [Rectangle Area](https://open.kattis.com/problems/rectanglearea) | [rectanglearea](solutions/rectanglearea.java) | 1.6 | Easy |
 | [Reduced ID Numbers](https://open.kattis.com/problems/reducedidnumbers) | [reducedidnumbers](solutions/reducedidnumbers.java) | 2.5 | Easy |
+| [Reduplication](https://open.kattis.com/problems/reduplikation) | [reduplikation](solutions/reduplikation.java) | 2.0 | Easy |
 | [Relocation](https://open.kattis.com/problems/relocation) | [relocation](solutions/relocation.java) | 1.5 | Easy |
 | [Restaurant Opening](https://open.kattis.com/problems/restaurantopening) | [restaurantopening](solutions/restaurantopening.java) | 1.8 | Easy |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](solutions/ofugsnuid.java) | 1.2 - 1.5 | Easy |
