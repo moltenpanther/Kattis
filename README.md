@@ -350,6 +350,7 @@ Solved: 630+
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](solutions/methodicmultiplication.java) | 1.6 | Easy |
 | [Metronome](https://open.kattis.com/problems/metronome) | [metronome](solutions/metronome.java) | 1.3 | Easy |
 | [Mia](https://open.kattis.com/problems/mia) | [mia](solutions/mia.java) | 2.1 | Easy |
+| [Message](https://open.kattis.com/problems/meddelande) | [meddelande](solutions/meddelande.java) | 2.0 | Easy |
 | [Millifærsla](https://open.kattis.com/problems/millifaersla) | [millifaersla](solutions/millifaersla.java) | 1.5 | Easy |
 | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [millionairemadness](solutions/millionairemadness.java) | 1.9 | Easy |
 | [Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar) | [minimumscalar](solutions/minimumscalar.java) | 2.0 | Easy |
