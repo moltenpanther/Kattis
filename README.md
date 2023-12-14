@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 630+
+Solved: 640+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -599,6 +599,7 @@ Solved: 630+
 | [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [trainpassengers](solutions/trainpassengers.java) | 3.2 | Medium |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](solutions/transitwoes.java) | 1.5 | Easy |
 | [Treasure Hunt](https://open.kattis.com/problems/treasurehunt) | [treasurehunt](solutions/treasurehunt.java) | 2.7 | Easy |
+| [Three in a Row](https://open.kattis.com/problems/treirad) | [treirad](solutions/treirad.java) | 2.2 - 2.4 | Easy |
 | [Tri](https://open.kattis.com/problems/tri) | [tri](solutions/tri.java) | 1.8 | Easy |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [triarea](solutions/triarea.java) | 1.4 | Easy |
 | [Trik](https://open.kattis.com/problems/trik) | [trik](solutions/trik.java) | 1.4 | Easy |
