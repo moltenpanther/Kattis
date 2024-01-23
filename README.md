@@ -585,6 +585,7 @@ Solved: 640+
 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](solutions/thelastproblem.java) | 1.6 | Easy |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](solutions/owlandfox.java) | 1.8 | Easy |
 | [The Plank](https://open.kattis.com/problems/theplank) | [theplank](solutions/theplank.java) | 1.7 - 1.8 | Easy |
+| [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | [rectanglesurrounding](solutions/rectanglesurrounding.java) | 2.6 | Medium |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.java) | 1.8 | Easy |
 | [Tic-Tac State](https://open.kattis.com/problems/tictacstate) | [tictacstate](solutions/tictacstate.java) | 2.8 | Medium |
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
