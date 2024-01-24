@@ -92,6 +92,7 @@ Solved: 640+
 | [Busy Schedule](https://open.kattis.com/problems/busyschedule) | [busyschedule](solutions/busyschedule.java) | 2.5 | Easy |
 | [Calories From Fat](https://open.kattis.com/problems/calories) | [calories](solutions/calories.java) | 2.3 | Easy |
 | [Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [canadianseh](solutions/canadianseh.java) | 1.6 | Easy |
+| [Candle Box](https://open.kattis.com/problems/candlebox) | [candlebox](solutions/candlebox.java) | 2.5 | Medium |
 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](solutions/cardtrick2.java) | 1.8 | Easy |
 | [Catalan Square](https://open.kattis.com/problems/catalansquare) | [catalansquare](solutions/catalansquare.java) | 3.4 | Medium |
 | [Cetiri](https://open.kattis.com/problems/cetiri) | [cetiri](solutions/cetiri.java) | 1.8 | Easy |
