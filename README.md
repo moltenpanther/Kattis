@@ -293,6 +293,7 @@ Solved: 640+
 | [Is It Even?](https://open.kattis.com/problems/isiteven) | [isiteven](solutions/isiteven.java) | 3.1 | Medium |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [isithalloween](solutions/isithalloween.java) | 1.4 | Easy |
 | [Islands](https://open.kattis.com/problems/islands3) | [islands3](solutions/islands3.java) | 1.7 | Easy |
+| [Is Y A Vowel?](https://open.kattis.com/problems/isyavowel) | [isyavowel](solutions/isyavowel.java) | 1.2 | Easy |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](solutions/everywhere.java) | 1.4 | Easy |
 | [Jabuke](https://open.kattis.com/problems/jabuke) | [jabuke](solutions/jabuke.java) | 1.8 | Easy |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](solutions/jackolanternjuxtaposition.java) | 1.3 | Easy |
