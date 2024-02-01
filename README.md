@@ -104,6 +104,7 @@ Solved: 640+
 | [Charting Progress](https://open.kattis.com/problems/chartingprogress) | [chartingprogress](solutions/chartingprogress.java) | 2.0 | Easy |
 | [Chess](https://open.kattis.com/problems/chess) | [chess](solutions/chess.java) | 3.3 | Medium |
 | [Chocolate Division](https://open.kattis.com/problems/chocolatedivision) | [chocolatedivision](solutions/chocolatedivision.java) | 1.9 | Easy |
+| [Chugging](https://open.kattis.com/problems/chugging) | [chugging](solutions/chugging.java) | 1.6 | Easy |
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [circuitmath](solutions/circuitmath.java) | 2.0 | Easy |
 | [Cinema Crowds](https://open.kattis.com/problems/cinema) | [cinema](solutions/cinema.java) | 2.2 | Easy |
 | [Cinema Crowds 2](https://open.kattis.com/problems/cinema2) | [cinema2](solutions/cinema2.java) | 1.8 | Easy |
