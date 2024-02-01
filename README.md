@@ -642,6 +642,7 @@ Solved: 650+
 | [Warehouse](https://open.kattis.com/problems/warehouse) | [warehouse](solutions/warehouse.java) | 2.2 | Easy |
 | [Watchdog](https://open.kattis.com/problems/watchdog) | [watchdog](solutions/watchdog.java) | 2.2 | Easy |
 | [Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone) | [hailstone](solutions/hailstone.java) | 2.6 | Easy |
+| [Water Journal](https://open.kattis.com/problems/waterjournal) | [waterjournal](solutions/waterjournal.java) | 1.7 | Easy |
 | [Weak Vertices](https://open.kattis.com/problems/weakvertices) | [weakvertices](solutions/weakvertices.java) | 1.5 | Easy |
 | [Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy) | [welcomeeasy](solutions/welcomeeasy.java) | 2.2 | Easy |
 | [Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard) | [welcomehard](solutions/welcomehard.java) | 4.4 | Easy |
