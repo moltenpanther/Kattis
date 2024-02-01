@@ -335,6 +335,7 @@ Solved: 650+
 | [Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer) | [lessvsfewer](solutions/lessvsfewer.java) | 2.1 | Easy |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
+| [Lines Per Hour](https://open.kattis.com/problems/linesperhour) | [linesperhour](solutions/linesperhour.java) | 1.7 | Easy |
 | [Liquid Assets](https://open.kattis.com/problems/liquidassets) | [liquidassets](solutions/liquidassets.java) | 3.3 | Medium |
 | [Locust Locus](https://open.kattis.com/problems/locustlocus) | [locustlocus](solutions/locustlocus.java) | 1.9 | Easy |
 | [Logic Functions](https://open.kattis.com/problems/logicfunctions) | [logicfunctions](solutions/logicfunctions.cpp) | 1.5 | Easy |
