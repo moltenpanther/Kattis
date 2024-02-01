@@ -503,6 +503,7 @@ Solved: 640+
 | [Semafori](https://open.kattis.com/problems/semafori) | [semafori](solutions/semafori.java) | 2.0 | Easy |
 | [Server](https://open.kattis.com/problems/server) | [server](solutions/server.java) | 1.6 | Easy |
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](solutions/sevenwonders.java) | 1.6 | Easy |
+| [Shandy](https://open.kattis.com/problems/shandy) | [shandy](solutions/shandy.java) | 1.3 | Easy |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [shatteredcake](solutions/shatteredcake.java) | 1.4 | Easy |
 | [Sheba's Amoebas](https://open.kattis.com/problems/amoebas) | [amoebas](solutions/amoebas.java) | 2.0 | Easy |
 | [Shiritori](https://open.kattis.com/problems/shiritori) | [shiritori](solutions/shiritori.java) | 2.4 | Easy |
