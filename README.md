@@ -624,6 +624,7 @@ Solved: 650+
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](solutions/zoo.java) | 1.8 | Easy |
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [undeadoralive](solutions/undeadoralive.java) | 1.4 | Easy |
 | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [unlockpattern](solutions/unlockpattern.java) | 1.7 | Easy |
+| [Uno Reverse](https://open.kattis.com/problems/unoreverse) | [unoreverse](solutions/unoreverse.java) | 5.9 | Hard |
 | [UTF-8](https://open.kattis.com/problems/utf8) | [utf8](solutions/utf8.java) | 2.1 | Easy |
 | [Right-of-Way](https://open.kattis.com/problems/vajningsplikt) | [vajningsplikt](solutions/vajningsplikt.java) | 2.2 | Easy |
 | [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic) | [variablearithmetic](solutions/variablearithmetic.java) | 2.6 | Easy |
