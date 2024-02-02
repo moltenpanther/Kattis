@@ -19,6 +19,7 @@ Solved: 650+
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](solutions/addtwonumbers.java) | 1.3 | Easy |
 | [A Different Problem](https://open.kattis.com/problems/different) | [different](solutions/different.java) | 2.7 | Easy |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
+| [Akcija](https://open.kattis.com/problems/akcija) | [akcija](solutions/akcija.java) | 2.8 | Medium |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | [aleidibio](solutions/aleidibio.java) | 1.4 | Easy |
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [alphabetspam](solutions/alphabetspam.java) | 3.9 | Medium |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
