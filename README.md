@@ -7,6 +7,7 @@ Solved: 650+
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
 | [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [1dfroggereasy](solutions/onedfroggereasy.java) | 3.5 | Medium |
+| [2048](https://open.kattis.com/problems/2048) | [twentyfortyeight](solutions/twentyfortyeight.java) | 3.1 | Medium |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [threedprinter](solutions/threedprinter.java) | 2.8 | Medium |
 | [4 Thought](https://open.kattis.com/problems/4though) | [4thought](solutions/fourthought.java) | 3.3 | Medium |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.9 | Medium |
