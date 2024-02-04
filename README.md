@@ -128,6 +128,7 @@ Solved: 660+
 | [Completing the Square](https://open.kattis.com/problems/completingthesquare) | [completingthesquare](solutions/completingthesquare.java) | 2.0 | Easy |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](solutions/compoundwords.java) | 1.7 | Easy |
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](solutions/conformity.java) | 1.6 | Easy |
+| [Conga Line](https://open.kattis.com/problems/congaline) | [congaline](solutions/congaline.java) | 1.2 - 4.7 | Medium |
 | [Contingency Planning](https://open.kattis.com/problems/contingencyplanning) | [contingencyplanning](solutions/contingencyplanning.java) | 2.0 | Easy |
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](solutions/conversationlog.java) | 2.9 | Medium |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [convexpolygonarea](solutions/convexpolygonarea.java) | 1.8 | Easy |
