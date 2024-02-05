@@ -251,6 +251,7 @@ Solved: 660+
 | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons) | [greedypolygons](solutions/greedypolygons.java) | 1.6 | Easy |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [greetings2](solutions/greetings2.java) | 1.3 | Easy |
 | [Growling Gears](https://open.kattis.com/problems/growlinggears) | [growlinggears](solutions/growlinggears.java) | 2.0 | Easy |
+| [Guess the Number](https://open.kattis.com/problems/guess) | [guess](solutions/guess.java) | 2.9 | Medium |
 | [Guess Who](https://open.kattis.com/problems/guesswho) | [guesswho](solutions/guesswho.java) | 1.7 | Easy |
 | [Hailstone Sequences](https://open.kattis.com/problems/hailstone2) | [hailstone2](solutions/hailstone2.java) | 1.8 | Easy |
 | [Half a Cookie](https://open.kattis.com/problems/halfacookie) | [halfacookie](solutions/halfacookie.java) | 1.8 | Easy |
