@@ -18,6 +18,7 @@ Solved: 660+
 | [Abridged Reading](https://open.kattis.com/problems/abridgedreading) | [abridgedreading](solutions/abridgedreading.java) | 5.6 | Hard |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [acm](solutions/acm.java) | 1.8 | Easy |
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble) | [addingtrouble](solutions/addingtrouble.java) | 1.4 | Easy |
+| [Adding Words](https://open.kattis.com/problems/addingwords) | [addingwords](solutions/addingwords.java) | 4.2 | Medium |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](solutions/addtwonumbers.java) | 1.3 | Easy |
 | [A Different Problem](https://open.kattis.com/problems/different) | [different](solutions/different.java) | 2.7 | Easy |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
