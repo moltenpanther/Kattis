@@ -526,6 +526,7 @@ Solved: 660+
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](solutions/simonsays.java) | 1.6 | Easy |
 | [Simone](https://open.kattis.com/problems/simone) | [simone](solutions/simone.java) | 1.9 | Easy |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](solutions/simpleaddition.java) | 2.2 | Easy |
+| [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic) | [simplearithmetic](solutions/simplearithmetic.java) | 1.2 - 4.3 | Medium |
 | [Simple Factoring](https://open.kattis.com/problems/simplefactoring) | [simplefactoring](solutions/simplefactoring.java) | 2.5 | Easy |
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [simplicity](solutions/simplicity.java) | 2.8 | Medium |
 | [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
