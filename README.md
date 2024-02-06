@@ -476,6 +476,7 @@ Solved: 660+
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](solutions/qaly.java) | 1.3 | Easy |
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [quickbrownfox](solutions/quickbrownfox.java) | 1.8 | Easy |
 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](solutions/quickestimate.java) | 1.6 | Easy |
+| [Quickscope](https://open.kattis.com/problems/quickscope) | [quickscope](solutions/quickscope.java) | 1.3 - 3.9 | Medium |
 | [Quite a Problem](https://open.kattis.com/problems/quiteaproblem) | [quiteaproblem](solutions/quiteaproblem.java) | 2.2 | Easy |
 | [R2](https://open.kattis.com/problems/r2) | [r2](solutions/r2.java) | 1.3 | Easy |
 | [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [racingalphabet](solutions/racingalphabet.java) | 1.6 | Easy |
