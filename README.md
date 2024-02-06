@@ -16,6 +16,7 @@ Solved: 660+
 | [ABC](https://open.kattis.com/problems/abc) | [abc](solutions/abc.java) | 2.1 | Easy |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [aboveaverage](solutions/aboveaverage.java) | 2.2 | Easy |
 | [Abridged Reading](https://open.kattis.com/problems/abridgedreading) | [abridgedreading](solutions/abridgedreading.java) | 5.6 | Hard |
+| [A Classy Problem](https://open.kattis.com/problems/classy) | [classy](solutions/classy.java) | 5.0 | Medium |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [acm](solutions/acm.java) | 1.8 | Easy |
 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble) | [addingtrouble](solutions/addingtrouble.java) | 1.4 | Easy |
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [addingwords](solutions/addingwords.java) | 4.2 | Medium |
