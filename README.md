@@ -25,6 +25,7 @@ Solved: 660+
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
 | [Akcija](https://open.kattis.com/problems/akcija) | [akcija](solutions/akcija.java) | 2.8 | Medium |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | [aleidibio](solutions/aleidibio.java) | 1.4 | Easy |
+| [Álmost Perfect](https://open.kattis.com/problems/almostperfect) | [almostperfect](solutions/almostperfect.java) | 3.0 | Medium |
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [alphabetspam](solutions/alphabetspam.java) | 3.9 | Medium |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](solutions/ameriskur.java) | 1.5 - 1.6 | Easy |
