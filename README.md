@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 660+
+Solved: 670+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -80,6 +80,7 @@ Solved: 660+
 | [Bishops](https://open.kattis.com/problems/bishops) | [bishops](solutions/bishops.java) | 2.3 | Easy |
 | [Bits](https://open.kattis.com/problems/bits) | [bits](solutions/bits.java) | 2.5 | Easy |
 | [Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit) | [bitteeinbit](solutions/bitteeinbit.java) | 1.3 | Easy |
+| [Black Friday](https://open.kattis.com/problems/blackfriday) | [blackfriday](solutions/blackfriday.java) | 2.2 | Easy |
 | [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 - 1.9 | Easy |
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](solutions/boatparts.java) | 1.6 | Easy |
