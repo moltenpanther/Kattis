@@ -254,6 +254,7 @@ Solved: 670+
 | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [greedilyincreasing](solutions/greedilyincreasing.java) | 2.1 | Easy |
 | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons) | [greedypolygons](solutions/greedypolygons.java) | 1.6 | Easy |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [greetings2](solutions/greetings2.java) | 1.3 | Easy |
+| [Grid](https://open.kattis.com/problems/grid) | [grid](solutions/grid.java) | 2.8 | Medium |
 | [Growling Gears](https://open.kattis.com/problems/growlinggears) | [growlinggears](solutions/growlinggears.java) | 2.0 | Easy |
 | [Guess the Number](https://open.kattis.com/problems/guess) | [guess](solutions/guess.java) | 2.9 | Medium |
 | [Guess Who](https://open.kattis.com/problems/guesswho) | [guesswho](solutions/guesswho.java) | 1.7 | Easy |
