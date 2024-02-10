@@ -100,6 +100,7 @@ Solved: 670+
 | [Bus](https://open.kattis.com/problems/bus) | [bus](solutions/bus.java) | 1.6 | Easy |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [busnumbers](solutions/busnumbers.java) | 2.6 | Easy |
 | [Busy Schedule](https://open.kattis.com/problems/busyschedule) | [busyschedule](solutions/busyschedule.java) | 2.5 | Easy |
+| [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [calculatingdartscores](solutions/calculatingdartscores.java) | 3.0 | Medium |
 | [Calories From Fat](https://open.kattis.com/problems/calories) | [calories](solutions/calories.java) | 2.3 | Easy |
 | [Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [canadianseh](solutions/canadianseh.java) | 1.6 | Easy |
 | [Candle Box](https://open.kattis.com/problems/candlebox) | [candlebox](solutions/candlebox.java) | 2.5 | Medium |
