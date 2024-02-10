@@ -603,6 +603,7 @@ Solved: 670+
 | [Tetris](https://open.kattis.com/problems/tetris) | [tetris](solutions/tetris.java) | 1.8 | Easy |
 | [Text Encryption](https://open.kattis.com/problems/textencryption) | [textencryption](solutions/textencryption.java) | 3.4 | Medium |
 | [Thank God it's Friday](https://open.kattis.com/problems/tgif) | [tgif](solutions/tgif.java) | 3.2 | Medium |
+| [Thanos](https://open.kattis.com/problems/thanos) | [thanos](solutions/thanos.java) | 2.3 | Easy |
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](solutions/humancannonball2.java) | 1.6 | Easy |
 | [The Backslash Problem](https://open.kattis.com/problems/thebackslashproblem) | [thebackslashproblem](solutions/thebackslashproblem.java) | 2.3 | Easy |
 | [The Clock](https://open.kattis.com/problems/klockan2) | [klockan2](solutions/klockan2.java) | 1.6 - 1.7 | Easy |
