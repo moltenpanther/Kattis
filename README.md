@@ -323,6 +323,7 @@ Solved: 670+
 | [Join Strings](https://open.kattis.com/problems/joinstrings) | [joinstrings](solutions/joinstrings.java) | 5.6 | Hard |
 | [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam) | [jointjogjam](solutions/jointjogjam.java) | 1.7 | Easy |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](solutions/judgingmoose.java) | 1.5 | Easy |
+| [Judging Troubles](https://open.kattis.com/problems/judging) | [judging](solutions/judging.java) | 2.9 | Medium |
 | [Jumbled Compass](https://open.kattis.com/problems/compass) | [compass](solutions/compass.java) | 1.9 | Easy |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](solutions/jumbojavelin.java) | 1.3 | Easy |
 | [Jury Jeopardy](https://open.kattis.com/problems/juryjeopardy) | [juryjeopardy](solutions/juryjeopardy.java) | 2.3 | Easy |
