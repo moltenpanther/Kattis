@@ -6,6 +6,7 @@ Solved: 680+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
+| [#include<scoring>](https://open.kattis.com/problems/includescoring) | [includescoring](solutions/includescoring.java) | 5.8 | Hard |
 | [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [1dfroggereasy](solutions/onedfroggereasy.java) | 3.5 | Medium |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [tenkindsofpeople](solutions/tenkindsofpeople.java) | 3.6 | Medium |
 | [2048](https://open.kattis.com/problems/2048) | [twentyfortyeight](solutions/twentyfortyeight.java) | 3.1 | Medium |
