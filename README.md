@@ -175,6 +175,7 @@ Solved: 680+
 | [Digital display](https://open.kattis.com/problems/display) | [display](solutions/display.java) | 2.3 | Easy |
 | [Digit Product](https://open.kattis.com/problems/sifferprodukt) | [sifferprodukt](solutions/sifferprodukt.java) | 1.6 | Easy |
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [digitswap](solutions/digitswap.java) | 1.3 | Easy |
+| [Disc District](https://open.kattis.com/problems/discdistrict) | [discdistrict](solutions/discdistrict.java) | 2.4 | Easy |
 | [Divvying Up](https://open.kattis.com/problems/divvyingup) | [divvyingup](solutions/divvyingup.java) | 1.6 | Easy |
 | [Dodecaphony](https://open.kattis.com/problems/dodecaphony) | [dodecaphony](solutions/dodecaphony.java) | 3.3 | Medium |
 | [Dog & Gopher](https://open.kattis.com/problems/doggopher) | [doggopher](solutions/doggopher.java) | 2.5 | Easy |
