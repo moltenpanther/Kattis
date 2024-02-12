@@ -214,6 +214,7 @@ Solved: 680+
 | [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical) | [exactlyelectrical](solutions/exactlyelectrical.java) | 2.2 | Easy |
 | [Exam](https://open.kattis.com/problems/exam) | [exam](solutions/exam.java) | 2.2 | Easy |
 | [Expected Earnings](https://open.kattis.com/problems/expectedearnings) | [expectedearnings](solutions/expectedearnings.java) | 1.9 | Easy |
+| [Exploding Batteries](https://open.kattis.com/problems/batteries) | [batteries](solutions/batteries.java) | 4.0 | Medium |
 | [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [eyeofsauron](solutions/eyeofsauron.java) | 1.4 | Easy |
 | [Fading Wind](https://open.kattis.com/problems/fadingwind) | [fadingwind](solutions/fadingwind.java) | 1.4 | Easy |
 | [Faktor](https://open.kattis.com/problems/faktor) | [faktor](solutions/faktor.java) | 1.4 | Easy |
