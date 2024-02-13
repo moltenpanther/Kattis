@@ -23,6 +23,7 @@ Solved: 680+
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [addingwords](solutions/addingwords.java) | 4.2 | Medium |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](solutions/addtwonumbers.java) | 1.3 | Easy |
 | [A Different Problem](https://open.kattis.com/problems/different) | [different](solutions/different.java) | 2.7 | Easy |
+| [Ads](https://open.kattis.com/problems/ads) | [ads](solutions/ads.java) | 5.1 | Medium |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
 | [Akcija](https://open.kattis.com/problems/akcija) | [akcija](solutions/akcija.java) | 2.8 | Medium |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | [aleidibio](solutions/aleidibio.java) | 1.4 | Easy |
