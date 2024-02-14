@@ -507,6 +507,7 @@ Solved: 680+
 | [Reduced ID Numbers](https://open.kattis.com/problems/reducedidnumbers) | [reducedidnumbers](solutions/reducedidnumbers.java) | 2.5 | Easy |
 | [Reduplication](https://open.kattis.com/problems/reduplikation) | [reduplikation](solutions/reduplikation.java) | 2.0 | Easy |
 | [Relocation](https://open.kattis.com/problems/relocation) | [relocation](solutions/relocation.java) | 1.5 | Easy |
+| [Reseto](https://open.kattis.com/problems/reseto) | [reseto](solutions/reseto.java) | 2.3 | Easy |
 | [Restaurant Opening](https://open.kattis.com/problems/restaurantopening) | [restaurantopening](solutions/restaurantopening.java) | 1.8 | Easy |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](solutions/ofugsnuid.java) | 1.2 - 1.5 | Easy |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](solutions/reversebinary.java) | 1.5 | Easy |
