@@ -601,6 +601,7 @@ Solved: 680+
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [symmetricorder](solutions/symmetricorder.java) | 1.6 | Easy |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [synchronizinglists](solutions/synchronizinglists.java) | 1.7 | Easy |
 | [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [t9spelling](solutions/t9spelling.java) | 1.8 | Easy |
+| [Tag](https://open.kattis.com/problems/jage) | [jage](solutions/jage.java) | 1.4 - 2.5 | Easy |
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [taisformula](solutions/taisformula.java) | 1.6 | Easy |
 | [Tajna](https://open.kattis.com/problems/tajna) | [tajna](solutions/tajna.java) | 2.1 | Easy |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](solutions/twostones.java) | 1.4 | Easy |
