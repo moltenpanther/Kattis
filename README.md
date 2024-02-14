@@ -167,6 +167,7 @@ Solved: 690+
 | [Dart Scores](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.4 | Easy |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](solutions/dasblinkenlights.java) | 1.8 | Easy |
 | [Datum](https://open.kattis.com/problems/datum) | [datum](solutions/datum.java) | 1.4 | Easy |
+| [Daylight Saving Time](https://open.kattis.com/problems/dst) | [dst](solutions/dst.java) | 2.3 | Easy |
 | [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](solutions/deathknight.java) | 1.6 | Easy |
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [deathstar](solutions/deathstar.java) | 1.8 | Easy |
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [delimitersoup](solutions/delimitersoup.java) | 2.0 | Easy |
