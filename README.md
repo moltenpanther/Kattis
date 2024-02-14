@@ -338,6 +338,7 @@ Solved: 690+
 | [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](solutions/justaminute.java) | 1.8 | Easy |
 | [Kafkaesque](https://open.kattis.com/problems/kafkaesque) | [kafkaesque](solutions/kafkaesque.java) | 2.0 | Easy |
 | [Karte](https://open.kattis.com/problems/karte) | [karte](solutions/karte.java) | 1.6 | Easy |
+| [Kattis's Quest](https://open.kattis.com/problems/kattissquest) | [kattissquest](solutions/kattissquest.java) | 3.7 | Medium |
 | [kcuD dlanoD](https://open.kattis.com/problems/kcuddlanod) | [kcuddlanod](solutions/kcuddlanod.java) | 1.8 | Easy |
 | [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](solutions/kemija08.java) | 1.8 | Easy |
 | [Keyboardd](https://open.kattis.com/problems/keyboardd) | [keyboardd](solutions/keyboardd.java) | 2.6 | Easy |
