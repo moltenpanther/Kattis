@@ -30,6 +30,7 @@ Solved: 690+
 | [Álmost Perfect](https://open.kattis.com/problems/almostperfect) | [almostperfect](solutions/almostperfect.java) | 3.0 | Medium |
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [alphabetspam](solutions/alphabetspam.java) | 3.9 | Medium |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
+| [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke) | [artichoke](solutions/artichoke.java) | 2.7 | Easy |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](solutions/ameriskur.java) | 1.5 - 1.6 | Easy |
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [anagramcounting](solutions/anagramcounting.java) | 3.1 | Medium |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](solutions/anewalphabet.java) | 1.9 | Easy |
