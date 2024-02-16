@@ -228,6 +228,7 @@ Solved: 690+
 | [Fastest Available Route](https://open.kattis.com/problems/fastestavailableroute) | [fastestavailableroute](solutions/fastestavailableroute.java) | 2.6 | Easy |
 | [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal) | [fbiuniversal](solutions/fbiuniversal.java) | 2.2 | Easy |
 | [Ferry Loading IV](https://open.kattis.com/problems/ferryloading4) | [ferryloading4](solutions/ferryloading4.java) | 3.0 | Medium |
+| [Fibs og Dibs](https://open.kattis.com/problems/fibsogdibs) | [fibsogdibs](solutions/fibsogdibs.java) | 2.3 - 5.9 | Hard |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](solutions/fiftyshades.java) | 1.5 | Easy |
 | [Filip](https://open.kattis.com/problems/filip) | [filip](solutions/filip.java) | 1.4 | Easy |
 | [Final Exam](https://open.kattis.com/problems/finalexam2) | [finalexam2](solutions/finalexam2.java) | 1.7 | Easy |
