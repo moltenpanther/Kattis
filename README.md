@@ -300,6 +300,7 @@ Solved: 690+
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](solutions/apaxianparent.java) | 1.7 | Easy |
 | [Hot Hike](https://open.kattis.com/problems/hothike) | [hothike](solutions/hothike.java) | 2.1 | Easy |
 | [Howl](https://open.kattis.com/problems/howl) | [howl](solutions/howl.java) | 2.2 | Easy |
+| [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [howmanydigits](solutions/howmanydigits.java) | 4.0 | Medium |
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining) | [hradgreining](solutions/hradgreining.java) | 2.0 | Easy |
 | [H to O](https://open.kattis.com/problems/htoo) | [htoo](solutions/htoo.java) | 2.8 | Medium |
 | [Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus) | [huntthewumpus](solutions/huntthewumpus.java) | 2.2 | Easy |
