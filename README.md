@@ -609,6 +609,7 @@ Solved: 700+
 | [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [sumoftheothers](solutions/sumoftheothers.java) | 2.3 | Easy |
 | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [sumsquareddigits](solutions/sumsquareddigits.java) | 1.4 | Easy |
 | [Sun and Moon](https://open.kattis.com/problems/sunandmoon) | [sunandmoon](solutions/sunandmoon.java) | 1.9 | Easy |
+| [Supercomputer](https://open.kattis.com/problems/supercomputer) | [supercomputer](solutions/supercomputer.java) | 2.9 | Medium |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [symmetricorder](solutions/symmetricorder.java) | 1.6 | Easy |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [synchronizinglists](solutions/synchronizinglists.java) | 1.7 | Easy |
 | [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [t9spelling](solutions/t9spelling.java) | 1.8 | Easy |
