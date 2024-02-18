@@ -1,0 +1,19 @@
+public static boolean checkPrime(int num) {
+    
+    if(num % 2 == 0) {
+        return false;
+    }
+    
+    if(num == 2) {
+        return true;
+    }
+    
+    double sqrt = Math.sqrt(num);
+    for(int i = 3; i <= sqrt; i += 2) {
+        if(num % i == 0) {
+            return false;
+        }
+    }
+      
+    return true;
+}
