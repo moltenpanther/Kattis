@@ -489,6 +489,7 @@ Solved: 700+
 | [Prerequisites?](https://open.kattis.com/problems/prerequisites) | [prerequisites](solutions/prerequisites.java) | 2.1 | Easy |
 | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [primaryarithmetic](solutions/primaryarithmetic.java) | 3.0 | Medium |
 | [Primary Register](https://open.kattis.com/problems/register) | [register](solutions/register.java) | 2.1 | Easy |
+| [Prime Reduction](https://open.kattis.com/problems/primereduction) | [primereduction](solutions/primereduction.java) | 2.9 | Medium |
 | [Prime Sieve](https://open.kattis.com/problems/primesieve) | [primesieve](solutions/primesieve.java) | 5.2 | Medium |
 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [printingcosts](solutions/printingcosts.java) | 2.2 | Easy |
 | [Prjónamynstur](https://open.kattis.com/problems/prjonamynstur) | [prjonamynstur](solutions/prjonamynstur.java) | 1.8 - 2.1 | Easy |
