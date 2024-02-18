@@ -13,6 +13,7 @@ Solved: 700+
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [threedprinter](solutions/threedprinter.java) | 2.8 | Medium |
 | [4 Thought](https://open.kattis.com/problems/4though) | [4thought](solutions/fourthought.java) | 3.3 | Medium |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [99problems](solutions/99problems.java) | 2.9 | Medium |
+| [A1 Paper](https://open.kattis.com/problems/a1paper) | [a1paper](solutions/a1paper.java) | 4.2 | Medium |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](solutions/aaah.java) | 1.8 | Easy |
 | [ABC](https://open.kattis.com/problems/abc) | [abc](solutions/abc.java) | 2.1 | Easy |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [aboveaverage](solutions/aboveaverage.java) | 2.2 | Easy |
