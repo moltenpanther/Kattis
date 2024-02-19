@@ -258,6 +258,7 @@ Solved: 700+
 | [Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell) | [gandalfsspell](solutions/gandalfsspell.java) | 2.1 | Easy |
 | [GCD](https://open.kattis.com/problems/gcd) | [gcd](solutions/gcd.java) | 1.7 | Easy |
 | [GCVWR](https://open.kattis.com/problems/gcvwr) | [gcvwr](solutions/gcvwr.java) | 1.4 | Easy |
+| [Genetic Search](https://open.kattis.com/problems/geneticsearch) | [geneticsearch](solutions/geneticsearch.java) | 2.2 | Easy |
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](solutions/gerrymandering.java) | 1.6 | Easy |
 | [Ghost Leg](https://open.kattis.com/problems/ghostleg) | [ghostleg](solutions/ghostleg.java) | 1.4 | Easy |
 | [GlitchBot](https://open.kattis.com/problems/glitchbot) | [glitchbot](solutions/glitchbot.java) | 2.0 | Easy |
