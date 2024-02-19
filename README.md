@@ -373,6 +373,7 @@ Solved: 700+
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
 | [Lines Per Hour](https://open.kattis.com/problems/linesperhour) | [linesperhour](solutions/linesperhour.java) | 1.7 | Easy |
 | [Liquid Assets](https://open.kattis.com/problems/liquidassets) | [liquidassets](solutions/liquidassets.java) | 3.3 | Medium |
+| [A List Game](https://open.kattis.com/problems/listgame) | [listgame](solutions/listgame.java) | 2.8 | Medium |
 | [Locust Locus](https://open.kattis.com/problems/locustlocus) | [locustlocus](solutions/locustlocus.java) | 1.9 | Easy |
 | [Logic Functions](https://open.kattis.com/problems/logicfunctions) | [logicfunctions](solutions/logicfunctions.cpp) | 1.5 | Easy |
 | [Loo Rolls](https://open.kattis.com/problems/loorolls) | [loorolls](solutions/loorolls.java) | 1.7 | Easy |
