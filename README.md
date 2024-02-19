@@ -648,6 +648,7 @@ Solved: 700+
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
 | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature) | [temperature](solutions/temperature.java) | 2.2 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
+| [Töflur](https://open.kattis.com/problems/toflur) | [toflur](solutions/toflur.java) | 1.7 - 2.5 | Easy |
 | [Toilet Seat](https://open.kattis.com/problems/toilet) | [toilet](solutions/toilet.java) | 2.4 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
 | [Tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | [tolvunarfraedingartelja](solutions/tolvunarfraedingartelja.java) | 1.2 | Easy |
