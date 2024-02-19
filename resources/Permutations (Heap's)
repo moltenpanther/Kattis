@@ -1,0 +1,25 @@
+// Implementing Heap's algorithm
+static void getDates(int digits[], int size) {
+    
+    if(size == 1) {
+        testDate(digits);
+    }else {
+        
+        getDates(digits, size - 1);
+        
+        for(int i = 0; i <  size - 1; i++) {
+            
+            if(size % 2 == 0) {
+                int temp = digits[i];
+                digits[i] = digits[size - 1];
+                digits[size - 1] = temp;
+            }else {
+                int temp = digits[0];
+                digits[0] = digits[size - 1];
+                digits[size - 1] = temp;
+            }
+            
+            getDates(digits, size - 1);
+        }
+    }
+}
