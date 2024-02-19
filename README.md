@@ -143,6 +143,7 @@ Solved: 700+
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](solutions/conformity.java) | 1.6 | Easy |
 | [Conga Line](https://open.kattis.com/problems/congaline) | [congaline](solutions/congaline.java) | 1.2 - 4.7 | Medium |
 | [Contingency Planning](https://open.kattis.com/problems/contingencyplanning) | [contingencyplanning](solutions/contingencyplanning.java) | 2.0 | Easy |
+| [Conquest Campaign](https://open.kattis.com/problems/conquestcampaign) | [conquestcampaign](solutions/conquestcampaign.java) | 2.2 | Easy |
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](solutions/conversationlog.java) | 2.9 | Medium |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [convexpolygonarea](solutions/convexpolygonarea.java) | 1.8 | Easy |
 | [Cooking Water](https://open.kattis.com/problems/cookingwater) | [cookingwater](solutions/cookingwater.java) | 2.1 | Easy |
