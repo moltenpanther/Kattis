@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 700+
+Solved: 710+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -459,6 +459,7 @@ Solved: 700+
 | [Parking](https://open.kattis.com/problems/parking2) | [parking2](solutions/parking2.java) | 1.5 | Easy |
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](solutions/parsinghex.java) | 2.8 | Medium |
 | [Pascal](https://open.kattis.com/problems/pascal) | [pascal](solutions/pascal.java) | 3.3 | Medium |
+| [Password Hacking](https://open.kattis.com/problems/password) | [password](solutions/password.java) | 2.2 | Easy |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [patuljci](solutions/patuljci.java) | 1.8 | Easy |
 | [Path Tracing](https://open.kattis.com/problems/pathtracing) | [pathtracing](solutions/pathtracing.java) | 3.3 | Medium |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](solutions/pauleigon.java) | 1.8 | Easy |
