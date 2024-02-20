@@ -343,6 +343,7 @@ Solved: 710+
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](solutions/judgingmoose.java) | 1.5 | Easy |
 | [Judging Troubles](https://open.kattis.com/problems/judging) | [judging](solutions/judging.java) | 2.9 | Medium |
 | [Jumbled Compass](https://open.kattis.com/problems/compass) | [compass](solutions/compass.java) | 1.9 | Easy |
+| [Jumbled Communication](https://open.kattis.com/problems/communication) | [communication](solutions/communication.java) | 2.2 | Easy |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](solutions/jumbojavelin.java) | 1.3 | Easy |
 | [Jury Jeopardy](https://open.kattis.com/problems/juryjeopardy) | [juryjeopardy](solutions/juryjeopardy.java) | 2.3 | Easy |
 | [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](solutions/justaminute.java) | 1.8 | Easy |
