@@ -326,6 +326,7 @@ Solved: 710+
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](solutions/internationaldates.java) | 1.5 | Easy |
 | [Interplanetary Tunnels](https://open.kattis.com/problems/interplanetarytunnels) | [interplanetarytunnels](solutions/interplanetarytunnels.java) | 2.4 | Easy |
 | [Interval Scheduling](https://open.kattis.com/problems/intervalscheduling) | [intervalscheduling](solutions/intervalscheduling.java) | 1.9 | Easy |
+| [Inquiry I](https://open.kattis.com/problems/inquiryi) | [inquiryi](solutions/inquiryi.java) | 2.6 | Easy |
 | [Is It Even?](https://open.kattis.com/problems/isiteven) | [isiteven](solutions/isiteven.java) | 3.1 | Medium |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [isithalloween](solutions/isithalloween.java) | 1.4 | Easy |
 | [Islands](https://open.kattis.com/problems/islands3) | [islands3](solutions/islands3.java) | 1.7 | Easy |
