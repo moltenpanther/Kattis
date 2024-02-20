@@ -547,6 +547,7 @@ Solved: 710+
 | [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](solutions/recipes.java) | 1.8 | Easy |
 | [School Spirit](https://open.kattis.com/problems/schoolspirit) | [schoolspirit](solutions/schoolspirit.java) | 1.7 | Easy |
 | [Scrolling Sign](https://open.kattis.com/problems/scrollingsign) | [scrollingsign](solutions/scrollingsign.java) | 2.9 | Medium |
+| [Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber) | [secretchamber](solutions/secretchamber.java) | 2.6 | Easy |
 | [Secret Message](https://open.kattis.com/problems/secretmessage) | [secretmessage](solutions/secretmessage.java) | 1.9 | Easy |
 | [Secret Santa](https://open.kattis.com/problems/secretsanta) | [secretsanta](solutions/secretsanta.java) | 3.1 | Medium |
 | [Secure Doors](https://open.kattis.com/problems/securedoors) | [securedoors](solutions/securedoors.java) | 1.7 | Easy |
