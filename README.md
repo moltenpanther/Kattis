@@ -112,6 +112,7 @@ Solved: 720+
 | [Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [canadianseh](solutions/canadianseh.java) | 1.6 | Easy |
 | [Candle Box](https://open.kattis.com/problems/candlebox) | [candlebox](solutions/candlebox.java) | 2.5 | Medium |
 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](solutions/cardtrick2.java) | 1.8 | Easy |
+| [Carousel Rides](https://open.kattis.com/problems/carousel) | [carousel](solutions/carousel.java) | 2.6 | Easy |
 | [Catalan Numbers](https://open.kattis.com/problems/catalan) | [catalan](solutions/catalan.java) | 3.9 | Medium |
 | [Catalan Square](https://open.kattis.com/problems/catalansquare) | [catalansquare](solutions/catalansquare.java) | 3.4 | Medium |
 | [CD](https://open.kattis.com/problems/cd) | [cd](solutions/cd.java) | 5.1 | Medium |
