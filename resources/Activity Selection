@@ -1,0 +1,99 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.LinkedList;
+
+public class Kattis2 {
+	
+    public static void main(String[] args) throws IOException {
+    	
+    //	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\molte\\eclipse-workspace\\Kattis\\bin\\input.txt"));
+        
+        String[] line = br.readLine().split(" ");
+        int slats = Integer.parseInt(line[0]);
+        int num = Integer.parseInt(line[1]);
+
+        Painter[] painters = new Painter[num];
+        for(int i = 0; i < num; i++) {
+        	
+            line = br.readLine().split(" ");
+            int start = Integer.parseInt(line[0]);
+            int end = Integer.parseInt(line[1]);
+            
+            Painter painter = new Painter(start, end);
+            painters[i] = painter;
+        }
+        
+        Arrays.sort(painters, Comparator.comparing(Painter::getEnd));
+        
+        LinkedList<Painter> list = new LinkedList<Painter>();
+        list.add(painters[0]);
+        
+        int missed = 0;
+        int prevEnd = painters[0].getEnd();
+        int j = 0;
+        for(int i = 1; i < num; i++) {
+        	
+        	Painter painter = painters[i];
+        	int newStart = painter.getStart();
+        	
+        	if(newStart >= prevEnd) {
+        		
+        		missed += (newStart - prevEnd) - 1;
+        		
+        		list.add(painter);
+        		prevEnd = painter.getEnd();
+        		j = i;
+        	}
+        }
+        
+       	missed += (slats - prevEnd);
+
+        
+        System.out.println(missed);
+        
+        // Output
+        for(Painter painter : list) {
+        	System.out.println(painter.start + " " + painter.end);        	
+        }
+   		
+    	br.close();
+    }
+
+}
+
+class Painter {
+	
+	int start;
+	int end;
+	
+	public Painter(int start, int end) {
+		this.start = start;
+		this.end = end;
+	}
+	
+	public int getStart() {
+		return start;
+	}
+	
+	public void setStart(int start) {
+		this.start = start;
+	}
+	
+	public int getEnd() {
+		return end;
+	}
+	
+	public void setEnd(int end) {
+		this.end = end;
+	}
+
+	@Override
+	public String toString() {
+		return start + " " + end;
+	}
+	
+}
