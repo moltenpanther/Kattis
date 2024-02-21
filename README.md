@@ -456,6 +456,7 @@ Solved: 720+
 | [Open Source](https://open.kattis.com/problems/opensource) | [opensource](solutions/opensource.java) | 3.6 | Medium |
 | [Orders](https://open.kattis.com/problems/orders) | [orders](solutions/orders.java) | 5.4 | Medium |
 | [Ordinals](https://open.kattis.com/problems/ordinals) | [ordinals](solutions/ordinals.java) | 1.7 | Easy |
+| [Ornaments](https://open.kattis.com/problems/ornaments) | [ornaments](solutions/ornaments.java) | 2.6 | Easy |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [ostgotska](solutions/ostgotska.java) | 1.7 | Easy |
 | [Overdraft](https://open.kattis.com/problems/overdraft) | [overdraft](solutions/overdraft.java) | 2.0 | Easy |
 | [Óvissa](https://open.kattis.com/problems/ovissa) | [ovissa](solutions/ovissa.java) | 1.4 | Easy |
