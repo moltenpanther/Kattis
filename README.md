@@ -105,6 +105,7 @@ Solved: 710+
 | [Buka](https://open.kattis.com/problems/buka) | [buka](solutions/buka.java) | 2.0 | Easy |
 | [Bus](https://open.kattis.com/problems/bus) | [bus](solutions/bus.java) | 1.6 | Easy |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [busnumbers](solutions/busnumbers.java) | 2.6 | Easy |
+| [Bus Numbers](https://open.kattis.com/problems/busnumbers2) | [busnumbers2](solutions/busnumbers2.java) | 2.8 | Medium |
 | [Busy Schedule](https://open.kattis.com/problems/busyschedule) | [busyschedule](solutions/busyschedule.java) | 2.5 | Easy |
 | [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [calculatingdartscores](solutions/calculatingdartscores.java) | 3.0 | Medium |
 | [Calories From Fat](https://open.kattis.com/problems/calories) | [calories](solutions/calories.java) | 2.3 | Easy |
