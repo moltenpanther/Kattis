@@ -470,6 +470,7 @@ Solved: 710+
 | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [peasoup](solutions/peasoup.java) | 3.0 | Medium |
 | [Peg](https://open.kattis.com/problems/peg) | [peg](solutions/peg.java) | 2.0 | Easy |
 | [Peragrams](https://open.kattis.com/problems/peragrams) | [peragrams](solutions/peragrams.java) | 1.9 | Easy |
+| [Periodic Strings](https://open.kattis.com/problems/periodicstrings) | [periodicstrings](solutions/periodicstrings.java) | 2.6 | Easy |
 | [Permutation Code](https://open.kattis.com/problems/permcode) | [permcode](solutions/permcode.java) | 2.3 | Easy |
 | [Permutation Encryption](https://open.kattis.com/problems/permutationencryption) | [permutationencryption](solutions/permutationencryption.java) | 2.6 | Easy |
 | [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [permutedarithmeticsequence](solutions/permutedarithmeticsequence.java) | 2.1 | Easy |
