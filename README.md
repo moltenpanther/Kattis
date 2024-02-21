@@ -230,6 +230,7 @@ Solved: 710+
 | [Falling Apart](https://open.kattis.com/problems/fallingapart) | [fallingapart](solutions/fallingapart.java) | 1.7 | Easy |
 | [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity](solutions/falsesecurity.java) | 2.0 | Easy |
 | [Fastest Available Route](https://open.kattis.com/problems/fastestavailableroute) | [fastestavailableroute](solutions/fastestavailableroute.java) | 2.6 | Easy |
+| [Fast Food Prizes](https://open.kattis.com/problems/fastfood) | [fastfood](solutions/fastfood.java) | 2.0 | Easy |
 | [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal) | [fbiuniversal](solutions/fbiuniversal.java) | 2.2 | Easy |
 | [Ferry Loading IV](https://open.kattis.com/problems/ferryloading4) | [ferryloading4](solutions/ferryloading4.java) | 3.0 | Medium |
 | [Fibs og Dibs](https://open.kattis.com/problems/fibsogdibs) | [fibsogdibs](solutions/fibsogdibs.java) | 2.3 - 5.9 | Hard |
