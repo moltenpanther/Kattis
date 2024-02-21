@@ -1,0 +1,60 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class Kattis2 {
+	
+    public static void main(String[] args) throws IOException {
+    	
+    //	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\molte\\eclipse-workspace\\Kattis\\bin\\input.txt"));
+        
+  //      String[] line = br.readLine().split(" ");
+        int num = 7;
+        // int[] nums = new int[num];
+        int[] nums = {2, 8, 9, 5, 6, 7, 1};
+        
+        int[] prevIndex = new int[num];
+        int[] minVal = new int[num + 1];
+        minVal[0] = -1;
+        
+        int len = 0;
+        for(int i = 0; i < num; i++) {
+        	
+        	int low = 1;
+        	int high = len + 1;
+        	while(low < high) {
+        		int mid = low + (high - low) / 2;
+        		if(nums[minVal[mid]] >= nums[i]) {
+        			high = mid;
+        		}else {
+        			low = mid + 1;
+        		}
+        	}
+        	
+        	int newLen = low;
+        	prevIndex[i] = minVal[newLen - 1];
+        	minVal[newLen] = i;
+        	
+        	if(newLen > len) {
+        		len = newLen;
+        	}
+        	
+        }
+        
+        int[] ans = new int[num];
+        int k = minVal[len];
+        for(int i = len - 1; i >= 0; i--) {
+        	ans[i] = nums[k];
+        	k = prevIndex[k];
+        }
+        
+        // Output
+        for(int i = 0; i < len; i++) {
+        	System.out.print(ans[i] + " ");
+        }
+   		
+    	br.close();
+    }
+
+}
