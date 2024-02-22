@@ -1,0 +1,27 @@
+    public HashSet<Integer> getFactors(int num) { 
+    	
+        HashSet<Integer> hash = new HashSet<Integer>();
+    	
+    	// Loop through divisors
+        boolean prime = true;
+	    int div = 2;
+	    while(num > 1 && div < num) {
+	        
+	        // Factoring num by primes
+	        while(num % div == 0) {
+	            num /= div;
+	            hash.add(div);
+	            prime = false;
+	        }
+	        
+	        div++;
+	    }
+	    
+	    // Adding if prime
+	    if(prime) {
+	    	hash.add(num);
+	    	hash.add(1);
+	    }
+	    
+	    return hash;
+	}
