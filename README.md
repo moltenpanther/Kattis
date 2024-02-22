@@ -487,6 +487,7 @@ Solved: 720+
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [pieceofcake2](solutions/pieceofcake2.java) | 1.5 | Easy |
 | [Pig Latin](https://open.kattis.com/problems/piglatin) | [piglatin](solutions/piglatin.java) | 2.2 | Easy |
 | [Pinni Frændi](https://open.kattis.com/problems/pinnifraendi) | [pinnifraendi](solutions/pinnifraendi.java) | 1.8 - 2.8 | Easy |
+| [Pivot](https://open.kattis.com/problems/pivot) | [pivot](solutions/pivot.java) | 2.6 | Easy |
 | [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](solutions/pizza2.java) | 1.8 | Easy |
 | [Pizzubestun](https://open.kattis.com/problems/pizzubestun) | [pizzubestun](solutions/pizzubestun.java) | 2.8 - 2.9 | Medium |
 | [Planina](https://open.kattis.com/problems/planina) | [planina](solutions/planina.java) | 1.4 | Easy |
