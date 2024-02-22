@@ -190,6 +190,7 @@ Solved: 720+
 | [Divvying Up](https://open.kattis.com/problems/divvyingup) | [divvyingup](solutions/divvyingup.java) | 1.6 | Easy |
 | [Dodecaphony](https://open.kattis.com/problems/dodecaphony) | [dodecaphony](solutions/dodecaphony.java) | 3.3 | Medium |
 | [Dog & Gopher](https://open.kattis.com/problems/doggopher) | [doggopher](solutions/doggopher.java) | 2.5 | Easy |
+| [Dominoes 2](https://open.kattis.com/problems/dominoes2) | [dominoes2](solutions/dominoes2.java) | 3.2 | Medium |
 | [Don't Be Fake](https://open.kattis.com/problems/dontbefake) | [dontbefake](solutions/dontbefake.java) | 1.7 | Easy |
 | [Don't Fall Down Stairs](https://open.kattis.com/problems/dontfalldownstairs) | [dontfalldownstairs](solutions/dontfalldownstairs.java) | 2.2 | Easy |
 | [Double Password](https://open.kattis.com/problems/doublepassword) | [doublepassword](solutions/doublepassword.java) | 1.6 | Easy |
