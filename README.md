@@ -280,6 +280,7 @@ Solved: 720+
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [greetings2](solutions/greetings2.java) | 1.3 | Easy |
 | [Grid](https://open.kattis.com/problems/grid) | [grid](solutions/grid.java) | 2.8 | Medium |
 | [Growling Gears](https://open.kattis.com/problems/growlinggears) | [growlinggears](solutions/growlinggears.java) | 2.0 | Easy |
+| [Guessing Game](https://open.kattis.com/problems/guessinggame) | [guessinggame](solutions/guessinggame.java) | 3.2 | Medium |
 | [Guess the Number](https://open.kattis.com/problems/guess) | [guess](solutions/guess.java) | 2.9 | Medium |
 | [Guess Who](https://open.kattis.com/problems/guesswho) | [guesswho](solutions/guesswho.java) | 1.7 | Easy |
 | [Hailstone Sequences](https://open.kattis.com/problems/hailstone2) | [hailstone2](solutions/hailstone2.java) | 1.8 | Easy |
