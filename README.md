@@ -85,6 +85,7 @@ Solved: 720+
 | [Bijele](https://open.kattis.com/problems/bijele) | [bijele](solutions/bijele.java) | 1.4 | Easy |
 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [fodelsedagsmemorisering](solutions/fodelsedagsmemorisering.java) | 1.2 - 1.7 | Easy |
 | [Bishops](https://open.kattis.com/problems/bishops) | [bishops](solutions/bishops.java) | 2.3 | Easy |
+| [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [bitbybit](solutions/bitbybit.java) | 3.4 | Medium |
 | [Bits](https://open.kattis.com/problems/bits) | [bits](solutions/bits.java) | 2.5 | Easy |
 | [Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit) | [bitteeinbit](solutions/bitteeinbit.java) | 1.3 | Easy |
 | [Black Friday](https://open.kattis.com/problems/blackfriday) | [blackfriday](solutions/blackfriday.java) | 2.2 | Easy |
