@@ -528,6 +528,7 @@ Solved: 720+
 | [Radio Commercials](https://open.kattis.com/problems/commercials) | [commercials](solutions/commercials.java) | 1.8 | Easy |
 | [Ragged Right](https://open.kattis.com/problems/raggedright) | [raggedright](solutions/raggedright.java) | 1.9 | Easy |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](solutions/railroad2.java) | 1.5 | Easy |
+| [Railway Runner](https://open.kattis.com/problems/railwayrunner) | [railwayrunner](solutions/railwayrunner.java) | 3.8 | Medium |
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [ratingproblems](solutions/ratingproblems.java) | 1.4 | Easy |
 | [Recount](https://open.kattis.com/problems/recount) | [recount](solutions/recount.java) | 2.0 | Easy |
 | [Rectangle Area](https://open.kattis.com/problems/rectanglearea) | [rectanglearea](solutions/rectanglearea.java) | 1.6 | Easy |
