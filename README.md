@@ -401,6 +401,7 @@ Solved: 730+
 | [Marko](https://open.kattis.com/problems/marko) | [marko](solutions/marko.java) | 1.9 | Easy |
 | [Mars Window](https://open.kattis.com/problems/marswindow) | [marswindow](solutions/marswindow.java) | 2.4 | Easy |
 | [Math Homework](https://open.kattis.com/problems/mathhomework) | [mathhomework](solutions/mathhomework.java) | 1.9 | Easy |
+| [Matrix Inverse](https://open.kattis.com/problems/matrix) | [matrix](solutions/matrix.java) | 3.1 | Medium |
 | [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
 | [Messy Lists](https://open.kattis.com/problems/stokigalistor) | [stokigalistor](solutions/stokigalistor.java) | 1.4 - 2.2 | Easy |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [metaprogramming](solutions/metaprogramming.java) | 2.1 | Easy |
