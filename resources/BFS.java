@@ -1,165 +1,124 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Hashtable;
+import java.util.Deque;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
 
-public class BFS {
+public class dominoes2 {
     
     public static void main(String[] args) throws IOException {
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
         
-        String[] nums = br.readLine().split(" ");
-        int planetNum = Integer.parseInt(nums[0]);
-        int tunnels = Integer.parseInt(nums[1]);
-        
-        String[] astronauts = br.readLine().split(" ");
-        int alice = Integer.parseInt(astronauts[0]);
-        int bob = Integer.parseInt(astronauts[1]);
-        
-        Hashtable<Integer, List<Integer>> hash = new Hashtable<Integer, List<Integer>>();
-        
-        for(int i = 0; i < tunnels; i++) {
+        int cases = Integer.parseInt(br.readLine());
+        for(int i = 0; i < cases; i++) {
             
-            String[] tunnel = br.readLine().split(" ");
-            int from = Integer.parseInt(tunnel[0]);
-            int to = Integer.parseInt(tunnel[1]);
+            HashMap<Integer, Domino> hash = new HashMap<Integer, Domino>();
             
-            if(!hash.containsKey(from)) {   
-                List<Integer> list = new ArrayList<Integer>();
-                hash.put(from, list);
-            }
-            if(!hash.containsKey(to)) { 
-                List<Integer> list = new ArrayList<Integer>();
-                hash.put(to, list);
+            String[] line = br.readLine().split(" ");
+            int num = Integer.parseInt(line[0]);
+            int adjacencies = Integer.parseInt(line[1]);
+            int knockedOver = Integer.parseInt(line[2]);
+            
+            // Adding in all Dominos
+            for(int j = 1; j <= num; j++) {
+                hash.put(j, new Domino(j));
             }
             
-            hash.get(from).add(to);
-            hash.get(to).add(from);         
-        }
-        
-        // BFS
-        Planet[] planets = new Planet[planetNum];
-        Queue<Planet> queue = new LinkedList<Planet>();
-        
-        Planet planet = new Planet(alice);
-        planet.dis = 0;
-        planet.color = 'G';
-        
-        planets[alice] = planet;
-        queue.add(planet);
-        
-        while(!queue.isEmpty()) {
-            
-            planet = queue.remove();
-            
-            if(hash.containsKey(planet.num)) {
+            // Setting up adjacencies
+            for(int j = 0; j < adjacencies; j++) {
                 
-                List<Integer> list = hash.get(planet.num);
+                line = br.readLine().split(" ");
+                int from = Integer.parseInt(line[0]);
+                int to = Integer.parseInt(line[1]);
                 
-                for(int num : list) {
-                    
-                    if(planets[num] == null) {
-                        Planet thisPlanet = new Planet(num);
-                        planets[num] = thisPlanet;
-                    }
-                    
-                    Planet thisPlanet = planets[num];
-                    
-                    if(thisPlanet.color == 'W') {
-                        
-                        thisPlanet.setDis(planet.dis + 1);
-                        thisPlanet.setColor('G');
-                        thisPlanet.setPrev(planet);
-                        
-                        queue.add(thisPlanet);
-                    }
+                hash.get(from).addAdj(to);
+            }
+            
+            // Knocking over Dominos with BFS
+            int count = 0;
+            for(int j = 0; j < knockedOver; j++) {
+                
+                int start = Integer.parseInt(br.readLine());
+                Domino domino = hash.get(start);
+                
+                Deque<Domino> queue = new LinkedList<Domino>();
+                if(!domino.isVisited()) {
+                    domino.setVisited(true);
+                    queue.add(domino);
                 }
                 
-                planet.setColor('B');
-                
+                while(!queue.isEmpty()) {
+                    
+                    domino = queue.remove();
+                    count++;
+                    
+                    HashSet<Integer> adj = domino.getAdj();
+                    for(Integer next : adj) {
+                        if(!hash.get(next).isVisited()) {
+                            hash.get(next).setVisited(true);
+                            queue.add(hash.get(next));
+                        }
+                    }
+                }
             }
-
-        }
-
-        Planet endPlanet = planets[bob];
-        int endDis = endPlanet.dis;
-        
-        int ans = endDis / 2;
-        if(endDis % 2 == 0) {
-            System.out.println(ans);            
-        }else {
-            System.out.println(ans + 1);
+            
+            sb.append(count);
+            sb.append("\n");
         }
         
+        // Output
+        System.out.println(sb);
+        
+        br.close();
     }
 
 }
 
-class Planet {
+class Domino {
     
-    int num = 0;
-    int dis = Integer.MAX_VALUE;
-    Planet prev = null;
-    char color = 'W';
+    int num;
+    HashSet<Integer> adj = new HashSet<Integer>();;
+    boolean visited = false;
     
-    public Planet(int num){
+    public Domino(int num) {
         this.num = num;
     }
-
-    public Planet() {
-        
-    }
-
+    
     public int getNum() {
         return num;
     }
-
-
+    
     public void setNum(int num) {
         this.num = num;
     }
-
-
-    public int getDis() {
-        return dis;
+    
+    public HashSet<Integer> getAdj() {
+        return adj;
     }
-
-
-    public void setDis(int dis) {
-        this.dis = dis;
+    
+    public void addAdj(int num) {
+        this.adj.add(num);
     }
-
-
-    public Planet getPrev() {
-        return prev;
+    
+    public void setAdj(HashSet<Integer> adj) {
+        this.adj = adj;
     }
-
-
-    public void setPrev(Planet prev) {
-        this.prev = prev;
+    
+    public boolean isVisited() {
+        return visited;
     }
-
-
-    public char getColor() {
-        return color;
+    
+    public void setVisited(boolean visited) {
+        this.visited = visited;
     }
-
-
-    public void setColor(char color) {
-        this.color = color;
-    }
-
-
+    
     @Override
     public String toString() {
-    
-        return num + ": " + dis;
+        return num + ": " + adj.size() + " -- " + visited;
     }
-    
+        
 }
-
