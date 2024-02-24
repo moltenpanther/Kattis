@@ -236,6 +236,7 @@ Solved: 730+
 | [Fading Wind](https://open.kattis.com/problems/fadingwind) | [fadingwind](solutions/fadingwind.java) | 1.4 | Easy |
 | [Faktor](https://open.kattis.com/problems/faktor) | [faktor](solutions/faktor.java) | 1.4 | Easy |
 | [Falling Apart](https://open.kattis.com/problems/fallingapart) | [fallingapart](solutions/fallingapart.java) | 1.7 | Easy |
+| [Falling Apples](https://open.kattis.com/problems/apples) | [apples](solutions/apples.java) | 3.2 | Medium |
 | [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity](solutions/falsesecurity.java) | 2.0 | Easy |
 | [Fastest Available Route](https://open.kattis.com/problems/fastestavailableroute) | [fastestavailableroute](solutions/fastestavailableroute.java) | 2.6 | Easy |
 | [Fast Food Prizes](https://open.kattis.com/problems/fastfood) | [fastfood](solutions/fastfood.java) | 2.0 | Easy |
