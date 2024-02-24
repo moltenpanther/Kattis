@@ -578,6 +578,7 @@ Solved: 730+
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [shatteredcake](solutions/shatteredcake.java) | 1.4 | Easy |
 | [Sheba's Amoebas](https://open.kattis.com/problems/amoebas) | [amoebas](solutions/amoebas.java) | 2.0 | Easy |
 | [Shiritori](https://open.kattis.com/problems/shiritori) | [shiritori](solutions/shiritori.java) | 2.4 | Easy |
+| [Shopping List](https://open.kattis.com/problems/shoppinglist) | [shoppinglist](solutions/shoppinglist.java) | 3.3 | Medium |
 | [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy) | [shoppinglisteasy](solutions/shoppinglisteasy.java) | 2.0 | Easy |
 | [Sibice](https://open.kattis.com/problems/sibice) | [sibice](solutions/sibice.java) | 1.5 | Easy |
 | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [sidewayssorting](solutions/sidewayssorting.java) | 2.3 | Easy |
