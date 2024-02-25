@@ -121,6 +121,7 @@ Solved: 730+
 | [Cetiri](https://open.kattis.com/problems/cetiri) | [cetiri](solutions/cetiri.java) | 1.8 | Easy |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](solutions/cetvrta.java) | 1.4 | Easy |
 | [Champernowne Count](https://open.kattis.com/problems/champernownecount) | [champernownecount](solutions/champernownecount.java) | 3.6 | Medium |
+| [Champernowne Verification](https://open.kattis.com/problems/champernowneverification) | [champernowneverification](solutions/champernowneverification.java) | 1.4 | Easy |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [chanukah](solutions/chanukah.java) | 1.4 | Easy |
 | [Character Development](https://open.kattis.com/problems/character) | [character](solutions/character.java) | 2.3 | Easy |
 | [Charged](https://open.kattis.com/problems/charged) | [charged](solutions/charged.java) | 2.1 | Easy |
