@@ -686,6 +686,7 @@ Solved: 730+
 | [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](solutions/touchscreenkeyboard.java) | 2.3 | Easy |
 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](solutions/tornbygge.java) | 1.7 | Easy |
 | [Track Smoothing](https://open.kattis.com/problems/tracksmoothing) | [tracksmoothing](solutions/tracksmoothing.java) | 1.8 | Easy |
+| [Training](https://open.kattis.com/problems/training) | [training](solutions/training.java) | 1.4 | Easy |
 | [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [trainpassengers](solutions/trainpassengers.java) | 3.2 | Medium |
 | [Tram](https://open.kattis.com/problems/tram) | [tram](solutions/tram.java) | 2.2 | Easy |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](solutions/transitwoes.java) | 1.5 | Easy |
