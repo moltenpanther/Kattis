@@ -539,6 +539,7 @@ Solved: 730+
 | [Ragged Right](https://open.kattis.com/problems/raggedright) | [raggedright](solutions/raggedright.java) | 1.9 | Easy |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](solutions/railroad2.java) | 1.5 | Easy |
 | [Railway Runner](https://open.kattis.com/problems/railwayrunner) | [railwayrunner](solutions/railwayrunner.java) | 3.8 | Medium |
+| [Rampant Growth](https://open.kattis.com/problems/rampantgrowth) | [rampantgrowth](solutions/rampantgrowth.java) | 1.7 | Medium |
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [ratingproblems](solutions/ratingproblems.java) | 1.4 | Easy |
 | [Rational Arithmetic](https://open.kattis.com/problems/rationalarithmetic) | [rationalarithmetic](solutions/rationalarithmetic.java) | 3.5 | Medium |
 | [Recount](https://open.kattis.com/problems/recount) | [recount](solutions/recount.java) | 2.0 | Easy |
