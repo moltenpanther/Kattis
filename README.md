@@ -476,6 +476,7 @@ Solved: 740+
 | [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking) | [pachydermpeanutpacking](solutions/pachydermpeanutpacking.java) | 2.0 | Easy |
 | [Packagemanager](https://open.kattis.com/problems/pakethanterare) | [pakethanterare](solutions/pakethanterare.java) | 1.5 - 1.9 | Easy |
 | [Pallatölur](https://open.kattis.com/problems/pallatolur) | [pallatolur](solutions/pallatolur.java) | 2.4 | Easy |
+| [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [pairingsocks](solutions/pairingsocks.java) | 2.9 | Medium |
 | [Parent Gap](https://open.kattis.com/problems/parentgap) | [parentgap](solutions/parentgap.java) | 2.6 | Easy |
 | [Parking](https://open.kattis.com/problems/parking) | [parking](solutions/parking.java) | 2.3 | Easy |
 | [Parking](https://open.kattis.com/problems/parking2) | [parking2](solutions/parking2.java) | 1.5 | Easy |
