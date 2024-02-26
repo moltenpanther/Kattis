@@ -230,6 +230,7 @@ Solved: 740+
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
 | [Evening Out 1](https://open.kattis.com/problems/eveningout1) | [eveningout1](solutions/eveningout1.java) | 2.5 | Easy |
 | [Event Planning](https://open.kattis.com/problems/eventplanning) | [eventplanning](solutions/eventplanning.java) | 2.2 | Easy |
+| [Even Up](https://open.kattis.com/problems/evenup) | [evenup](solutions/evenup.java) | 2.8 | Medium |
 | [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical) | [exactlyelectrical](solutions/exactlyelectrical.java) | 2.2 | Easy |
 | [Exam](https://open.kattis.com/problems/exam) | [exam](solutions/exam.java) | 2.2 | Easy |
 | [Expected Earnings](https://open.kattis.com/problems/expectedearnings) | [expectedearnings](solutions/expectedearnings.java) | 1.9 | Easy |
