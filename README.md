@@ -315,6 +315,7 @@ Solved: 740+
 | [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces](solutions/hidingplaces.java) | 1.7 | Easy |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](solutions/hissingmicrophone.java) | 1.4 | Easy |
 | [Hitting the Targets](https://open.kattis.com/problems/hittingtargets) | [hittingtargets](solutions/hittingtargets.java) | 1.6 | Easy |
+| [Holey N-Queens (Batman)](https://open.kattis.com/problems/holeynqueensbatman) | [holeynqueensbatman](solutions/holeynqueensbatman.java) | 2.6 | Easy |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [heimavinna](solutions/heimavinna.java) | 1.1 - 1.5 | Easy |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](solutions/apaxianparent.java) | 1.7 | Easy |
 | [Hot Hike](https://open.kattis.com/problems/hothike) | [hothike](solutions/hothike.java) | 2.1 | Easy |
