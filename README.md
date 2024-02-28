@@ -337,6 +337,7 @@ Solved: 740+
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [imageprocessing](solutions/imageprocessing.java) | 2.0 | Easy |
 | [Imperial Measurement](https://open.kattis.com/problems/measurement) | [measurement](solutions/measurement.java) | 2.0 | Easy |
 | [Incognito](https://open.kattis.com/problems/incognito) | [incognito](solutions/incognito.java) | 3.3 | Medium |
+| [Inflation](https://open.kattis.com/problems/inflation) | [inflation](solutions/inflation.java) | 2.0 | Easy |
 | [Inflation](https://open.kattis.com/problems/inflation2) | [inflation2](solutions/inflation2.java) | 1.2 - 3.6 | Medium |
 | [Integer Lists](https://open.kattis.com/problems/integerlists) | [integerlists](solutions/integerlists.java) | 5.3 | Medium |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](solutions/internationaldates.java) | 1.5 | Easy |
