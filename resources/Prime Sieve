@@ -1,40 +1,24 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.BitSet;
-
-public class Kattis {
+public static LinkedList<Integer> getPrimes(){
     
-    public static void main(String[] args) throws IOException {
-        
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        
-    //  String[] line = br.readLine().split(" ");
-    //  int num = Integer.parseInt(line[0]);
-        
-        int num = 100000000;
-        
-        int sqrt = (int) Math.sqrt(num);
-        BitSet sieve = new BitSet();
-        sieve.set(0, true);
-        
-        for(int i = 1; i <= sqrt; i += 2) {
-            if(!sieve.get((i - 1) / 2)) {   
-                for(int j = 0; j <= num; j += 2) {
-                    int index = (i * i) + (j * i);
-                    if(index < num) {
-                        sieve.set((index - 1) / 2, true);
-                    }else {
-                        j = num;
-                    }
-                }
+//	int num = 100000000;
+    int num = 1000;
+    
+    LinkedList<Integer> primes = new LinkedList<Integer>();
+    
+    BitSet sieve = new BitSet();
+    sieve.set(0, true);
+    
+    primes.add(2);
+    for (int i = 1; i <= num; i += 2) {
+        if (!sieve.get((i - 1) / 2)) {
+            primes.add(i);
+
+            // Sets multiples of the prime as not prime
+            for (int j = i * i; j <= num; j += 2 * i) {
+                sieve.set((j - 1) / 2, true);
             }
         }
-
-        // Output
-        System.out.println();
-        
-        br.close();
     }
 
+    return primes;
 }
