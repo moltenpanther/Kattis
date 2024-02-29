@@ -1,0 +1,71 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.HashSet;
+import java.util.LinkedList;
+
+public class Kattis {
+	
+    public static void main(String[] args) throws IOException {
+    	
+    //	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\molte\\eclipse-workspace\\Kattis\\bin\\input.txt"));
+        
+        String[] line = br.readLine().split(" ");
+        int num = Integer.parseInt(line[0]);
+        
+        LinkedList<Integer> primes = getPrimes();
+        
+        // Output
+        System.out.println("SIZE: " + primes.size());
+        for(int prime : primes) {
+        	System.out.println(prime);
+        }
+        
+    	br.close();
+    }
+    
+    public static LinkedList<Integer> getPrimes() {
+
+        // int num = 100000000;
+        int num = 79999999;
+
+        HashSet<Integer> sieve = new HashSet<>();
+        LinkedList<Integer> primes = new LinkedList<>();
+
+        primes.add(2);
+        for (int i = 3; i <= num; i += 2) {
+            if (!sieve.contains(i)) {
+                char ch = (i + "").charAt(0);
+                if (ch == '2' || ch == '3' || ch == '5' || ch == '7') {
+                
+                    boolean good = true;
+                    String primeStr = i + "";
+                    for (int j = 1; j <= primeStr.length(); j++) {
+
+                        int sub = Integer.parseInt(primeStr.substring(0, j));
+                        if (sieve.contains(sub) || (sub % 2 == 0) && sub != 2) {
+                            good = false;
+                        }
+                    }
+                    
+                    if(good) {
+                    	primes.add(i);
+                    }
+                    
+                }
+
+                // Sets multiples of the prime as not prime
+                for (int j = i * i; j <= num && j > 0; j += 2 * i) {
+                	if(j < 0) {
+                		System.exit(0);
+                	}
+                    sieve.add(j);
+                }
+            }
+        }
+
+        return primes;
+    }
+    
+}
