@@ -474,6 +474,7 @@ Solved: 740+
 | [Ordinals](https://open.kattis.com/problems/ordinals) | [ordinals](solutions/ordinals.java) | 1.7 | Easy |
 | [Ornaments](https://open.kattis.com/problems/ornaments) | [ornaments](solutions/ornaments.java) | 2.6 | Easy |
 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [ostgotska](solutions/ostgotska.java) | 1.7 | Easy |
+| [Out of Sorts](https://open.kattis.com/problems/outofsorts) | [outofsorts](solutions/outofsorts.java) | 2.4 | Easy |
 | [Overdraft](https://open.kattis.com/problems/overdraft) | [overdraft](solutions/overdraft.java) | 2.0 | Easy |
 | [Óvissa](https://open.kattis.com/problems/ovissa) | [ovissa](solutions/ovissa.java) | 1.4 | Easy |
 | [Over the Hill, Part 1](https://open.kattis.com/problems/overthehill1) | [overthehill1](solutions/overthehill1.java) | 2.5 | Easy |
