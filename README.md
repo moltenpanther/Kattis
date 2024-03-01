@@ -93,6 +93,7 @@ Solved: 750+
 | [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 - 1.9 | Easy |
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](solutions/boatparts.java) | 1.6 | Easy |
+| [Boggle](https://open.kattis.com/problems/boggle) | [boggle](solutions/boggle.java) | 4.5 | Medium |
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [bookingaroom](solutions/bookingaroom.java) | 1.6 | Easy |
 | [Boss Battle](https://open.kattis.com/problems/bossbattle) | [bossbattle](solutions/bossbattle.java) | 1.8 | Easy |
 | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup) | [bottledup](solutions/bottledup.java) | 2.5 | Easy |
