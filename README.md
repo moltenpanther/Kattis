@@ -403,6 +403,7 @@ Solved: 750+
 | [A List Game](https://open.kattis.com/problems/listgame) | [listgame](solutions/listgame.java) | 2.8 | Medium |
 | [Locust Locus](https://open.kattis.com/problems/locustlocus) | [locustlocus](solutions/locustlocus.java) | 1.9 | Easy |
 | [Logic Functions](https://open.kattis.com/problems/logicfunctions) | [logicfunctions](solutions/logicfunctions.cpp) | 1.5 | Easy |
+| [Longest Prime Sum](https://open.kattis.com/problems/longestprimesum) | [longestprimesum](solutions/longestprimesum.java) | 2.3 | Easy |
 | [Loo Rolls](https://open.kattis.com/problems/loorolls) | [loorolls](solutions/loorolls.java) | 1.7 | Easy |
 | [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](solutions/lostlineup.java) | 1.6 | Easy |
 | [Lost Map](https://open.kattis.com/problems/lostmap) | [lostmap](solutions/lostmap.java) | 1.8 | Easy |
