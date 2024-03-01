@@ -387,6 +387,7 @@ Solved: 750+
 | [Križaljka](https://open.kattis.com/problems/krizaljka) | [krizaljka](solutions/krizaljka.java) | 1.8 | Easy |
 | [Ladder](https://open.kattis.com/problems/ladder) | [ladder](solutions/ladder.java) | 1.5 | Easy |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](solutions/laptopsticker.java) | 1.5 | Easy |
+| [Laptop Stickers](https://open.kattis.com/problems/laptopstickers) | [laptopstickers](solutions/laptopstickers.java) | 2.6 | Easy |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](solutions/lastfactorialdigit.java) | 1.5 | Easy |
 | [Last Minute](https://open.kattis.com/problems/lastminute) | [lastminute](solutions/lastminute.java) | 2.3 | Easy |
 | [Lawn Mower](https://open.kattis.com/problems/lawnmower) | [lawnmower](solutions/lawnmower.java) | 2.0 | Easy |
