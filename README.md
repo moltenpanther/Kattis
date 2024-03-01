@@ -261,6 +261,7 @@ Solved: 750+
 | [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](solutions/forcedchoice.java) | 1.5 | Easy |
 | [Fountain](https://open.kattis.com/problems/fontan) | [fontan](solutions/fontan.java) | 2.0 | Easy |
 | [Four Die Rolls](https://open.kattis.com/problems/fourdierolls) | [fourdierolls](solutions/fourdierolls.java) | 2.5 | Easy |
+| [Fractional Lotion](https://open.kattis.com/problems/fractionallotion) | [fractionallotion](solutions/fractionallotion.java) | 2.7 | Easy |
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa) | [fifa](solutions/fifa.java) | 1.5 - 1.6 | Easy |
 | [Free Food](https://open.kattis.com/problems/freefood) | [freefood](solutions/freefood.java) | 1.6 | Easy |
 | [Friday the 13th](https://open.kattis.com/problems/friday) | [friday](solutions/friday.java) | 2.0 | Easy |
