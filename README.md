@@ -569,6 +569,7 @@ Solved: 740+
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
 | [Running Race](https://open.kattis.com/problems/kaploeb) | [kaploeb](solutions/kaploeb.java) | 2.4 - 2.8 | Easy |
+| [Safe Houses](https://open.kattis.com/problems/safehouses) | [safehouses](solutions/safehouses.java) | 2.6 | Easy |
 | [Same Digits (Easy)](https://open.kattis.com/problems/samedigitseasy) | [samedigitseasy](solutions/samedigitseasy.java) | 2.1 | Easy |
 | [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard) | [samedigitshard](solutions/samedigitshard.java) | 2.5 | Easy |
 | [Sanic](https://open.kattis.com/problems/sanic) | [sanic](solutions/sanic.java) | 2.8 | Medium |
