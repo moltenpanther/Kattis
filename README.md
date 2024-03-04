@@ -610,6 +610,7 @@ Solved: 750+
 | [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic) | [simplearithmetic](solutions/simplearithmetic.java) | 1.2 - 4.3 | Medium |
 | [Simple Factoring](https://open.kattis.com/problems/simplefactoring) | [simplefactoring](solutions/simplefactoring.java) | 2.5 | Easy |
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [simplicity](solutions/simplicity.java) | 2.8 | Medium |
+| [Simply Sudoku](https://open.kattis.com/problems/simplysudoku) | [simplysudoku](solutions/simplysudoku.java) | 3.5 | Medium |
 | [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
 | [Skammstöfun](https://open.kattis.com/problems/skammstofun) | [skammstofun](solutions/skammstofun.java) | 1.7 - 2.0 | Easy |
