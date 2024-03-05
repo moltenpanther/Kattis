@@ -28,7 +28,8 @@ Solved: 750+
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
 | [Akcija](https://open.kattis.com/problems/akcija) | [akcija](solutions/akcija.java) | 2.8 | Medium |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | [aleidibio](solutions/aleidibio.java) | 1.4 | Easy |
-| [Álmost Perfect](https://open.kattis.com/problems/almostperfect) | [almostperfect](solutions/almostperfect.java) | 3.0 | Medium |
+| [Alien Math](https://open.kattis.com/problems/alienmath) | [alienmath](solutions/alienmath.java) | 2.9 | Medium |
+| [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [almostperfect](solutions/almostperfect.java) | 3.0 | Medium |
 | [Alphabet](https://open.kattis.com/problems/alphabet) | [alphabet](solutions/alphabet.java) | 2.9 | Medium |
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [alphabetspam](solutions/alphabetspam.java) | 3.9 | Medium |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
