@@ -494,6 +494,7 @@ Solved: 750+
 | [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](solutions/parsinghex.java) | 2.8 | Medium |
 | [Pascal](https://open.kattis.com/problems/pascal) | [pascal](solutions/pascal.java) | 3.3 | Medium |
 | [Password Hacking](https://open.kattis.com/problems/password) | [password](solutions/password.java) | 2.2 | Easy |
+| [Patchwork](https://open.kattis.com/problems/patchwork) | [patchwork](solutions/patchwork.java) | 2.4 | Easy |
 | [Patuljci](https://open.kattis.com/problems/patuljci) | [patuljci](solutions/patuljci.java) | 1.8 | Easy |
 | [Path Tracing](https://open.kattis.com/problems/pathtracing) | [pathtracing](solutions/pathtracing.java) | 3.3 | Medium |
 | [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](solutions/pauleigon.java) | 1.8 | Easy |
