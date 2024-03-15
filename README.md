@@ -91,6 +91,7 @@ Solved: 760+
 | [Bits](https://open.kattis.com/problems/bits) | [bits](solutions/bits.java) | 2.5 | Easy |
 | [Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit) | [bitteeinbit](solutions/bitteeinbit.java) | 1.3 | Easy |
 | [Black Friday](https://open.kattis.com/problems/blackfriday) | [blackfriday](solutions/blackfriday.java) | 2.2 | Easy |
+| [Blandað Best](https://open.kattis.com/problems/blandadbest) | [blandadbest](solutions/blandadbest.java) | 1.4 | Easy |
 | [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 - 1.9 | Easy |
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy |
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](solutions/boatparts.java) | 1.6 | Easy |
@@ -256,6 +257,7 @@ Solved: 760+
 | [Finding An A](https://open.kattis.com/problems/findingana) | [findingana](solutions/findingana.java) | 1.3 | Easy |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](solutions/fizzbuzz.java) | 1.3 | Easy |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz2) | [fizzbuzz2](solutions/fizzbuzz2.java) | 3.1 | Medium |
+| [Fjöldi Bókstafa](https://open.kattis.com/problems/fjoldibokstafa) | [fjoldibokstafa](solutions/fjoldibokstafa.java) | 1.2 - 1.5 | Easy |
 | [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla) | [flatbokuveisla](solutions/flatbokuveisla.java) | 1.4 | Easy |
 | [Flexible](https://open.kattis.com/problems/flexible) | [flexible](solutions/flexible.java) | 1.8 | Easy |
 | [Flip Flow](https://open.kattis.com/problems/flipflow) | [flipflow](solutions/flipflow.java) | 2.0 | Easy |
