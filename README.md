@@ -253,6 +253,7 @@ Solved: 760+
 | [Fibs og Dibs](https://open.kattis.com/problems/fibsogdibs) | [fibsogdibs](solutions/fibsogdibs.java) | 2.3 - 5.9 | Hard |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](solutions/fiftyshades.java) | 1.5 | Easy |
 | [Filip](https://open.kattis.com/problems/filip) | [filip](solutions/filip.java) | 1.4 | Easy |
+| [Fimmtudagstilboð](https://open.kattis.com/problems/fimmtudagstilbod) | [fimmtudagstilbod](solutions/fimmtudagstilbod.java) | 1.3 - 1.6 | Easy |
 | [Final Exam](https://open.kattis.com/problems/finalexam2) | [finalexam2](solutions/finalexam2.java) | 1.7 | Easy |
 | [Finding An A](https://open.kattis.com/problems/findingana) | [findingana](solutions/findingana.java) | 1.3 | Easy |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](solutions/fizzbuzz.java) | 1.3 | Easy |
