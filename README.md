@@ -201,6 +201,7 @@ Solved: 750+
 | [Don't Fall Down Stairs](https://open.kattis.com/problems/dontfalldownstairs) | [dontfalldownstairs](solutions/dontfalldownstairs.java) | 2.2 | Easy |
 | [Double Password](https://open.kattis.com/problems/doublepassword) | [doublepassword](solutions/doublepassword.java) | 1.6 | Easy |
 | [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [downtime](solutions/downtime.java) | 3.2 | Medium |
+| [Draga Frá](https://open.kattis.com/problems/dragafra) | [dragafra](solutions/dragafra.java) | 1.2 | Easy |
 | [Dreamer](https://open.kattis.com/problems/dreamer) | [dreamer](solutions/dreamer.java) | 2.3 | Easy |
 | [Drinking Song](https://open.kattis.com/problems/drinkingsong) | [drinkingsong](solutions/drinkingsong.java) | 2.3 | Easy |
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [drmmessages](solutions/drmmessages.java) | 1.5 | Easy |
