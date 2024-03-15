@@ -410,6 +410,7 @@ Solved: 750+
 | [Loo Rolls](https://open.kattis.com/problems/loorolls) | [loorolls](solutions/loorolls.java) | 1.7 | Easy |
 | [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](solutions/lostlineup.java) | 1.6 | Easy |
 | [Lost Map](https://open.kattis.com/problems/lostmap) | [lostmap](solutions/lostmap.java) | 1.8 | Easy |
+| [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir) | [lubbilaerir](solutions/lubbilaerir.java) | 1.2 | Easy |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](solutions/luhnchecksum.java) | 1.8 | Easy |
 | [Mæting](https://open.kattis.com/problems/maeting) | [maeting](solutions/maeting.java) | 2.1 | Easy |
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](solutions/magictrick.java) | 1.4 | Easy |
