@@ -390,6 +390,7 @@ Solved: 750+
 | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge) | [knotknowledge](solutions/knotknowledge.java) | 1.5 | Easy |
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](solutions/kornislav.java) | 1.6 | Easy |
 | [Križaljka](https://open.kattis.com/problems/krizaljka) | [krizaljka](solutions/krizaljka.java) | 1.8 | Easy |
+| [Kveðja](https://open.kattis.com/problems/kvedja) | [kvedja](solutions/kvedja.java) | 1.3 | Easy |
 | [Ladder](https://open.kattis.com/problems/ladder) | [ladder](solutions/ladder.java) | 1.5 | Easy |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](solutions/laptopsticker.java) | 1.5 | Easy |
 | [Laptop Stickers](https://open.kattis.com/problems/laptopstickers) | [laptopstickers](solutions/laptopstickers.java) | 2.6 | Easy |
