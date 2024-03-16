@@ -719,6 +719,7 @@ Solved: 760+
 | [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [trainpassengers](solutions/trainpassengers.java) | 3.2 | Medium |
 | [Tram](https://open.kattis.com/problems/tram) | [tram](solutions/tram.java) | 2.2 | Easy |
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](solutions/transitwoes.java) | 1.5 | Easy |
+| [Trapizza](https://open.kattis.com/problems/trapizza) | [trapizza](solutions/trapizza.java) | 2.7 | Easy |
 | [Treasure Hunt](https://open.kattis.com/problems/treasurehunt) | [treasurehunt](solutions/treasurehunt.java) | 2.7 | Easy |
 | [Three in a Row](https://open.kattis.com/problems/treirad) | [treirad](solutions/treirad.java) | 2.2 - 2.4 | Easy |
 | [Tri](https://open.kattis.com/problems/tri) | [tri](solutions/tri.java) | 1.8 | Easy |
