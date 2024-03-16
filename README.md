@@ -186,6 +186,7 @@ Solved: 760+
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [deathstar](solutions/deathstar.java) | 1.8 | Easy |
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [delimitersoup](solutions/delimitersoup.java) | 2.0 | Easy |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](solutions/detaileddifferences.java) | 1.4 | Easy |
+| [D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki) | [dfyrirdreki](solutions/dfyrirdreki.java) | 1.4 - 1.6 | Easy |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](solutions/dicecup.java) | 1.4 | Easy |
 | [Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](solutions/dicegame.java) | 1.6 | Easy |
 | [Different Distances](https://open.kattis.com/problems/differentdistances) | [differentdistances](solutions/differentdistances.java) | 1.7 | Easy |
