@@ -85,6 +85,7 @@ Solved: 760+
 | [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | [bestrelayteam](solutions/bestrelayteam.java) | 2.0 | Easy |
 | [Betting](https://open.kattis.com/problems/betting) | [betting](solutions/betting.java) | 1.3 | Easy |
 | [Bijele](https://open.kattis.com/problems/bijele) | [bijele](solutions/bijele.java) | 1.4 | Easy |
+| [Bilað Lyklaborð](https://open.kattis.com/problems/biladlyklabord) | [biladlyklabord](solutions/biladlyklabord.java) | 1.9 | Easy |
 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [fodelsedagsmemorisering](solutions/fodelsedagsmemorisering.java) | 1.2 - 1.7 | Easy |
 | [Bishops](https://open.kattis.com/problems/bishops) | [bishops](solutions/bishops.java) | 2.3 | Easy |
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [bitbybit](solutions/bitbybit.java) | 3.4 | Medium |
