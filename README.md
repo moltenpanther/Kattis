@@ -407,6 +407,7 @@ Solved: 760+
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [leggjasaman](solutions/leggjasaman.java) | 1.4 | Easy |
 | [Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer) | [lessvsfewer](solutions/lessvsfewer.java) | 2.1 | Easy |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
+| [Liðaskipting 2](https://open.kattis.com/problems/lidaskipting2) | [lidaskipting2](solutions/lidaskipting2.java) | 1.7 - 2.9 | Medium |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
 | [Lines Per Hour](https://open.kattis.com/problems/linesperhour) | [linesperhour](solutions/linesperhour.java) | 1.7 | Easy |
 | [Liquid Assets](https://open.kattis.com/problems/liquidassets) | [liquidassets](solutions/liquidassets.java) | 3.3 | Medium |
