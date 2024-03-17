@@ -559,6 +559,7 @@ Solved: 770+
 | [Prva](https://open.kattis.com/problems/prva) | [prva](solutions/prva.java) | 1.7 | Easy |
 | [Ptice](https://open.kattis.com/problems/ptice) | [ptice](solutions/ptice.java) | 1.6 | Easy |
 | [Pub Crawl](https://open.kattis.com/problems/pubrunda) | [pubrunda](solutions/pubrunda.java) | 1.9 | Easy |
+| [Púsluspil](https://open.kattis.com/problems/pusluspil) | [pusluspil](solutions/pusluspil.java) | 1.7 - 3.1 | Medium |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [quadrant](solutions/quadrant.java) | 1.3 | Easy |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](solutions/qaly.java) | 1.3 | Easy |
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [quickbrownfox](solutions/quickbrownfox.java) | 1.8 | Easy |
