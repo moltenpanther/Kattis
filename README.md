@@ -388,6 +388,7 @@ Solved: 770+
 | [kcuD dlanoD](https://open.kattis.com/problems/kcuddlanod) | [kcuddlanod](solutions/kcuddlanod.java) | 1.8 | Easy |
 | [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](solutions/kemija08.java) | 1.8 | Easy |
 | [Keyboardd](https://open.kattis.com/problems/keyboardd) | [keyboardd](solutions/keyboardd.java) | 2.6 | Easy |
+| [Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet) | [keysphonewallet](solutions/keysphonewallet.java) | 1.3 | Easy |
 | [Keystrokes](https://open.kattis.com/problems/lyklagangriti) | [lyklagangriti](solutions/lyklagangriti.java) | 1.1 - 4.7 | Medium |
 | [Keywords](https://open.kattis.com/problems/keywords) | [keywords](solutions/keywords.java) | 2.2 | Easy |
 | [Kiki Boba](https://open.kattis.com/problems/kikiboba) | [kikiboba](solutions/kikiboba.java) | 1.2 - 1.3 | Easy |
