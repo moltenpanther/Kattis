@@ -119,6 +119,7 @@ Solved: 770+
 | [Calories From Fat](https://open.kattis.com/problems/calories) | [calories](solutions/calories.java) | 2.3 | Easy |
 | [Canadians, eh?](https://open.kattis.com/problems/canadianseh) | [canadianseh](solutions/canadianseh.java) | 1.6 | Easy |
 | [Candle Box](https://open.kattis.com/problems/candlebox) | [candlebox](solutions/candlebox.java) | 2.5 | Medium |
+| [Candy Store](https://open.kattis.com/problems/candystore) | [candystore](solutions/candystore.java) | 1.5 | Easy |
 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](solutions/cardtrick2.java) | 1.8 | Easy |
 | [Carousel Rides](https://open.kattis.com/problems/carousel) | [carousel](solutions/carousel.java) | 2.6 | Easy |
 | [Catalan Numbers](https://open.kattis.com/problems/catalan) | [catalan](solutions/catalan.java) | 3.9 | Medium |
