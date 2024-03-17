@@ -593,6 +593,7 @@ Solved: 770+
 | [Same Digits (Easy)](https://open.kattis.com/problems/samedigitseasy) | [samedigitseasy](solutions/samedigitseasy.java) | 2.1 | Easy |
 | [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard) | [samedigitshard](solutions/samedigitshard.java) | 2.5 | Easy |
 | [Sanic](https://open.kattis.com/problems/sanic) | [sanic](solutions/sanic.java) | 2.8 | Medium |
+| [Sannvirði](https://open.kattis.com/problems/sannvirdi) | [sannvirdi](solutions/sannvirdi.java) | 1.7 - 4.1 | Medium |
 | [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](solutions/savingdaylight.java) | 1.9 | Easy |
 | [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](solutions/savingforretirement.java) | 2.0 | Easy |
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](solutions/princesspeach.java) | 2.1 | Easy |
