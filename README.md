@@ -281,6 +281,7 @@ Solved: 760+
 | [FYI](https://open.kattis.com/problems/fyi) | [fyi](solutions/fyi.java) | 1.3 | Easy |
 | [Game of Throwns](https://open.kattis.com/problems/throwns) | [throwns](solutions/throwns.java) | 2.7 | Easy |
 | [Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell) | [gandalfsspell](solutions/gandalfsspell.java) | 2.1 | Easy |
+| [Gangur](https://open.kattis.com/problems/gangur) | [gangur](solutions/gangur.java) | 1.4 - 2.6 | Easy |
 | [GCD](https://open.kattis.com/problems/gcd) | [gcd](solutions/gcd.java) | 1.7 | Easy |
 | [GCVWR](https://open.kattis.com/problems/gcvwr) | [gcvwr](solutions/gcvwr.java) | 1.4 | Easy |
 | [Genetic Search](https://open.kattis.com/problems/geneticsearch) | [geneticsearch](solutions/geneticsearch.java) | 2.2 | Easy |
