@@ -741,6 +741,7 @@ Solved: 770+
 | [Turtle Master](https://open.kattis.com/problems/turtlemaster) | [turtlemaster](solutions/turtlemaster.java) | 2.8 | Medium |
 | [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](solutions/twosum.java) | 1.4 | Easy |
 | [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff) | [ullendullendoff](solutions/ullendullendoff.java) | 2.2 - 2.4 | Easy |
+| [Úllen dúllen doff 2](https://open.kattis.com/problems/ullendullendoff2) | [ullendullendoff2](solutions/ullendullendoff2.java) | 1.5 - 3.9 | Medium |
 | [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](solutions/ultimatebinarywatch.java) | 1.7 | Easy |
 | [Umferð](https://open.kattis.com/problems/umferd) | [umferd](solutions/umferd.java) | 1.4 - 2.0 | Easy |
 | [Umm Code](https://open.kattis.com/problems/ummcode) | [ummcode](solutions/ummcode.java) | 3.4 | Medium |
