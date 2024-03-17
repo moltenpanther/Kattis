@@ -516,6 +516,7 @@ Solved: 770+
 | [Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon) | [peachpowderpolygon](solutions/peachpowderpolygon.java) | 1.9 | Easy |
 | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [peasoup](solutions/peasoup.java) | 3.0 | Medium |
 | [Peg](https://open.kattis.com/problems/peg) | [peg](solutions/peg.java) | 2.0 | Easy |
+| [Pencil Crayons](https://open.kattis.com/problems/pencilcrayons) | [pencilcrayons](solutions/pencilcrayons.java) | 1.6 | Easy |
 | [Peragrams](https://open.kattis.com/problems/peragrams) | [peragrams](solutions/peragrams.java) | 1.9 | Easy |
 | [Periodic Strings](https://open.kattis.com/problems/periodicstrings) | [periodicstrings](solutions/periodicstrings.java) | 2.6 | Easy |
 | [Permutation Code](https://open.kattis.com/problems/permcode) | [permcode](solutions/permcode.java) | 2.3 | Easy |
