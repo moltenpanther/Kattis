@@ -331,6 +331,7 @@ Solved: 770+
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](solutions/hissingmicrophone.java) | 1.4 | Easy |
 | [Hitting the Targets](https://open.kattis.com/problems/hittingtargets) | [hittingtargets](solutions/hittingtargets.java) | 1.6 | Easy |
 | [Hnappasetningaskipti](https://open.kattis.com/problems/hnappasetningaskipti) | [hnappasetningaskipti](solutions/hnappasetningaskipti.java) | 1.7 - 2.7 | Easy |
+| [Höfundaleit](https://open.kattis.com/problems/hofundaleit) | [hofundaleit](solutions/hofundaleit.java) | 1.9 - 5.2 | Medium |
 | [Holey N-Queens (Batman)](https://open.kattis.com/problems/holeynqueensbatman) | [holeynqueensbatman](solutions/holeynqueensbatman.java) | 2.6 | Easy |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [heimavinna](solutions/heimavinna.java) | 1.1 - 1.5 | Easy |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](solutions/apaxianparent.java) | 1.7 | Easy |
