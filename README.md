@@ -71,6 +71,7 @@ Solved: 780+
 | [Backspace](https://open.kattis.com/problems/backspace) | [backspace](solutions/backspace.java) | 3.2 | Medium |
 | [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) | [baconeggsandspam](solutions/baconeggsandspam.java) | 1.9 | Easy |
 | [Bannorð](https://open.kattis.com/problems/bannord) | [bannord](solutions/bannord.java) | 3.3 | Medium |
+| [Barcelona](https://open.kattis.com/problems/barcelona) | [barcelona](solutions/barcelona.java) | 1.3 | Easy |
 | [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [basicprogramming1](solutions/basicprogramming1.java) | 3.9 | Medium |
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [basicprogramming2](solutions/basicprogramming2.java) | 3.5 | Medium |
 | [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [basketballoneonone](solutions/basketballoneonone.java) | 1.7 | Easy |
