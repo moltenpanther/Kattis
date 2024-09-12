@@ -416,6 +416,7 @@ Solved: 780+
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [leftbeehind](solutions/leftbeehind.java) | 1.7 | Easy |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [leggjasaman](solutions/leggjasaman.java) | 1.4 | Easy |
 | [Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer) | [lessvsfewer](solutions/lessvsfewer.java) | 2.1 | Easy |
+| [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta) | [leynithjonusta](solutions/leynithjonusta.java) | 1.1 - 1.3 | Easy |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
 | [Liðaskipting 2](https://open.kattis.com/problems/lidaskipting2) | [lidaskipting2](solutions/lidaskipting2.java) | 1.7 - 2.9 | Medium |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
