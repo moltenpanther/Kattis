@@ -94,6 +94,7 @@ Solved: 780+
 | [Bits](https://open.kattis.com/problems/bits) | [bits](solutions/bits.java) | 2.5 | Easy |
 | [Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit) | [bitteeinbit](solutions/bitteeinbit.java) | 1.3 | Easy |
 | [Black Friday](https://open.kattis.com/problems/blackfriday) | [blackfriday](solutions/blackfriday.java) | 2.2 | Easy |
+| [Blaðra](https://open.kattis.com/problems/bladra) | [bladra](solutions/bladra.java) | 1.2 | Easy |
 | [Blandað Best](https://open.kattis.com/problems/blandadbest) | [blandadbest](solutions/blandadbest.java) | 1.4 | Easy |
 | [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 - 1.9 | Easy |
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy |
