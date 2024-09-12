@@ -693,8 +693,9 @@ Solved: 780+
 | [Tai's formula](https://open.kattis.com/problems/taisformula) | [taisformula](solutions/taisformula.java) | 1.6 | Easy |
 | [Tajna](https://open.kattis.com/problems/tajna) | [tajna](solutions/tajna.java) | 2.1 | Easy |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](solutions/twostones.java) | 1.4 | Easy |
-| [Taktsveðjur](https://open.kattis.com/problems/taktsvedjur) | [taktsvedjur](solutions/taktsvedjur.java) | 1.8 - 6.3 | Hard |
+| [Takk fyrir mig](https://open.kattis.com/problems/takkfyrirmig) | [takkfyrirmig](solutions/takkfyrirmig.java) | 1.2 | Easy |
 | [Takkar](https://open.kattis.com/problems/takkar) | [takkar](solutions/takkar.java) | 1.2 | Easy |
+| [Taktsveðjur](https://open.kattis.com/problems/taktsvedjur) | [taktsvedjur](solutions/taktsvedjur.java) | 1.8 - 6.3 | Hard |
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](solutions/tarifa.java) | 1.4 | Easy |
 | [Tastelogger](https://open.kattis.com/problems/keylogger) | [keylogger](solutions/keylogger.java) | 1.3 - 2.5 | Easy |
 | [Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation) | [teacherevaluation](solutions/teacherevaluation.java) | 3.1 | Medium |
