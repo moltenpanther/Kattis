@@ -673,6 +673,7 @@ Solved: 780+
 | [Statistics](https://open.kattis.com/problems/statistics) | [statistics](solutions/statistics.java) | 1.9 | Easy |
 | [Sticky Keys](https://open.kattis.com/problems/stickykeys) | [stickykeys](solutions/stickykeys.java) | 1.5 | Easy |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch) | [stopwatch](solutions/stopwatch.java) | 1.4 | Easy |
+| [Stórafmæli](https://open.kattis.com/problems/storafmaeli) | [storafmaeli](solutions/storafmaeli.java) | 1.1 - 1.2 | Easy |
 | [String Matching](https://open.kattis.com/problems/stringmatching) | [stringmatching](solutions/stringmatching.java) | 4.3 | Medium |
 | [Streets Ahead](https://open.kattis.com/problems/streetsahead) | [streetsahead](solutions/streetsahead.java) | 1.9 | Easy |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [timeloop](solutions/timeloop.java) | 1.4 | Easy |
