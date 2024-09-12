@@ -328,6 +328,7 @@ Solved: 780+
 | [Heroes of Velmar](https://open.kattis.com/problems/heroesofvelmar) | [heroesofvelmar](solutions/heroesofvelmar.java) | 1.9 | Easy |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [hidden](solutions/hidden.java) | 2.5 | Easy |
 | [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces](solutions/hidingplaces.java) | 1.7 | Easy |
+| [Hipp Hipp](https://open.kattis.com/problems/hipphipp) | [hipphipp](solutions/hipphipp.java) | 1.1 | Easy |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](solutions/hissingmicrophone.java) | 1.4 | Easy |
 | [Hitting the Targets](https://open.kattis.com/problems/hittingtargets) | [hittingtargets](solutions/hittingtargets.java) | 1.6 | Easy |
 | [Hnappasetningaskipti](https://open.kattis.com/problems/hnappasetningaskipti) | [hnappasetningaskipti](solutions/hnappasetningaskipti.java) | 1.7 - 2.7 | Easy |
