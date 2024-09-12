@@ -80,6 +80,7 @@ Solved: 780+
 | [Beehives](https://open.kattis.com/problems/beehives) | [beehives](solutions/beehives.java) | 2.2 | Easy |
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](solutions/beekeeper.java) | 2.6 | Easy |
 | [Bela](https://open.kattis.com/problems/bela) | [bela](solutions/bela.java) | 1.4 | Easy |
+| [BergMál](https://open.kattis.com/problems/bergmal) | [bergmal](solutions/bergmal.java) | 1.2 | Easy |
 | [Bendilfærslur](https://open.kattis.com/problems/bendilfaerslur) | [bendilfaerslur](solutions/bendilfaerslur.java) | 2.8 - 3.4 | Easy |
 | [Best Compression](https://open.kattis.com/problems/bestcompression) | [bestcompression](solutions/bestcompression.java) | 2.6 | Easy |
 | [Best Compromise](https://open.kattis.com/problems/compromise) | [compromise](solutions/compromise.java) | 2.1 | Easy |
