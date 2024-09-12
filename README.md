@@ -715,6 +715,7 @@ Solved: 780+
 | [The Weight of Words](https://open.kattis.com/problems/weightofwords) | [weightofwords](solutions/weightofwords.java) | 2.8 | Medium |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.java) | 1.8 | Easy |
 | [Tic-Tac State](https://open.kattis.com/problems/tictacstate) | [tictacstate](solutions/tictacstate.java) | 2.8 | Medium |
+| [Til hamingju](https://open.kattis.com/problems/tilhamingju) | [tilhamingju](solutions/tilhamingju.java) | 1.1 | Easy |
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
 | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature) | [temperature](solutions/temperature.java) | 2.2 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
