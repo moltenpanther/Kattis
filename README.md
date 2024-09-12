@@ -640,6 +640,7 @@ Solved: 780+
 | [Simply Sudoku](https://open.kattis.com/problems/simplysudoku) | [simplysudoku](solutions/simplysudoku.java) | 3.5 | Medium |
 | [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
+| [Skák](https://open.kattis.com/problems/skak) | [skak](solutions/skak.java) | 1.3 | Easy |
 | [Skammstöfun](https://open.kattis.com/problems/skammstofun) | [skammstofun](solutions/skammstofun.java) | 1.7 - 2.0 | Easy |
 | [Skener](https://open.kattis.com/problems/skener) | [skener](solutions/skener.java) | 1.6 | Easy |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [skocimis](solutions/skocimis.java) | 1.6 | Easy |
