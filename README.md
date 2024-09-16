@@ -184,6 +184,7 @@ Solved: 780+
 | [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | [cutthenegativity](solutions/cutthenegativity.java) | 1.4 | Easy |
 | [Cyanide Rivers](https://open.kattis.com/problems/cyanideriversy) | [cyaniderivers](solutions/cyaniderivers.java) | 2.2 | Easy |
 | [Cypher Decypher](https://open.kattis.com/problems/cypherdecypher) | [cypherdecypher](solutions/cypherdecypher.java) | 1.8 | Easy |
+| [Dagatal](https://open.kattis.com/problems/dagatal) | [dagatal](solutions/dagatal.java) | 1.2 | Easy |
 | [Damaged Equation](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.3 | Easy |
 | [Dart Scores](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.4 | Easy |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](solutions/dasblinkenlights.java) | 1.8 | Easy |
