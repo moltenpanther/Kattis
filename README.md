@@ -628,6 +628,7 @@ Solved: 780+
 | [Shiritori](https://open.kattis.com/problems/shiritori) | [shiritori](solutions/shiritori.java) | 2.4 | Easy |
 | [Shopping List](https://open.kattis.com/problems/shoppinglist) | [shoppinglist](solutions/shoppinglist.java) | 3.3 | Medium |
 | [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy) | [shoppinglisteasy](solutions/shoppinglisteasy.java) | 2.0 | Easy |
+| [A Shortcut To What?](https://open.kattis.com/problems/shortcuttowhat) | [shortcuttowhat](solutions/shortcuttowhat.java) | 1.3 | Easy |
 | [Sibice](https://open.kattis.com/problems/sibice) | [sibice](solutions/sibice.java) | 1.5 | Easy |
 | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [sidewayssorting](solutions/sidewayssorting.java) | 2.3 | Easy |
 | [Sim](https://open.kattis.com/problems/sim) | [sim](solutions/sim.java) | 3.4 | Medium |
