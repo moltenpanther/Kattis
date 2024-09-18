@@ -455,6 +455,7 @@ Solved: 790+
 | [Message](https://open.kattis.com/problems/meddelande) | [meddelande](solutions/meddelande.java) | 2.0 | Easy |
 | [Millifærsla](https://open.kattis.com/problems/millifaersla) | [millifaersla](solutions/millifaersla.java) | 1.5 | Easy |
 | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [millionairemadness](solutions/millionairemadness.java) | 1.9 | Easy |
+| [Minesweeper](https://open.kattis.com/problems/minesweeper) | [minesweeper](solutions/minesweeper.java) | 1.4 | Easy |
 | [Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar) | [minimumscalar](solutions/minimumscalar.java) | 2.0 | Easy |
 | [Mirror Images](https://open.kattis.com/problems/mirror) | [mirror](solutions/mirror.java) | 1.8 | Easy |
 | [Misa](https://open.kattis.com/problems/misa) | [misa](solutions/misa.java) | 2.0 | Easy |
