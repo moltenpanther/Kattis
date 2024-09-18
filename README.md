@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 790+
+Solved: 800+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -255,6 +255,7 @@ Solved: 790+
 | [Faktor](https://open.kattis.com/problems/faktor) | [faktor](solutions/faktor.java) | 1.4 | Easy |
 | [Falling Apart](https://open.kattis.com/problems/fallingapart) | [fallingapart](solutions/fallingapart.java) | 1.7 | Easy |
 | [Falling Apples](https://open.kattis.com/problems/apples) | [apples](solutions/apples.java) | 3.2 | Medium |
+| [Falling Snow](https://open.kattis.com/problems/fallingsnow2) | [fallingsnow2](solutions/fallingsnow2.java) | 1.4 | Easy |
 | [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity](solutions/falsesecurity.java) | 2.0 | Easy |
 | [Fastest Available Route](https://open.kattis.com/problems/fastestavailableroute) | [fastestavailableroute](solutions/fastestavailableroute.java) | 2.6 | Easy |
 | [Fast Food Prizes](https://open.kattis.com/problems/fastfood) | [fastfood](solutions/fastfood.java) | 2.0 | Easy |
