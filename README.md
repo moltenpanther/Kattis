@@ -313,6 +313,7 @@ Solved: 790+
 | [Guess the Number](https://open.kattis.com/problems/guess) | [guess](solutions/guess.java) | 2.9 | Medium |
 | [Guess Who](https://open.kattis.com/problems/guesswho) | [guesswho](solutions/guesswho.java) | 1.7 | Easy |
 | [Hailstone Sequences](https://open.kattis.com/problems/hailstone2) | [hailstone2](solutions/hailstone2.java) | 1.8 | Easy |
+| [Hakkari](https://open.kattis.com/problems/hakkari) | [hakkari](solutions/hakkari.java) | 1.4 | Easy |
 | [Half a Cookie](https://open.kattis.com/problems/halfacookie) | [halfacookie](solutions/halfacookie.java) | 1.8 | Easy |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](solutions/hangingout.java) | 1.6 | Easy |
 | [Hangman](https://open.kattis.com/problems/hangman) | [hangman](solutions/hangman.java) | 1.6 | Easy |
