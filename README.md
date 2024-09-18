@@ -413,6 +413,7 @@ Solved: 790+
 | [Križaljka](https://open.kattis.com/problems/krizaljka) | [krizaljka](solutions/krizaljka.java) | 1.8 | Easy |
 | [Kveðja](https://open.kattis.com/problems/kvedja) | [kvedja](solutions/kvedja.java) | 1.3 | Easy |
 | [Ladder](https://open.kattis.com/problems/ladder) | [ladder](solutions/ladder.java) | 1.5 | Easy |
+| [Lægð yfir landinu](https://open.kattis.com/problems/laegdyfirlandinu) | [laegdyfirlandinu](solutions/laegdyfirlandinu.java) | 1.3 - 1.4 | Easy |
 | [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](solutions/laptopsticker.java) | 1.5 | Easy |
 | [Laptop Stickers](https://open.kattis.com/problems/laptopstickers) | [laptopstickers](solutions/laptopstickers.java) | 2.6 | Easy |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](solutions/lastfactorialdigit.java) | 1.5 | Easy |
