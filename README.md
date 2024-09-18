@@ -402,6 +402,7 @@ Solved: 780+
 | [Keystrokes](https://open.kattis.com/problems/lyklagangriti) | [lyklagangriti](solutions/lyklagangriti.java) | 1.1 - 4.7 | Medium |
 | [Keywords](https://open.kattis.com/problems/keywords) | [keywords](solutions/keywords.java) | 2.2 | Easy |
 | [Kiki Boba](https://open.kattis.com/problems/kikiboba) | [kikiboba](solutions/kikiboba.java) | 1.2 - 1.3 | Easy |
+| [Kínahvísl](https://open.kattis.com/problems/kinahvisl) | [kinahvisl](solutions/kinahvisl.java) | 1.3 - 1.4 | Easy |
 | [Kitten on a Tree](https://open.kattis.com/problems/kitten) | [kitten](solutions/kitten.java) | 1.7 | Easy |
 | [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](solutions/kleptography.java) | 1.6 | Easy |
 | [Knapsack](https://open.kattis.com/problems/knapsack) | [knapsack](solutions/knapsack.java) | 4.9 | Medium |
