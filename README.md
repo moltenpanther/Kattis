@@ -192,6 +192,7 @@ Solved: 780+
 | [Daylight Saving Time](https://open.kattis.com/problems/dst) | [dst](solutions/dst.java) | 2.3 | Easy |
 | [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](solutions/deathknight.java) | 1.6 | Easy |
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [deathstar](solutions/deathstar.java) | 1.8 | Easy |
+| [Decimal Deletion](https://open.kattis.com/problems/decimaldeletion) | [decimaldeletion](solutions/decimaldeletion.java) | 1.3 | Easy |
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [delimitersoup](solutions/delimitersoup.java) | 2.0 | Easy |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](solutions/detaileddifferences.java) | 1.4 | Easy |
 | [D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki) | [dfyrirdreki](solutions/dfyrirdreki.java) | 1.4 - 1.6 | Easy |
