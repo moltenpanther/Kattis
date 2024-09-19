@@ -585,6 +585,7 @@ Solved: 800+
 | [Quite a Problem](https://open.kattis.com/problems/quiteaproblem) | [quiteaproblem](solutions/quiteaproblem.java) | 2.2 | Easy |
 | [R2](https://open.kattis.com/problems/r2) | [r2](solutions/r2.java) | 1.3 | Easy |
 | [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [racingalphabet](solutions/racingalphabet.java) | 1.6 | Easy |
+| [Raðgreining 1](https://open.kattis.com/problems/radgreining1) | [radgreining1](solutions/radgreining1.java) | 1.4 - 1.6 | Easy |
 | [Radio Commercials](https://open.kattis.com/problems/commercials) | [commercials](solutions/commercials.java) | 1.8 | Easy |
 | [Ragged Right](https://open.kattis.com/problems/raggedright) | [raggedright](solutions/raggedright.java) | 1.9 | Easy |
 | [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](solutions/railroad2.java) | 1.5 | Easy |
