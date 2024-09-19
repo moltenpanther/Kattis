@@ -442,6 +442,7 @@ Solved: 800+
 | [Lubbi Lærir](https://open.kattis.com/problems/lubbilaerir) | [lubbilaerir](solutions/lubbilaerir.java) | 1.2 | Easy |
 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](solutions/luhnchecksum.java) | 1.8 | Easy |
 | [Mæting](https://open.kattis.com/problems/maeting) | [maeting](solutions/maeting.java) | 2.1 | Easy |
+| [Mætingarlisti](https://open.kattis.com/problems/maetingarlisti) | [maetingarlisti](solutions/maetingarlisti.java) | 1.5 | Easy |
 | [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](solutions/magictrick.java) | 1.4 | Easy |
 | [Making A Meowth](https://open.kattis.com/problems/makingameowth) | [makingameowth](solutions/makingameowth.java) | 1.6 | Easy |
 | [Mancala](https://open.kattis.com/problems/mancala) | [mancala](solutions/mancala.java) | 1.9 | Easy |
