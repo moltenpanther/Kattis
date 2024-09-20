@@ -482,6 +482,7 @@ Solved: 800+
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](solutions/musicalscales.java) | 1.7 | Easy |
 | [Mylla](https://open.kattis.com/problems/mylla) | [mylla](solutions/mylla.java) | 2.7 | Easy |
 | [Name Generation](https://open.kattis.com/problems/namegeneration) | [namegeneration](solutions/namegeneration.java) | 2.8 | Medium |
+| [Namnsdag](https://open.kattis.com/problems/namnsdag) | [namnsdag](solutions/namnsdag.java) | 1.6 | Easy |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](solutions/nastyhacks.java) | 1.4 | Easy |
 | [Natrij](https://open.kattis.com/problems/natrij) | [natrij](solutions/natrij.java) | 3.1 | Medium |
 | [Nimionese](https://open.kattis.com/problems/nimionese) | [nimionese](solutions/nimionese.java) | 2.2 | Easy |
