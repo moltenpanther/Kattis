@@ -372,11 +372,12 @@ Solved: 800+
 | [Incognito](https://open.kattis.com/problems/incognito) | [incognito](solutions/incognito.java) | 3.3 | Medium |
 | [Inflation](https://open.kattis.com/problems/inflation) | [inflation](solutions/inflation.java) | 2.0 | Easy |
 | [Inflation](https://open.kattis.com/problems/inflation2) | [inflation2](solutions/inflation2.java) | 1.2 - 3.6 | Medium |
+| [Input Scandal](https://open.kattis.com/problems/inputscandal) | [inputscandal](solutions/inputscandal.java) | 1.6 - 1.8 | Easy |
+| [Inquiry I](https://open.kattis.com/problems/inquiryi) | [inquiryi](solutions/inquiryi.java) | 2.6 | Easy |
 | [Integer Lists](https://open.kattis.com/problems/integerlists) | [integerlists](solutions/integerlists.java) | 5.3 | Medium |
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](solutions/internationaldates.java) | 1.5 | Easy |
 | [Interplanetary Tunnels](https://open.kattis.com/problems/interplanetarytunnels) | [interplanetarytunnels](solutions/interplanetarytunnels.java) | 2.4 | Easy |
 | [Interval Scheduling](https://open.kattis.com/problems/intervalscheduling) | [intervalscheduling](solutions/intervalscheduling.java) | 1.9 | Easy |
-| [Inquiry I](https://open.kattis.com/problems/inquiryi) | [inquiryi](solutions/inquiryi.java) | 2.6 | Easy |
 | [Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | [inversefactorial](solutions/inversefactorial.java) | 5.2 | Medium |
 | [I Repeat Myself I Repeat Myself I Repeat](https://open.kattis.com/problems/irepeatmyself) | [irepeatmyself](solutions/irepeatmyself.java) | 2.6 | Easy |
 | [Is It Even?](https://open.kattis.com/problems/isiteven) | [isiteven](solutions/isiteven.java) | 3.1 | Medium |
