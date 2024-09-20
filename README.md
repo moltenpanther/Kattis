@@ -292,6 +292,7 @@ Solved: 800+
 | [Fun House](https://open.kattis.com/problems/funhouse) | [funhouse](solutions/funhouse.java) | 1.9 | Easy |
 | [Functional Fun](https://open.kattis.com/problems/functionalfun) | [functionalfun](solutions/functionalfun.java) | 2.0 | Easy |
 | [FYI](https://open.kattis.com/problems/fyi) | [fyi](solutions/fyi.java) | 1.3 | Easy |
+| [Fyrirtækjanafn](https://open.kattis.com/problems/fyrirtaekjanafn) | [fyrirtaekjanafn](solutions/fyrirtaekjanafn.java) | 1.3 - 1.8 | Easy |
 | [Game of Throwns](https://open.kattis.com/problems/throwns) | [throwns](solutions/throwns.java) | 2.7 | Easy |
 | [Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell) | [gandalfsspell](solutions/gandalfsspell.java) | 2.1 | Easy |
 | [Gangur](https://open.kattis.com/problems/gangur) | [gangur](solutions/gangur.java) | 1.4 - 2.6 | Easy |
