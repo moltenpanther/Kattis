@@ -259,6 +259,7 @@ Solved: 800+
 | [Falling Apples](https://open.kattis.com/problems/apples) | [apples](solutions/apples.java) | 3.2 | Medium |
 | [Falling Snow](https://open.kattis.com/problems/fallingsnow2) | [fallingsnow2](solutions/fallingsnow2.java) | 1.4 | Easy |
 | [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity](solutions/falsesecurity.java) | 2.0 | Easy |
+| [Färgrobot](https://open.kattis.com/problems/fargrobot) | [fargrobot](solutions/fargrobot.java) | 1.4 - 1.7 | Easy |
 | [Fastest Available Route](https://open.kattis.com/problems/fastestavailableroute) | [fastestavailableroute](solutions/fastestavailableroute.java) | 2.6 | Easy |
 | [Fast Food Prizes](https://open.kattis.com/problems/fastfood) | [fastfood](solutions/fastfood.java) | 2.0 | Easy |
 | [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal) | [fbiuniversal](solutions/fbiuniversal.java) | 2.2 | Easy |
