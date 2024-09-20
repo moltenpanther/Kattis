@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 800+
+Solved: 810+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -481,6 +481,7 @@ Solved: 800+
 | [Mountain Biking](https://open.kattis.com/problems/mountainbiking) | [mountainbiking](solutions/mountainbiking.java) | 3.1 | Medium |
 | [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader) | [mrcodeformatgrader](solutions/mrcodeformatgrader.java) | 2.1 | Easy |
 | [Mult!](https://open.kattis.com/problems/mult) | [mult](solutions/mult.java) | 1.7 | Easy |
+| [Multiplications](https://open.kattis.com/problems/multiplications) | [multiplications](solutions/multiplications.java) | 1.3 - 1.9 | Easy |
 | [Mumble Rap](https://open.kattis.com/problems/mumblerap) | [mumblerap](solutions/mumblerap.java) | 1.5 - 1.7 | Easy |
 | [Musical Notation](https://open.kattis.com/problems/musicalnotation) | [musicalnotation](solutions/musicalnotation.java) | 2.0 | Easy |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](solutions/musicalscales.java) | 1.7 | Easy |
