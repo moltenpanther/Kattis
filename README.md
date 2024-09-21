@@ -457,6 +457,7 @@ Solved: 810+
 | [Math Homework](https://open.kattis.com/problems/mathhomework) | [mathhomework](solutions/mathhomework.java) | 1.9 | Easy |
 | [Matrix Inverse](https://open.kattis.com/problems/matrix) | [matrix](solutions/matrix.java) | 3.1 | Medium |
 | [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
+| [Mergjað Mál](https://open.kattis.com/problems/mergjadmal) | [mergjadmal](solutions/mergjadmal.java) | 1.9 | Easy |
 | [Messy Lists](https://open.kattis.com/problems/stokigalistor) | [stokigalistor](solutions/stokigalistor.java) | 1.4 - 2.2 | Easy |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [metaprogramming](solutions/metaprogramming.java) | 2.1 | Easy |
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](solutions/methodicmultiplication.java) | 1.6 | Easy |
