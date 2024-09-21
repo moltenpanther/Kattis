@@ -84,6 +84,7 @@ Solved: 810+
 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](solutions/beekeeper.java) | 2.6 | Easy |
 | [Bela](https://open.kattis.com/problems/bela) | [bela](solutions/bela.java) | 1.4 | Easy |
 | [BergMál](https://open.kattis.com/problems/bergmal) | [bergmal](solutions/bergmal.java) | 1.2 | Easy |
+| [Bergur](https://open.kattis.com/problems/bergur) | [bergur](solutions/bergur.java) | 1.8 - 2.0 | Easy |
 | [Bendilfærslur](https://open.kattis.com/problems/bendilfaerslur) | [bendilfaerslur](solutions/bendilfaerslur.java) | 2.8 - 3.4 | Easy |
 | [Besta gjöfin](https://open.kattis.com/problems/bestagjofin) | [bestagjofin](solutions/bestagjofin.java) | 1.2 - 1.3 | Easy |
 | [Best Compression](https://open.kattis.com/problems/bestcompression) | [bestcompression](solutions/bestcompression.java) | 2.6 | Easy |
