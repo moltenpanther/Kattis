@@ -430,6 +430,7 @@ Solved: 810+
 | [Last Minute](https://open.kattis.com/problems/lastminute) | [lastminute](solutions/lastminute.java) | 2.3 | Easy |
 | [Lawn Mower](https://open.kattis.com/problems/lawnmower) | [lawnmower](solutions/lawnmower.java) | 2.0 | Easy |
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [leftbeehind](solutions/leftbeehind.java) | 1.7 | Easy |
+| [Leiðangur](https://open.kattis.com/problems/leidangur) | [leidangur](solutions/leidangur.java) | 1.3 - 2.0 | Easy |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [leggjasaman](solutions/leggjasaman.java) | 1.4 | Easy |
 | [Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer) | [lessvsfewer](solutions/lessvsfewer.java) | 2.1 | Easy |
 | [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta) | [leynithjonusta](solutions/leynithjonusta.java) | 1.1 - 1.3 | Easy |
