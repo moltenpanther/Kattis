@@ -464,6 +464,7 @@ Solved: 810+
 | [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication) | [methodicmultiplication](solutions/methodicmultiplication.java) | 1.6 | Easy |
 | [Metronome](https://open.kattis.com/problems/metronome) | [metronome](solutions/metronome.java) | 1.3 | Easy |
 | [Mia](https://open.kattis.com/problems/mia) | [mia](solutions/mia.java) | 2.1 | Easy |
+| [Miði](https://open.kattis.com/problems/midi) | [midi](solutions/midi.java) | 1.2 - 2.1 | Easy |
 | [Message](https://open.kattis.com/problems/meddelande) | [meddelande](solutions/meddelande.java) | 2.0 | Easy |
 | [Millifærsla](https://open.kattis.com/problems/millifaersla) | [millifaersla](solutions/millifaersla.java) | 1.5 | Easy |
 | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [millionairemadness](solutions/millionairemadness.java) | 1.9 | Easy |
@@ -545,6 +546,7 @@ Solved: 810+
 | [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup) | [peasoup](solutions/peasoup.java) | 3.0 | Medium |
 | [Peg](https://open.kattis.com/problems/peg) | [peg](solutions/peg.java) | 2.0 | Easy |
 | [Pencil Crayons](https://open.kattis.com/problems/pencilcrayons) | [pencilcrayons](solutions/pencilcrayons.java) | 1.6 | Easy |
+| [Peningar](https://open.kattis.com/problems/peningar) | [peningar](solutions/peningar.java) | 1.2 - 2.1 | Easy |
 | [Peragrams](https://open.kattis.com/problems/peragrams) | [peragrams](solutions/peragrams.java) | 1.9 | Easy |
 | [Periodic Strings](https://open.kattis.com/problems/periodicstrings) | [periodicstrings](solutions/periodicstrings.java) | 2.6 | Easy |
 | [Permutation Code](https://open.kattis.com/problems/permcode) | [permcode](solutions/permcode.java) | 2.3 | Easy |
