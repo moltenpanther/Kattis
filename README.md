@@ -98,7 +98,7 @@ Solved: 810+
 | [Bits](https://open.kattis.com/problems/bits) | [bits](solutions/bits.java) | 2.5 | Easy |
 | [Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit) | [bitteeinbit](solutions/bitteeinbit.java) | 1.3 | Easy |
 | [Black Friday](https://open.kattis.com/problems/blackfriday) | [blackfriday](solutions/blackfriday.java) | 2.2 | Easy |
-| [Blaðra](https://open.kattis.com/problems/bladra) | [bladra](solutions/bladra.java) | 1.2 | Easy |
+| [Blaðra](https://open.kattis.com/problems/bladra) | [bladra](solutions/bladra.java) | 1.7 - 1.9 | Easy |
 | [Blandað Best](https://open.kattis.com/problems/blandadbest) | [blandadbest](solutions/blandadbest.java) | 1.4 | Easy |
 | [Blåtand](https://open.kattis.com/problems/bluetooth) | [bluetooth](solutions/bluetooth.java) | 1.4 - 1.9 | Easy |
 | [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle) | [blueberrywaffle](solutions/blueberrywaffle.java) | 1.6 | Easy |
@@ -744,6 +744,7 @@ Solved: 810+
 | [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | [rectanglesurrounding](solutions/rectanglesurrounding.java) | 2.6 | Medium |
 | [The Weight of Words](https://open.kattis.com/problems/weightofwords) | [weightofwords](solutions/weightofwords.java) | 2.8 | Medium |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.java) | 1.8 | Easy |
+| [Thoring Test](https://open.kattis.com/problems/thoringtest) | [thoringtest](solutions/thoringtest.java) | 1.9 | Easy |
 | [Tic-Tac State](https://open.kattis.com/problems/tictacstate) | [tictacstate](solutions/tictacstate.java) | 2.8 | Medium |
 | [Til hamingju](https://open.kattis.com/problems/tilhamingju) | [tilhamingju](solutions/tilhamingju.java) | 1.1 | Easy |
 | [Timebomb](https://open.kattis.com/problems/timebomb) | [timebomb](solutions/timebomb.java) | 1.8 | Easy |
