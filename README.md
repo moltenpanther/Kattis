@@ -166,6 +166,7 @@ Solved: 810+
 | [Conquest Campaign](https://open.kattis.com/problems/conquestcampaign) | [conquestcampaign](solutions/conquestcampaign.java) | 2.2 | Easy |
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](solutions/conversationlog.java) | 2.9 | Medium |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [convexpolygonarea](solutions/convexpolygonarea.java) | 1.8 | Easy |
+| [Cookies](https://open.kattis.com/problems/kakor) | [kakor](solutions/kakor.java) | 1.9 - 2.1 | Easy |
 | [Cooking Water](https://open.kattis.com/problems/cookingwater) | [cookingwater](solutions/cookingwater.java) | 2.1 | Easy |
 | [Cornhusker](https://open.kattis.com/problems/cornhusker) | [cornhusker](solutions/cornhusker.java) | 1.5 | Easy |
 | [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization) | [cosmicpathoptimization](solutions/cosmicpathoptimization.java) | 2.0 | Easy |
