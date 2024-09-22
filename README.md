@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 810+
+Solved: 820+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -416,6 +416,7 @@ Solved: 810+
 | [Kínahvísl](https://open.kattis.com/problems/kinahvisl) | [kinahvisl](solutions/kinahvisl.java) | 1.3 - 1.4 | Easy |
 | [Kitten on a Tree](https://open.kattis.com/problems/kitten) | [kitten](solutions/kitten.java) | 1.7 | Easy |
 | [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](solutions/kleptography.java) | 1.6 | Easy |
+| [Klósettröð](https://open.kattis.com/problems/klosettrod) | [klosettrod](solutions/klosettrod.java) | 2.1 | Easy |
 | [Knapsack](https://open.kattis.com/problems/knapsack) | [knapsack](solutions/knapsack.java) | 4.9 | Medium |
 | [Knight Jump](https://open.kattis.com/problems/knightjump) | [knightjump](solutions/knightjump.java) | 2.4 | Easy |
 | [Knight Packing](https://open.kattis.com/problems/knightpacking) | [knightpacking](solutions/knightpacking.java) | 1.3 | Easy |
