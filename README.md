@@ -458,6 +458,7 @@ Solved: 820+
 | [Mancala](https://open.kattis.com/problems/mancala) | [mancala](solutions/mancala.java) | 1.9 | Easy |
 | [Marko](https://open.kattis.com/problems/marko) | [marko](solutions/marko.java) | 1.9 | Easy |
 | [Mars Window](https://open.kattis.com/problems/marswindow) | [marswindow](solutions/marswindow.java) | 2.4 | Easy |
+| [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [mastermind](solutions/mastermind.java) | 2.2 | Easy |
 | [Math Homework](https://open.kattis.com/problems/mathhomework) | [mathhomework](solutions/mathhomework.java) | 1.9 | Easy |
 | [Matrix Inverse](https://open.kattis.com/problems/matrix) | [matrix](solutions/matrix.java) | 3.1 | Medium |
 | [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
