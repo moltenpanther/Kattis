@@ -55,6 +55,7 @@ Solved: 820+
 | [Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy) | [armystrengtheasy](solutions/armystrengtheasy.java) | 2.2 | Easy |
 | [Army Strength (Hard)](https://open.kattis.com/problems/armystrengthhard) | [armystrengthhard](solutions/armystrengthhard.java) | 2.1 | Easy |
 | [Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](solutions/upprodun.java) | 1.2 - 1.6 | Easy |
+| [Array Smoothening](https://open.kattis.com/problems/arraysmoothening) | [arraysmoothening](solutions/arraysmoothening.java) | 1.1 - 3.1 | Medium |
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [asciiaddition](solutions/asciiaddition.java) | 2.0 | Easy |
 | [ASCII Figure Rotation](https://open.kattis.com/problems/asciifigurerotation) | [asciifigurerotation](solutions/asciifigurerotation.java) | 3.4 | Medium |
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi) | [asciikassi](solutions/asciikassi.java) | 1.7 - 1.8 | Easy |
