@@ -668,6 +668,7 @@ Solved: 820+
 | [Simple Factoring](https://open.kattis.com/problems/simplefactoring) | [simplefactoring](solutions/simplefactoring.java) | 2.5 | Easy |
 | [Simplicity](https://open.kattis.com/problems/simplicity) | [simplicity](solutions/simplicity.java) | 2.8 | Medium |
 | [Simply Sudoku](https://open.kattis.com/problems/simplysudoku) | [simplysudoku](solutions/simplysudoku.java) | 3.5 | Medium |
+| [Single Source Shortest Path, Non-negative Weights](https://open.kattis.com/problems/shortestpath1) | [shortestpath1](solutions/shortestpath1.java) | 3.1 | Medium |
 | [Sith](https://open.kattis.com/problems/sith) | [sith](solutions/sith.java) | 1.9 - 2.1 | Easy |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [sjecista](solutions/sjecista.java) | 1.9 | Easy |
 | [Skák](https://open.kattis.com/problems/skak) | [skak](solutions/skak.java) | 1.3 | Easy |
