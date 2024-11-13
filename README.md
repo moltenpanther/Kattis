@@ -95,6 +95,7 @@ Solved: 820+
 | [Betting](https://open.kattis.com/problems/betting) | [betting](solutions/betting.java) | 1.3 | Easy |
 | [Bijele](https://open.kattis.com/problems/bijele) | [bijele](solutions/bijele.java) | 1.4 | Easy |
 | [Bilað Lyklaborð](https://open.kattis.com/problems/biladlyklabord) | [biladlyklabord](solutions/biladlyklabord.java) | 1.9 | Easy |
+| [Bing It On](https://open.kattis.com/problems/bing) | [bing](solutions/bing.java) | 3.2 | Easy |
 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [fodelsedagsmemorisering](solutions/fodelsedagsmemorisering.java) | 1.2 - 1.7 | Easy |
 | [Bishops](https://open.kattis.com/problems/bishops) | [bishops](solutions/bishops.java) | 2.3 | Easy |
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [bitbybit](solutions/bitbybit.java) | 3.4 | Medium |
@@ -143,6 +144,7 @@ Solved: 820+
 | [Character Development](https://open.kattis.com/problems/character) | [character](solutions/character.java) | 2.3 | Easy |
 | [Charged](https://open.kattis.com/problems/charged) | [charged](solutions/charged.java) | 2.1 | Easy |
 | [Charting Progress](https://open.kattis.com/problems/chartingprogress) | [chartingprogress](solutions/chartingprogress.java) | 2.0 | Easy |
+| [Chemist's Vows](https://open.kattis.com/problems/chemistsvows) | [chemistsvows](solutions/chemistsvows.java) | 3.1 | Medium |
 | [Chess](https://open.kattis.com/problems/chess) | [chess](solutions/chess.java) | 3.3 | Medium |
 | [Chocolate Division](https://open.kattis.com/problems/chocolatedivision) | [chocolatedivision](solutions/chocolatedivision.java) | 1.9 | Easy |
 | [Chugging](https://open.kattis.com/problems/chugging) | [chugging](solutions/chugging.java) | 1.6 | Easy |
@@ -168,6 +170,7 @@ Solved: 820+
 | [Contingency Planning](https://open.kattis.com/problems/contingencyplanning) | [contingencyplanning](solutions/contingencyplanning.java) | 2.0 | Easy |
 | [Conquest Campaign](https://open.kattis.com/problems/conquestcampaign) | [conquestcampaign](solutions/conquestcampaign.java) | 2.2 | Easy |
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](solutions/conversationlog.java) | 2.9 | Medium |
+| [Convex Hull](https://open.kattis.com/problems/convexhull) | [convexhull](solutions/convexhull.java) | 4.0 | Medium |
 | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [convexpolygonarea](solutions/convexpolygonarea.java) | 1.8 | Easy |
 | [Cookies](https://open.kattis.com/problems/kakor) | [kakor](solutions/kakor.java) | 1.9 - 2.1 | Easy |
 | [Cooking Water](https://open.kattis.com/problems/cookingwater) | [cookingwater](solutions/cookingwater.java) | 2.1 | Easy |
@@ -370,6 +373,7 @@ Solved: 820+
 | [ICPC Tutorial](https://open.kattis.com/problems/tutorial) | [tutorial](solutions/tutorial.java) | 3.5 | Medium |
 | [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](solutions/maptiles2.java) | 1.6 | Easy |
 | [I Hate The Number Nine](https://open.kattis.com/problems/nine) | [nine](solutions/nine.java) | 3.2 | Medium |
+| [Illuminati Spotti](https://open.kattis.com/problems/illuminatispotti) | [illuminatispotti](solutions/illuminatispotti.java) | 2.1 | Easy |
 | [I'm Thinking of a Number](https://open.kattis.com/problems/thinkingofanumber) | [thinkingofanumber](solutions/thinkingofanumber.java) | 3.4 | Medium |
 | [Image Decoding](https://open.kattis.com/problems/imagedecoding) | [imagedecoding](solutions/imagedecoding.java) | 3.3 | Medium |
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [imageprocessing](solutions/imageprocessing.java) | 2.0 | Easy |
@@ -627,6 +631,7 @@ Solved: 820+
 | [Rice Judge](https://open.kattis.com/problems/risdomare) | [risdomare](solutions/risdomare.java) | 2.1 - 3.2 | Medium |
 | [RijeĿi](https://open.kattis.com/problems/rijeci) | [rijeci](solutions/rijeci.java) | 1.6 | Easy |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](solutions/romans.java) | 1.7 | Easy |
+| [Röðunarrugl](https://open.kattis.com/problems/rodunarrugl) | [rodunarrugl](solutions/rodunarrugl.java) | 1.6 - 2.4 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
 | [Running Race](https://open.kattis.com/problems/kaploeb) | [kaploeb](solutions/kaploeb.java) | 2.4 - 2.8 | Easy |
