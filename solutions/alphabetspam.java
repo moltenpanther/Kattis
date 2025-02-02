@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Kattis {
+public class alphabetspam {
 
     public static void main(String[] args) {
 
