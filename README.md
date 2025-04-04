@@ -250,6 +250,7 @@ Solved: 830+
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [engineeringenglish](solutions/engineeringenglish.java) | 2.4 | Easy |
 | [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](solutions/enlarginghashtables.java) | 3.1 | Medium |
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [epigdanceoff](solutions/epigdanceoff.java) | 2.1 | Easy |
+| [Equal Shots](https://open.kattis.com/problems/equalshots) | [equalshots](solutions/equalshots.java) | 1.4 | Easy |
 | [Erase Securely](https://open.kattis.com/problems/erase) | [erase](solutions/erase.java) | 1.7 | Easy |
 | [Escape Wall Maria](https://open.kattis.com/problems/escapewallmaria) | [escapewallmaria](solutions/escapewallmaria.java) | 2.8 | Medium |
 | [Esej](https://open.kattis.com/problems/esej) | [esej](solutions/esej.java) | 3.5 | Medium |
@@ -311,6 +312,7 @@ Solved: 830+
 | [Genetic Search](https://open.kattis.com/problems/geneticsearch) | [geneticsearch](solutions/geneticsearch.java) | 2.2 | Easy |
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](solutions/gerrymandering.java) | 1.6 | Easy |
 | [Ghost Leg](https://open.kattis.com/problems/ghostleg) | [ghostleg](solutions/ghostleg.java) | 1.4 | Easy |
+| [Gin Fizz](https://open.kattis.com/problems/ginfizz) | [ginfizz](solutions/ginfizz.java) | 1.4 | Easy |
 | [GlitchBot](https://open.kattis.com/problems/glitchbot) | [glitchbot](solutions/glitchbot.java) | 2.0 | Easy |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](solutions/goatrope.java) | 1.6 | Easy |
 | [Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2) | [goldbach2](solutions/goldbach2.java) | 2.2 | Easy |
@@ -329,6 +331,7 @@ Solved: 830+
 | [Guess the Number](https://open.kattis.com/problems/guess) | [guess](solutions/guess.java) | 2.9 | Medium |
 | [Guess Who](https://open.kattis.com/problems/guesswho) | [guesswho](solutions/guesswho.java) | 1.7 | Easy |
 | [Hailstone Sequences](https://open.kattis.com/problems/hailstone2) | [hailstone2](solutions/hailstone2.java) | 1.8 | Easy |
+| [Hair of the Dog](https://open.kattis.com/problems/hairofthedog) | [hairofthedog](solutions/hairofthedog.java) | 1.4 | Easy |
 | [Hakkari](https://open.kattis.com/problems/hakkari) | [hakkari](solutions/hakkari.java) | 1.4 | Easy |
 | [Half a Cookie](https://open.kattis.com/problems/halfacookie) | [halfacookie](solutions/halfacookie.java) | 1.8 | Easy |
 | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](solutions/hangingout.java) | 1.6 | Easy |
