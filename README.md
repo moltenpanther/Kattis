@@ -166,6 +166,7 @@ Solved: 840+
 | [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo) | [coffeecupcombo](solutions/coffeecupcombo.java) | 1.8 | Easy |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](solutions/cold.java) | 1.3 | Easy |
 | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [competitivearcadebasketball](solutions/competitivearcadebasketball.java) | 2.3 | Easy |
+| [Composed Rhythms](https://open.kattis.com/problems/composedrhythms) | [composedrhythms](solutions/composedrhythms.java) | 1.5 | Easy |
 | [Completing the Square](https://open.kattis.com/problems/completingthesquare) | [completingthesquare](solutions/completingthesquare.java) | 2.0 | Easy |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](solutions/compoundwords.java) | 1.7 | Easy |
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](solutions/conformity.java) | 1.6 | Easy |
@@ -770,6 +771,7 @@ Solved: 840+
 | [The N Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas) | [thendaysofchristmas](solutions/thendaysofchristmas.java) | 1.5 | Easy |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](solutions/owlandfox.java) | 1.8 | Easy |
 | [The Plank](https://open.kattis.com/problems/theplank) | [theplank](solutions/theplank.java) | 1.7 - 1.8 | Easy |
+| [The Triangle Factory](https://open.kattis.com/problems/triangelfabriken) | [triangelfabriken](solutions/triangelfabriken.java) | 1.5 | Easy |
 | [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | [rectanglesurrounding](solutions/rectanglesurrounding.java) | 2.6 | Medium |
 | [The Weight of Words](https://open.kattis.com/problems/weightofwords) | [weightofwords](solutions/weightofwords.java) | 2.8 | Medium |
 | [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [thisaintyourgrandpascheckerboard](solutions/thisaintyourgrandpascheckerboard.java) | 1.8 | Easy |
