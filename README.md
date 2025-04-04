@@ -257,6 +257,7 @@ Solved: 840+
 | [Esej](https://open.kattis.com/problems/esej) | [esej](solutions/esej.java) | 3.5 | Medium |
 | [Espresso!](https://open.kattis.com/problems/espresso) | [espresso](solutions/espresso.java) | 2.3 | Easy |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
+| [Ethanol](https://open.kattis.com/problems/ethanol) | [ethanol](solutions/ethanol.java) | 1.4 | Easy |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
 | [Evening Out 1](https://open.kattis.com/problems/eveningout1) | [eveningout1](solutions/eveningout1.java) | 2.5 | Easy |
 | [Event Planning](https://open.kattis.com/problems/eventplanning) | [eventplanning](solutions/eventplanning.java) | 2.2 | Easy |
@@ -766,6 +767,7 @@ Solved: 840+
 | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure) | [thegrandadventure](solutions/thegrandadventure.java) | 2.1 | Easy |
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](solutions/keytocrypto.java) | 1.7 | Easy |
 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](solutions/thelastproblem.java) | 1.6 | Easy |
+| [The N Days of Christmas](https://open.kattis.com/problems/thendaysofchristmas) | [thendaysofchristmas](solutions/thendaysofchristmas.java) | 1.5 | Easy |
 | [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](solutions/owlandfox.java) | 1.8 | Easy |
 | [The Plank](https://open.kattis.com/problems/theplank) | [theplank](solutions/theplank.java) | 1.7 - 1.8 | Easy |
 | [The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding) | [rectanglesurrounding](solutions/rectanglesurrounding.java) | 2.6 | Medium |
