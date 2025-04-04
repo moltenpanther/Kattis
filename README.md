@@ -28,6 +28,7 @@ Solved: 830+
 | [Afjörmun](https://open.kattis.com/problems/afjormun) | [afjormun](solutions/afjormun.java) | 1.4 - 1.6 | Easy |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
 | [Akcija](https://open.kattis.com/problems/akcija) | [akcija](solutions/akcija.java) | 2.8 | Medium |
+| [Akureyri](https://open.kattis.com/problems/akureyri) | [akureyri](solutions/akureyri.java) | 1.3 - 1.4 | Easy |
 | [Aldur](https://open.kattis.com/problems/aldur) | [aldur](solutions/aldur.java) | 1.2 | Easy |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | [aleidibio](solutions/aleidibio.java) | 1.4 | Easy |
 | [Alien Math](https://open.kattis.com/problems/alienmath) | [alienmath](solutions/alienmath.java) | 2.9 | Medium |
@@ -444,6 +445,7 @@ Solved: 830+
 | [Leiðangur](https://open.kattis.com/problems/leidangur) | [leidangur](solutions/leidangur.java) | 1.3 - 2.0 | Easy |
 | [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [leggjasaman](solutions/leggjasaman.java) | 1.4 | Easy |
 | [Less vs. Fewer](https://open.kattis.com/problems/lessvsfewer) | [lessvsfewer](solutions/lessvsfewer.java) | 2.1 | Easy |
+| [Léttasta verkefnið?](https://open.kattis.com/problems/lettasta) | [lettasta](solutions/lettasta.java) | 1.3 - 1.4 | Easy |
 | [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta) | [leynithjonusta](solutions/leynithjonusta.java) | 1.1 - 1.3 | Easy |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
 | [Liðaskipting 2](https://open.kattis.com/problems/lidaskipting2) | [lidaskipting2](solutions/lidaskipting2.java) | 1.7 - 2.9 | Medium |
