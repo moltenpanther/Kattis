@@ -28,6 +28,7 @@ Solved: 830+
 | [Afjörmun](https://open.kattis.com/problems/afjormun) | [afjormun](solutions/afjormun.java) | 1.4 - 1.6 | Easy |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
 | [Akcija](https://open.kattis.com/problems/akcija) | [akcija](solutions/akcija.java) | 2.8 | Medium |
+| [Aldur](https://open.kattis.com/problems/aldur) | [aldur](solutions/aldur.java) | 1.2 | Easy |
 | [Á leið í bíó](https://open.kattis.com/problems/aleidibio) | [aleidibio](solutions/aleidibio.java) | 1.4 | Easy |
 | [Alien Math](https://open.kattis.com/problems/alienmath) | [alienmath](solutions/alienmath.java) | 2.9 | Medium |
 | [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [almostperfect](solutions/almostperfect.java) | 3.0 | Medium |
@@ -347,6 +348,7 @@ Solved: 830+
 | [Help Me With The Game](https://open.kattis.com/problems/helpme) | [helpme](solutions/helpme.java) | 2.8 | Medium |
 | [Herman](https://open.kattis.com/problems/herman) | [herman](solutions/herman.java) | 1.6 | Easy |
 | [Heroes of Velmar](https://open.kattis.com/problems/heroesofvelmar) | [heroesofvelmar](solutions/heroesofvelmar.java) | 1.9 | Easy |
+| [Heysata](https://open.kattis.com/problems/heysata) | [heysata](solutions/heysata.java) | 1.3 | Easy |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [hidden](solutions/hidden.java) | 2.5 | Easy |
 | [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [hidingplaces](solutions/hidingplaces.java) | 1.7 | Easy |
 | [Hipp Hipp](https://open.kattis.com/problems/hipphipp) | [hipphipp](solutions/hipphipp.java) | 1.1 | Easy |
@@ -575,6 +577,7 @@ Solved: 830+
 | [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](solutions/plantingtrees.java) | 1.8 | Easy |
 | [Plants vs Bad Guys](https://open.kattis.com/problems/pvbg) | [pvbg](solutions/pvbg.java) | 1.4 - 1.7 | Easy |
 | [Playfair Cipher](https://open.kattis.com/problems/playfair) | [playfair](solutions/playfair.java) | 2.9 | Medium |
+| [Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget) | [pobudget](solutions/pobudget.java) | 1.3 | Easy |
 | [Pokechat](https://open.kattis.com/problems/pokechat) | [pokechat](solutions/pokechat.java) | 1.4 | Easy |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](solutions/pokerhand.java) | 1.5 | Easy |
 | [Polynomial Multiplication 1](https://open.kattis.com/problems/polymul1) | [polymul1](solutions/polymul1.java) | 1.9 | Easy |
