@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 830+
+Solved: 840+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -27,6 +27,7 @@ Solved: 830+
 | [Ads](https://open.kattis.com/problems/ads) | [ads](solutions/ads.java) | 5.1 | Medium |
 | [Afjörmun](https://open.kattis.com/problems/afjormun) | [afjormun](solutions/afjormun.java) | 1.4 - 1.6 | Easy |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | [cocktail](solutions/cocktail.java) | 2.7 | Easy |
+| [Airfare Grants](https://open.kattis.com/problems/airfaregrants) | [airfaregrants](solutions/airfaregrants.java) | 1.4 | Easy |
 | [Akcija](https://open.kattis.com/problems/akcija) | [akcija](solutions/akcija.java) | 2.8 | Medium |
 | [Akureyri](https://open.kattis.com/problems/akureyri) | [akureyri](solutions/akureyri.java) | 1.3 - 1.4 | Easy |
 | [Aldur](https://open.kattis.com/problems/aldur) | [aldur](solutions/aldur.java) | 1.2 | Easy |
@@ -839,6 +840,7 @@ Solved: 830+
 | [Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall) | [wheresmywaterfall](solutions/wheresmywaterfall.java) | 3.8 | Medium |
 | [Which Base it it Anyway?](https://open.kattis.com/problems/whichbase) | [whichbase](solutions/whichbase.java) | 2.8 | Medium |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [whichisgreater](solutions/whichisgreater.java) | 1.4 | Easy |
+| [Which Number Kind Is It?](https://open.kattis.com/problems/whichnumberkindisit2) | [whichnumberkindisit2](solutions/whichnumberkindisit2.java) | 1.4 | Easy |
 | [Who Wins?](https://open.kattis.com/problems/vemvinner) | [vemvinner](solutions/vemvinner.java) | 1.8 - 2.2 | Easy |
 | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [wizardofodds](solutions/wizardofodds.java) | 2.9 | Medium |
 | [Word Cloud](https://open.kattis.com/problems/wordcloud) | [wordcloud](solutions/wordcloud.java) | 2.5 | Medium |
