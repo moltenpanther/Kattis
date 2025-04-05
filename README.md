@@ -145,6 +145,7 @@ Solved: 840+
 | [Champernowne Verification](https://open.kattis.com/problems/champernowneverification) | [champernowneverification](solutions/champernowneverification.java) | 1.4 | Easy |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [chanukah](solutions/chanukah.java) | 1.4 | Easy |
 | [Character Development](https://open.kattis.com/problems/character) | [character](solutions/character.java) | 2.3 | Easy |
+| [Chardonnay](https://open.kattis.com/problems/chardonnay) | [chardonnay](solutions/chardonnay.java) | 1.5 | Easy |
 | [Charged](https://open.kattis.com/problems/charged) | [charged](solutions/charged.java) | 2.1 | Easy |
 | [Charting Progress](https://open.kattis.com/problems/chartingprogress) | [chartingprogress](solutions/chartingprogress.java) | 2.0 | Easy |
 | [Chemist's Vows](https://open.kattis.com/problems/chemistsvows) | [chemistsvows](solutions/chemistsvows.java) | 3.1 | Medium |
@@ -538,6 +539,7 @@ Solved: 840+
 | [Okviri](https://open.kattis.com/problems/okviri) | [okviri](solutions/okviri.java) | 2.0 | Easy |
 | [Older Brother](https://open.kattis.com/problems/olderbrother) | [olderbrother](solutions/olderbrother.java) | 3.1 | Medium |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](solutions/onechicken.java) | 1.9 | Easy |
+| [Oooh I See](https://open.kattis.com/problems/ooohisee) | [ooohisee](solutions/ooohisee.java) | 1.5 | Easy |
 | [Open Source](https://open.kattis.com/problems/opensource) | [opensource](solutions/opensource.java) | 3.6 | Medium |
 | [Ordered](https://open.kattis.com/problems/orderedproblemset) | [orderedproblemset](solutions/orderedproblemset.java) | 1.6 | Easy |
 | [Orders](https://open.kattis.com/problems/orders) | [orders](solutions/orders.java) | 5.4 | Medium |
