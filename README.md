@@ -125,6 +125,7 @@ Solved: 840+
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](solutions/pyramids.java) | 1.4 - 1.5 | Easy |
 | [Buka](https://open.kattis.com/problems/buka) | [buka](solutions/buka.java) | 2.0 | Easy |
 | [Bus](https://open.kattis.com/problems/bus) | [bus](solutions/bus.java) | 1.6 | Easy |
+| [Bus Assignment](https://open.kattis.com/problems/busassignment) | [busassignment](solutions/busassignment.java) | 1.5 | Easy |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [busnumbers](solutions/busnumbers.java) | 2.6 | Easy |
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers2) | [busnumbers2](solutions/busnumbers2.java) | 2.8 | Medium |
 | [Busy Schedule](https://open.kattis.com/problems/busyschedule) | [busyschedule](solutions/busyschedule.java) | 2.5 | Easy |
@@ -313,6 +314,7 @@ Solved: 840+
 | [Gangur](https://open.kattis.com/problems/gangur) | [gangur](solutions/gangur.java) | 1.4 - 2.6 | Easy |
 | [GCD](https://open.kattis.com/problems/gcd) | [gcd](solutions/gcd.java) | 1.7 | Easy |
 | [GCVWR](https://open.kattis.com/problems/gcvwr) | [gcvwr](solutions/gcvwr.java) | 1.4 | Easy |
+| [Generalized FizzBuzz](https://open.kattis.com/problems/generalizedfizzbuzz) | [generalizedfizzbuzz](solutions/generalizedfizzbuzz.java) | 1.5 | Easy |
 | [Genetic Search](https://open.kattis.com/problems/geneticsearch) | [geneticsearch](solutions/geneticsearch.java) | 2.2 | Easy |
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](solutions/gerrymandering.java) | 1.6 | Easy |
 | [Ghost Leg](https://open.kattis.com/problems/ghostleg) | [ghostleg](solutions/ghostleg.java) | 1.4 | Easy |
@@ -397,6 +399,7 @@ Solved: 840+
 | [International Dates](https://open.kattis.com/problems/internationaldates) | [internationaldates](solutions/internationaldates.java) | 1.5 | Easy |
 | [Interplanetary Tunnels](https://open.kattis.com/problems/interplanetarytunnels) | [interplanetarytunnels](solutions/interplanetarytunnels.java) | 2.4 | Easy |
 | [Interval Scheduling](https://open.kattis.com/problems/intervalscheduling) | [intervalscheduling](solutions/intervalscheduling.java) | 1.9 | Easy |
+| [Intuitive Elements](https://open.kattis.com/problems/intuitiveelements) | [intuitiveelements](solutions/intuitiveelements.java) | 1.5 | Easy |
 | [Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | [inversefactorial](solutions/inversefactorial.java) | 5.2 | Medium |
 | [I Repeat Myself I Repeat Myself I Repeat](https://open.kattis.com/problems/irepeatmyself) | [irepeatmyself](solutions/irepeatmyself.java) | 2.6 | Easy |
 | [Is It Even?](https://open.kattis.com/problems/isiteven) | [isiteven](solutions/isiteven.java) | 3.1 | Medium |
