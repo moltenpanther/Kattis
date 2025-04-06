@@ -709,6 +709,7 @@ Solved: 850+
 | [Slatkisi](https://open.kattis.com/problems/slatkisi) | [slatkisi](solutions/slatkisi.java) | 2.0 | Easy |
 | [Sly Students](https://open.kattis.com/problems/slystudents) | [slystudents](solutions/slystudents.java) | 2.1 | Easy |
 | [SMIL](https://open.kattis.com/problems/smil) | [smil](solutions/smil.java) | 1.3 - 1.5 | Easy |
+| [Snowfall](https://open.kattis.com/problems/snowfall) | [snowfall](solutions/snowfall.java) | 1.6 | Easy |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [sodaslurper](solutions/sodaslurper.java) | 1.7 | Easy |
 | [Soft Passwords](https://open.kattis.com/problems/softpasswords) | [softpasswords](solutions/softpasswords.java) | 2.6 | Easy |
 | [Sok](https://open.kattis.com/problems/sok) | [sok](solutions/sok.java) | 1.7 | Easy |
@@ -735,6 +736,7 @@ Solved: 850+
 | [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](solutions/zanzibar.java) | 1.5 | Easy |
 | [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](solutions/stararrangements.java) | 1.7 | Easy |
 | [Star Battles 1](https://open.kattis.com/problems/starbattles1) | [starbattles1](solutions/starbattles1.java) | 2.9 | Medium |
+| [Star Wars röðun](https://open.kattis.com/problems/starwars2) | [starwars2](solutions/starwars2.java) | 1.5 - 1.7 | Easy |
 | [Statistics](https://open.kattis.com/problems/statistics) | [statistics](solutions/statistics.java) | 1.9 | Easy |
 | [Sticky Keys](https://open.kattis.com/problems/stickykeys) | [stickykeys](solutions/stickykeys.java) | 1.5 | Easy |
 | [Stopwatch](https://open.kattis.com/problems/stopwatch) | [stopwatch](solutions/stopwatch.java) | 1.4 | Easy |
