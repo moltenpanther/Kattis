@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mylla {
+public class mylla2 {
 	
     public static void main(String[] args) {
     	
