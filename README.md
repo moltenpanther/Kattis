@@ -308,6 +308,7 @@ Solved: 850+
 | [Free Food](https://open.kattis.com/problems/freefood) | [freefood](solutions/freefood.java) | 1.6 | Easy |
 | [Friday the 13th](https://open.kattis.com/problems/friday) | [friday](solutions/friday.java) | 2.0 | Easy |
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [froshweek2](solutions/froshweek2.java) | 2.2 | Easy |
+| [Frumtölur](https://open.kattis.com/problems/frumtolur) | [frumtolur](solutions/frumtolur.java) | 1.3 - 1.8 | Easy |
 | [Fullkomin mylla](https://open.kattis.com/problems/mylla) | [mylla](solutions/mylla.java) | 1.3 - 1.6 | Easy |
 | [Fun House](https://open.kattis.com/problems/funhouse) | [funhouse](solutions/funhouse.java) | 1.9 | Easy |
 | [Functional Fun](https://open.kattis.com/problems/functionalfun) | [functionalfun](solutions/functionalfun.java) | 2.0 | Easy |
@@ -450,6 +451,7 @@ Solved: 850+
 | [Knot Knowledge](https://open.kattis.com/problems/knotknowledge) | [knotknowledge](solutions/knotknowledge.java) | 1.5 | Easy |
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](solutions/kornislav.java) | 1.6 | Easy |
 | [Križaljka](https://open.kattis.com/problems/krizaljka) | [krizaljka](solutions/krizaljka.java) | 1.8 | Easy |
+| [Kuggfrågan](https://open.kattis.com/problems/kuggfragan) | [kuggfragan](solutions/kuggfragan.java) | 1.7 - 1.8 | Easy |
 | [Kveðja](https://open.kattis.com/problems/kvedja) | [kvedja](solutions/kvedja.java) | 1.3 | Easy |
 | [Ladder](https://open.kattis.com/problems/ladder) | [ladder](solutions/ladder.java) | 1.5 | Easy |
 | [Lægð yfir landinu](https://open.kattis.com/problems/laegdyfirlandinu) | [laegdyfirlandinu](solutions/laegdyfirlandinu.java) | 1.3 - 1.4 | Easy |
