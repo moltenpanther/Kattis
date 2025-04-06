@@ -458,6 +458,7 @@ Solved: 840+
 | [Léttasta verkefnið?](https://open.kattis.com/problems/lettasta) | [lettasta](solutions/lettasta.java) | 1.3 - 1.4 | Easy |
 | [Leyniþjónusta](https://open.kattis.com/problems/leynithjonusta) | [leynithjonusta](solutions/leynithjonusta.java) | 1.1 - 1.3 | Easy |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](solutions/licensetolaunch.java) | 1.6 | Easy |
+| [Liðaskipting](https://open.kattis.com/problems/lidaskipting) | [lidaskipting](solutions/lidaskipting.java) | 1.2 - 1.6 | Easy |
 | [Liðaskipting 2](https://open.kattis.com/problems/lidaskipting2) | [lidaskipting2](solutions/lidaskipting2.java) | 1.7 - 2.9 | Medium |
 | [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](solutions/lineup.java) | 1.7 | Easy |
 | [Lines Per Hour](https://open.kattis.com/problems/linesperhour) | [linesperhour](solutions/linesperhour.java) | 1.7 | Easy |
@@ -648,6 +649,7 @@ Solved: 840+
 | [RijeĿi](https://open.kattis.com/problems/rijeci) | [rijeci](solutions/rijeci.java) | 1.6 | Easy |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](solutions/romans.java) | 1.7 | Easy |
 | [Röðunarrugl](https://open.kattis.com/problems/rodunarrugl) | [rodunarrugl](solutions/rodunarrugl.java) | 1.6 - 2.4 | Easy |
+| [Röknet](https://open.kattis.com/problems/roknet) | [roknet](solutions/roknet.java) | 1.3 - 1.6 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
 | [Running Race](https://open.kattis.com/problems/kaploeb) | [kaploeb](solutions/kaploeb.java) | 2.4 - 2.8 | Easy |
