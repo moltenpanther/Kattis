@@ -305,7 +305,7 @@ Solved: 840+
 | [Free Food](https://open.kattis.com/problems/freefood) | [freefood](solutions/freefood.java) | 1.6 | Easy |
 | [Friday the 13th](https://open.kattis.com/problems/friday) | [friday](solutions/friday.java) | 2.0 | Easy |
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [froshweek2](solutions/froshweek2.java) | 2.2 | Easy |
-| [Fullkomin mylla](https://open.kattis.com/problems/mylla) | [mylla](solutions/mylla2.java) | 1.3 - 1.6 | Easy |
+| [Fullkomin mylla](https://open.kattis.com/problems/mylla) | [mylla](solutions/mylla.java) | 1.3 - 1.6 | Easy |
 | [Fun House](https://open.kattis.com/problems/funhouse) | [funhouse](solutions/funhouse.java) | 1.9 | Easy |
 | [Functional Fun](https://open.kattis.com/problems/functionalfun) | [functionalfun](solutions/functionalfun.java) | 2.0 | Easy |
 | [FYI](https://open.kattis.com/problems/fyi) | [fyi](solutions/fyi.java) | 1.3 | Easy |
@@ -515,7 +515,7 @@ Solved: 840+
 | [Mumble Rap](https://open.kattis.com/problems/mumblerap) | [mumblerap](solutions/mumblerap.java) | 1.5 - 1.7 | Easy |
 | [Musical Notation](https://open.kattis.com/problems/musicalnotation) | [musicalnotation](solutions/musicalnotation.java) | 2.0 | Easy |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](solutions/musicalscales.java) | 1.7 | Easy |
-| [Mylla](https://open.kattis.com/problems/mylla) | [mylla](solutions/mylla.java) | 2.7 | Easy |
+| [Mylla](https://open.kattis.com/problems/mylla2) | [mylla2](solutions/mylla2.java) | 1.5 | Easy |
 | [Name Generation](https://open.kattis.com/problems/namegeneration) | [namegeneration](solutions/namegeneration.java) | 2.8 | Medium |
 | [Namnsdag](https://open.kattis.com/problems/namnsdag) | [namnsdag](solutions/namnsdag.java) | 1.6 | Easy |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](solutions/nastyhacks.java) | 1.4 | Easy |
