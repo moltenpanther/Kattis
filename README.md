@@ -115,6 +115,7 @@ Solved: 850+
 | [Boss Battle](https://open.kattis.com/problems/bossbattle) | [bossbattle](solutions/bossbattle.java) | 1.8 | Easy |
 | [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup) | [bottledup](solutions/bottledup.java) | 2.5 | Easy |
 | [Bottle Flip](https://open.kattis.com/problems/bottleflip) | [bottleflip](solutions/bottleflip.java) | 2.3 | Easy |
+| [Bottle Opening](https://open.kattis.com/problems/bottleopening) | [bottleopening](solutions/bottleopening.java) | 1.7 | Easy |
 | [Bounding Robots](https://open.kattis.com/problems/boundingrobots) | [boundingrobots](solutions/boundingrobots.java) | 1.7 | Easy |
 | [Bracket Matching](https://open.kattis.com/problems/bracketmatching) | [bracketmatching](solutions/bracketmatching.java) | 1.7 | Easy |
 | [Breaking Branches](https://open.kattis.com/problems/breakingbranches) | [breakingbranches](solutions/breakingbranches.java) | 1.6 | Easy |
@@ -488,6 +489,7 @@ Solved: 850+
 | [Math Homework](https://open.kattis.com/problems/mathhomework) | [mathhomework](solutions/mathhomework.java) | 1.9 | Easy |
 | [Matrix Inverse](https://open.kattis.com/problems/matrix) | [matrix](solutions/matrix.java) | 3.1 | Medium |
 | [Mean Words](https://open.kattis.com/problems/meanwords) | [meanwords](solutions/meanwords.java) | 1.8 | Easy |
+| [Melting Snow](https://open.kattis.com/problems/meltingsnow) | [meltingsnow](solutions/meltingsnow.java) | 1.7 | Easy |
 | [Mergjað Mál](https://open.kattis.com/problems/mergjadmal) | [mergjadmal](solutions/mergjadmal.java) | 1.9 | Easy |
 | [Messy Lists](https://open.kattis.com/problems/stokigalistor) | [stokigalistor](solutions/stokigalistor.java) | 1.4 - 2.2 | Easy |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [metaprogramming](solutions/metaprogramming.java) | 2.1 | Easy |
@@ -821,6 +823,7 @@ Solved: 850+
 | [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](solutions/tripletexting.java) | 1.7 | Easy |
 | [Triple Sevens](https://open.kattis.com/problems/triplesevens) | [triplesevens](solutions/triplesevens.java) | 1.2 | Easy |
 | [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [trollhunt](solutions/trollhunt.java) | 2.6 | Easy |
+| [Truls' Troubles](https://open.kattis.com/problems/trulstrubbel) | [trulstrubbel](solutions/trulstrubbel.java) | 1.6 - 1.7 | Easy |
 | [Turtle Master](https://open.kattis.com/problems/turtlemaster) | [turtlemaster](solutions/turtlemaster.java) | 2.8 | Medium |
 | [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](solutions/twosum.java) | 1.4 | Easy |
 | [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff) | [ullendullendoff](solutions/ullendullendoff.java) | 2.2 - 2.4 | Easy |
