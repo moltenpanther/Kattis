@@ -376,6 +376,7 @@ Solved: 850+
 | [Holey N-Queens (Batman)](https://open.kattis.com/problems/holeynqueensbatman) | [holeynqueensbatman](solutions/holeynqueensbatman.java) | 2.6 | Easy |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [heimavinna](solutions/heimavinna.java) | 1.1 - 1.5 | Easy |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](solutions/apaxianparent.java) | 1.7 | Easy |
+| [Höskuldarháska](https://open.kattis.com/problems/hoskuldarhaska) | [hoskuldarhaska](solutions/hoskuldarhaska.java) | 1.8 | Easy |
 | [Hot Hike](https://open.kattis.com/problems/hothike) | [hothike](solutions/hothike.java) | 2.1 | Easy |
 | [Howl](https://open.kattis.com/problems/howl) | [howl](solutions/howl.java) | 2.2 | Easy |
 | [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [howmanydigits](solutions/howmanydigits.java) | 4.0 | Medium |
