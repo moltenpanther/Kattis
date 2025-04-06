@@ -231,6 +231,7 @@ Solved: 840+
 | [Draga Frá](https://open.kattis.com/problems/dragafra) | [dragafra](solutions/dragafra.java) | 1.2 | Easy |
 | [Dreamer](https://open.kattis.com/problems/dreamer) | [dreamer](solutions/dreamer.java) | 2.3 | Easy |
 | [Drinking Song](https://open.kattis.com/problems/drinkingsong) | [drinkingsong](solutions/drinkingsong.java) | 2.3 | Easy |
+| [Drink Menu](https://open.kattis.com/problems/drinkmenu) | [drinkmenu](solutions/drinkmenu.java) | 1.6 | Easy |
 | [DRM Messages](https://open.kattis.com/problems/drmmessages) | [drmmessages](solutions/drmmessages.java) | 1.5 | Easy |
 | [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere) | [drunkvigenere](solutions/drunkvigenere.java) | 1.6 | Easy |
 | [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](solutions/dyslectionary.java) | 3.5 | Medium |
@@ -839,6 +840,7 @@ Solved: 840+
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [queens](solutions/queens.java) | 2.9 | Medium |
 | [Video Speedup](https://open.kattis.com/problems/videospeedup) | [videospeedup](solutions/videospeedup.java) | 1.8 | Easy |
 | [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur) | [vidsnuningur](solutions/vidsnuningur.java) | 2.2 | Easy |
+| [Virus](https://open.kattis.com/problems/virus3) | [virus3](solutions/virus3.java) | 1.4 - 1.6 | Easy |
 | [Volim](https://open.kattis.com/problems/volim) | [volim](solutions/volim.java) | 1.7 | Easy |
 | [Walrus Weights](https://open.kattis.com/problems/walrusweights) | [walrusweights](solutions/walrusweights.java) | 2.7 | Easy |
 | [Warehouse](https://open.kattis.com/problems/warehouse) | [warehouse](solutions/warehouse.java) | 2.2 | Easy |
