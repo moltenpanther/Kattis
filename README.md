@@ -262,6 +262,7 @@ Solved: 850+
 | [Espresso!](https://open.kattis.com/problems/espresso) | [espresso](solutions/espresso.java) | 2.3 | Easy |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
 | [Ethanol](https://open.kattis.com/problems/ethanol) | [ethanol](solutions/ethanol.java) | 1.4 | Easy |
+| [Euclid's Algorithm](https://open.kattis.com/problems/euclidsalgorithm) | [euclidsalgorithm](solutions/euclidsalgorithm.java) | 1.6 | Easy |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
 | [Evening Out 1](https://open.kattis.com/problems/eveningout1) | [eveningout1](solutions/eveningout1.java) | 2.5 | Easy |
 | [Event Planning](https://open.kattis.com/problems/eventplanning) | [eventplanning](solutions/eventplanning.java) | 2.2 | Easy |
@@ -358,6 +359,7 @@ Solved: 850+
 | [Hello World!](https://open.kattis.com/problems/hello) | [hello](solutions/hello.java) | 1.2 | Easy |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [helpaphd](solutions/helpaphd.java) | 1.6 | Easy |
 | [Help Me With The Game](https://open.kattis.com/problems/helpme) | [helpme](solutions/helpme.java) | 2.8 | Medium |
+| [Herb Mixing](https://open.kattis.com/problems/herbmixing) | [herbmixing](solutions/herbmixing.java) | 1.6 | Easy |
 | [Herman](https://open.kattis.com/problems/herman) | [herman](solutions/herman.java) | 1.6 | Easy |
 | [Heroes of Velmar](https://open.kattis.com/problems/heroesofvelmar) | [heroesofvelmar](solutions/heroesofvelmar.java) | 1.9 | Easy |
 | [Heysata](https://open.kattis.com/problems/heysata) | [heysata](solutions/heysata.java) | 1.3 | Easy |
