@@ -386,6 +386,8 @@ Solved: 870+
 | [How Many Digits?](https://open.kattis.com/problems/howmanydigits) | [howmanydigits](solutions/howmanydigits.java) | 4.0 | Medium |
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining) | [hradgreining](solutions/hradgreining.java) | 2.0 | Easy |
 | [H to O](https://open.kattis.com/problems/htoo) | [htoo](solutions/htoo.java) | 2.8 | Medium |
+| [Human Canonball](https://open.kattis.com/problems/humancannonball) | [humancannonball](solutions/humancannonball.java) | 2.2 | Easy |
+
 | [Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus) | [huntthewumpus](solutions/huntthewumpus.java) | 2.2 | Easy |
 | [Hvert Skal Maeta?](https://open.kattis.com/problems/hvertskalmaeta) | [hvertskalmaeta](solutions/hvertskalmaeta.java) | 1.8 | Easy |
 | [Hydra's Heads](https://open.kattis.com/problems/hydrasheads) | [hydrasheads](solutions/hydrasheads.java) | 1.8 | Easy |
@@ -789,6 +791,7 @@ Solved: 870+
 | [The Clock](https://open.kattis.com/problems/klockan2) | [klockan2](solutions/klockan2.java) | 1.6 - 1.7 | Easy |
 | [The Dragon of Loowater](https://open.kattis.com/problems/loowater) | [loowater](solutions/loowater.java) | 2.9 | Medium |
 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [easiest](solutions/easiest.java) | 1.6 | Easy |
+| [The Gourmet](https://open.kattis.com/problems/gourmeten) | [gourmeten](solutions/gourmeten.java) | 1.8 - 1.9 | Easy |
 | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure) | [thegrandadventure](solutions/thegrandadventure.java) | 2.1 | Easy |
 | [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](solutions/keytocrypto.java) | 1.7 | Easy |
 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](solutions/thelastproblem.java) | 1.6 | Easy |
