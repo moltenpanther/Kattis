@@ -213,6 +213,7 @@ Solved: 870+
 | [Decimal Deletion](https://open.kattis.com/problems/decimaldeletion) | [decimaldeletion](solutions/decimaldeletion.java) | 1.3 | Easy |
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [delimitersoup](solutions/delimitersoup.java) | 2.0 | Easy |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](solutions/detaileddifferences.java) | 1.4 | Easy |
+| [Deterministic Finite Automata - Is the Empty Language?](https://open.kattis.com/problems/dfaisempty) | [dfaisempty](solutions/dfaisempty.java) | 3.9 | Medium |
 | [Deterministic Finite Automata - Minimum Word Length](https://open.kattis.com/problems/dfaminimumwordlength) | [dfaminimumwordlength](solutions/dfaminimumwordlength.java) | 2.2 | Easy |
 | [D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki) | [dfyrirdreki](solutions/dfyrirdreki.java) | 1.4 - 1.6 | Easy |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](solutions/dicecup.java) | 1.4 | Easy |
