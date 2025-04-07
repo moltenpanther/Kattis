@@ -670,6 +670,7 @@ Solved: 870+
 | [Röðunarrugl](https://open.kattis.com/problems/rodunarrugl) | [rodunarrugl](solutions/rodunarrugl.java) | 1.6 - 2.4 | Easy |
 | [Röknet](https://open.kattis.com/problems/roknet) | [roknet](solutions/roknet.java) | 1.3 - 1.6 | Easy |
 | [Roll Call](https://open.kattis.com/problems/rollcall) | [rollcall](solutions/rollcall.java) | 2.6 | Easy |
+| [Ruffians](https://open.kattis.com/problems/ruffians) | [ruffians](solutions/ruffians.java) | 1.8 | Easy |
 | [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](solutions/runlengthencodingrun.java) | 2.0 | Easy |
 | [Running Race](https://open.kattis.com/problems/kaploeb) | [kaploeb](solutions/kaploeb.java) | 2.4 - 2.8 | Easy |
 | [Safe Houses](https://open.kattis.com/problems/safehouses) | [safehouses](solutions/safehouses.java) | 2.6 | Easy |
