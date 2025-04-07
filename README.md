@@ -240,6 +240,7 @@ Solved: 860+
 | [Eb Alto Saxophone Player](https://open.kattis.com/problems/saxophone) | [saxophone](solutions/saxophone.java) | 2.1 | Easy |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [echoechoecho](solutions/echoechoecho.java) | 1.3 | Easy |
 | [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](solutions/eenymeeny.java) | 1.8 | Easy |
+| [Ég elska hann](https://open.kattis.com/problems/egelskahann) | [egelskahann](solutions/egelskahann.java) | 1.6 - 1.9 | Easy |
 | [Egypt](https://open.kattis.com/problems/egypt) | [egypt](solutions/egypt.java) | 2.1 | Easy |
 | [Eight Queens](https://open.kattis.com/problems/8queens) | [eightqueens](solutions/eightqueens.java) | 2.9 | Medium |
 | [Eiginnofn](https://open.kattis.com/problems/eiginnofn) | [eiginnofn](solutions/eiginnofn.java) | 1.6 - 2.2 | Easy |
@@ -262,6 +263,7 @@ Solved: 860+
 | [Esej](https://open.kattis.com/problems/esej) | [esej](solutions/esej.java) | 3.5 | Medium |
 | [Espresso!](https://open.kattis.com/problems/espresso) | [espresso](solutions/espresso.java) | 2.3 | Easy |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](solutions/estimatingtheareaofacircle.java) | 1.5 | Easy |
+| [Eszett](https://open.kattis.com/problems/eszett) | [eszett](solutions/eszett.java) | 1.8 | Easy |
 | [Ethanol](https://open.kattis.com/problems/ethanol) | [ethanol](solutions/ethanol.java) | 1.4 | Easy |
 | [Euclid's Algorithm](https://open.kattis.com/problems/euclidsalgorithm) | [euclidsalgorithm](solutions/euclidsalgorithm.java) | 1.6 | Easy |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [eulersnumber](solutions/eulersnumber.java) | 2.3 | Easy |
@@ -525,6 +527,7 @@ Solved: 860+
 | [Musical Notation](https://open.kattis.com/problems/musicalnotation) | [musicalnotation](solutions/musicalnotation.java) | 2.0 | Easy |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](solutions/musicalscales.java) | 1.7 | Easy |
 | [Mylla](https://open.kattis.com/problems/mylla2) | [mylla2](solutions/mylla2.java) | 1.5 | Easy |
+| [Nafnagift](https://open.kattis.com/problems/nafnagift) | [nafnagift](solutions/nafnagift.java) | 1.7 - 1.9 | Medium |
 | [Name Generation](https://open.kattis.com/problems/namegeneration) | [namegeneration](solutions/namegeneration.java) | 2.8 | Medium |
 | [Namnsdag](https://open.kattis.com/problems/namnsdag) | [namnsdag](solutions/namnsdag.java) | 1.6 | Easy |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](solutions/nastyhacks.java) | 1.4 | Easy |
@@ -816,6 +819,7 @@ Solved: 860+
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](solutions/transitwoes.java) | 1.5 | Easy |
 | [Translation](https://open.kattis.com/problems/translation) | [translation](solutions/translation.java) | 1.7 | Easy |
 | [Trapizza](https://open.kattis.com/problems/trapizza) | [trapizza](solutions/trapizza.java) | 2.7 | Easy |
+| [Triangles of a Square](https://open.kattis.com/problems/trianglesofasquare) | [trianglesofasquare](solutions/trianglesofasquare.java) | 1.8 | Easy |
 | [Treasure Hunt](https://open.kattis.com/problems/treasurehunt) | [treasurehunt](solutions/treasurehunt.java) | 2.7 | Easy |
 | [Three in a Row](https://open.kattis.com/problems/treirad) | [treirad](solutions/treirad.java) | 2.2 - 2.4 | Easy |
 | [Tri](https://open.kattis.com/problems/tri) | [tri](solutions/tri.java) | 1.8 | Easy |
