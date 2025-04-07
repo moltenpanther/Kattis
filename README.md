@@ -215,6 +215,7 @@ Solved: 870+
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](solutions/detaileddifferences.java) | 1.4 | Easy |
 | [Deterministic Finite Automata - Is the Empty Language?](https://open.kattis.com/problems/dfaisempty) | [dfaisempty](solutions/dfaisempty.java) | 3.9 | Medium |
 | [Deterministic Finite Automata - Minimum Word Length](https://open.kattis.com/problems/dfaminimumwordlength) | [dfaminimumwordlength](solutions/dfaminimumwordlength.java) | 2.2 | Easy |
+| [Deterministic Finite Automata - Read](https://open.kattis.com/problems/dfaread) | [dfaread](solutions/dfaread.java) | 2.2 | Easy |
 | [D Fyrir Dreki](https://open.kattis.com/problems/dfyrirdreki) | [dfyrirdreki](solutions/dfyrirdreki.java) | 1.4 - 1.6 | Easy |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](solutions/dicecup.java) | 1.4 | Easy |
 | [Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](solutions/dicegame.java) | 1.6 | Easy |
