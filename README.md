@@ -203,6 +203,7 @@ Solved: 870+
 | [Cypher Decypher](https://open.kattis.com/problems/cypherdecypher) | [cypherdecypher](solutions/cypherdecypher.java) | 1.8 | Easy |
 | [Dagatal](https://open.kattis.com/problems/dagatal) | [dagatal](solutions/dagatal.java) | 1.2 | Easy |
 | [Damaged Equation](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.3 | Easy |
+| [Danish](https://open.kattis.com/problems/danska) | [danska](solutions/danska.java) | 1.8 - 8.4 | Hard |
 | [Dart Scores](https://open.kattis.com/problems/damagedequation) | [damagedequation](solutions/damagedequation.java) | 2.4 | Easy |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](solutions/dasblinkenlights.java) | 1.8 | Easy |
 | [Datum](https://open.kattis.com/problems/datum) | [datum](solutions/datum.java) | 1.4 | Easy |
