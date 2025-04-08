@@ -2,7 +2,7 @@
 
 These problems were completed over multiple years as I was taking CS classes, so some solutions are more naive than they would be if I did them now.
 
-Solved: 870+
+Solved: 880+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -362,6 +362,7 @@ Solved: 870+
 | [Head Guard](https://open.kattis.com/problems/headguard) | [headguard](solutions/headguard.java) | 2.1 | Easy |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](solutions/heartrate.java) | 1.4 | Easy |
 | [Height Ordering](https://open.kattis.com/problems/height) | [height](solutions/height.java) | 2.0 | Easy |
+| [Heimilisverk](https://open.kattis.com/problems/heimilisverk) | [heimilisverk](solutions/heimilisverk.java) | 1.2 - 2.0 | Easy |
 | [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](solutions/heirsdilemma.java) | 1.7 | Easy |
 | [Heliocentric](https://open.kattis.com/problems/heliocentric) | [heliocentric](solutions/heliocentric.java) | 1.8 | Easy |
 | [Hello World!](https://open.kattis.com/problems/hello) | [hello](solutions/hello.java) | 1.2 | Easy |
