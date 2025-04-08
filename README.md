@@ -613,6 +613,7 @@ Solved: 880+
 | [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](solutions/plantingtrees.java) | 1.8 | Easy |
 | [Plants vs Bad Guys](https://open.kattis.com/problems/pvbg) | [pvbg](solutions/pvbg.java) | 1.4 - 1.7 | Easy |
 | [Playfair Cipher](https://open.kattis.com/problems/playfair) | [playfair](solutions/playfair.java) | 2.9 | Medium |
+| [Prime Path](https://open.kattis.com/problems/primepath) | [primepath](solutions/primepath.java) | 2.0 | Easy |
 | [Programmeringsolympiaden's Budget](https://open.kattis.com/problems/pobudget) | [pobudget](solutions/pobudget.java) | 1.3 | Easy |
 | [Pokechat](https://open.kattis.com/problems/pokechat) | [pokechat](solutions/pokechat.java) | 1.4 | Easy |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](solutions/pokerhand.java) | 1.5 | Easy |
