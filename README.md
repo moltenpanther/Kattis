@@ -537,6 +537,7 @@ Solved: 870+
 | [Name Generation](https://open.kattis.com/problems/namegeneration) | [namegeneration](solutions/namegeneration.java) | 2.8 | Medium |
 | [Namnsdag](https://open.kattis.com/problems/namnsdag) | [namnsdag](solutions/namnsdag.java) | 1.6 | Easy |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](solutions/nastyhacks.java) | 1.4 | Easy |
+| [Natjecanje](https://open.kattis.com/problems/natjecanje) | [natjecanje](solutions/natjecanje.java) | 1.9 | Easy |
 | [Natrij](https://open.kattis.com/problems/natrij) | [natrij](solutions/natrij.java) | 3.1 | Medium |
 | [Nimionese](https://open.kattis.com/problems/nimionese) | [nimionese](solutions/nimionese.java) | 2.2 | Easy |
 | [Nine Knights](https://open.kattis.com/problems/nineknights) | [nineknights](solutions/nineknights.java) | 2.3 | Easy |
@@ -872,7 +873,8 @@ Solved: 870+
 | [Water Journal](https://open.kattis.com/problems/waterjournal) | [waterjournal](solutions/waterjournal.java) | 1.7 | Easy |
 | [Weak Vertices](https://open.kattis.com/problems/weakvertices) | [weakvertices](solutions/weakvertices.java) | 1.5 | Easy |
 | [Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy) | [welcomeeasy](solutions/welcomeeasy.java) | 2.2 | Easy |
-| [Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard) | [welcomehard](solutions/welcomehard.java) | 4.4 | Easy |
+| [Welcome to Code Jam (Hard)](https://open.kattis.com/problems/welcomehard) | [welcomehard](solutions/welcomehard.java) | 4.4 | Medium |
+| [Welcome Sign](https://open.kattis.com/problems/welcomesign) | [welcomesign](solutions/welcomesign.java) | 1.9 | Easy |
 | [WERTYU](https://open.kattis.com/problems/wertyu) | [wertyu](solutions/wertyu.java) | 3.3 | Medium |
 | [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay) | [whatdoesthefoxsay](solutions/whatdoesthefoxsay.java) | 2.4 | Easy |
 | [Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall) | [wheresmywaterfall](solutions/wheresmywaterfall.java) | 3.8 | Medium |
