@@ -223,7 +223,9 @@ Solved: 880+
 | [Digital display](https://open.kattis.com/problems/display) | [display](solutions/display.java) | 2.3 | Easy |
 | [Digit Product](https://open.kattis.com/problems/sifferprodukt) | [sifferprodukt](solutions/sifferprodukt.java) | 1.6 | Easy |
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [digitswap](solutions/digitswap.java) | 1.3 | Easy |
+| [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [downtime](solutions/downtime.java) | 3.2 | Medium |
 | [Disc District](https://open.kattis.com/problems/discdistrict) | [discdistrict](solutions/discdistrict.java) | 2.4 | Easy |
+| [Dishonest Lottery](https://open.kattis.com/problems/dishonestlottery) | [dishonestlottery](solutions/dishonestlottery.java) | 2.0 | Easy |
 | [Diverse Contest](https://open.kattis.com/problems/diversecontest) | [diversecontest](solutions/diversecontest.java) | 6.4 | Hard |
 | [Divvying Up](https://open.kattis.com/problems/divvyingup) | [divvyingup](solutions/divvyingup.java) | 1.6 | Easy |
 | [Dodecaphony](https://open.kattis.com/problems/dodecaphony) | [dodecaphony](solutions/dodecaphony.java) | 3.3 | Medium |
@@ -232,7 +234,6 @@ Solved: 880+
 | [Don't Be Fake](https://open.kattis.com/problems/dontbefake) | [dontbefake](solutions/dontbefake.java) | 1.7 | Easy |
 | [Don't Fall Down Stairs](https://open.kattis.com/problems/dontfalldownstairs) | [dontfalldownstairs](solutions/dontfalldownstairs.java) | 2.2 | Easy |
 | [Double Password](https://open.kattis.com/problems/doublepassword) | [doublepassword](solutions/doublepassword.java) | 1.6 | Easy |
-| [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [downtime](solutions/downtime.java) | 3.2 | Medium |
 | [Draga Frá](https://open.kattis.com/problems/dragafra) | [dragafra](solutions/dragafra.java) | 1.2 | Easy |
 | [Dreamer](https://open.kattis.com/problems/dreamer) | [dreamer](solutions/dreamer.java) | 2.3 | Easy |
 | [Drinking Song](https://open.kattis.com/problems/drinkingsong) | [drinkingsong](solutions/drinkingsong.java) | 2.3 | Easy |
