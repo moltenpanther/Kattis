@@ -534,6 +534,7 @@ Solved: 880+
 | [Mumble Rap](https://open.kattis.com/problems/mumblerap) | [mumblerap](solutions/mumblerap.java) | 1.5 - 1.7 | Easy |
 | [Musical Notation](https://open.kattis.com/problems/musicalnotation) | [musicalnotation](solutions/musicalnotation.java) | 2.0 | Easy |
 | [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](solutions/musicalscales.java) | 1.7 | Easy |
+| [Music Your Way](https://open.kattis.com/problems/musicyourway) | [musicyourway](solutions/musicyourway.java) | 1.9 | Easy |
 | [Mylla](https://open.kattis.com/problems/mylla2) | [mylla2](solutions/mylla2.java) | 1.5 | Easy |
 | [Nafnagift](https://open.kattis.com/problems/nafnagift) | [nafnagift](solutions/nafnagift.java) | 1.7 - 1.9 | Medium |
 | [Name Generation](https://open.kattis.com/problems/namegeneration) | [namegeneration](solutions/namegeneration.java) | 2.8 | Medium |
