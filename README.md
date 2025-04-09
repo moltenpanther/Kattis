@@ -97,6 +97,7 @@ Solved: 890+
 | [Best Compromise](https://open.kattis.com/problems/compromise) | [compromise](solutions/compromise.java) | 2.1 | Easy |
 | [Best Relay Team](https://open.kattis.com/problems/bestrelayteam) | [bestrelayteam](solutions/bestrelayteam.java) | 2.0 | Easy |
 | [Betting](https://open.kattis.com/problems/betting) | [betting](solutions/betting.java) | 1.3 | Easy |
+| [Bið, endalaus bið](https://open.kattis.com/problems/bidendalausbid) | [bidendalausbid](solutions/bidendalausbid.java) | 1.4 - 2.4 | Easy |
 | [Bijele](https://open.kattis.com/problems/bijele) | [bijele](solutions/bijele.java) | 1.4 | Easy |
 | [Bilað Lyklaborð](https://open.kattis.com/problems/biladlyklabord) | [biladlyklabord](solutions/biladlyklabord.java) | 1.9 | Easy |
 | [Bing It On](https://open.kattis.com/problems/bing) | [bing](solutions/bing.java) | 3.2 | Easy |
@@ -715,6 +716,7 @@ Solved: 890+
 | [A Shortcut To What?](https://open.kattis.com/problems/shortcuttowhat) | [shortcuttowhat](solutions/shortcuttowhat.java) | 1.3 | Easy |
 | [Sibice](https://open.kattis.com/problems/sibice) | [sibice](solutions/sibice.java) | 1.5 | Easy |
 | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [sidewayssorting](solutions/sidewayssorting.java) | 2.3 | Easy |
+| [Siffrid's Digit Sum](https://open.kattis.com/problems/siffrid) | [siffrid](solutions/siffrid.java) | 1.8 - 2.4 | Easy |
 | [Sim](https://open.kattis.com/problems/sim) | [sim](solutions/sim.java) | 3.4 | Medium |
 | [Simple Cron Spec](https://open.kattis.com/problems/simplecronspec) | [simplecronspec](solutions/simplecronspec.java) | 2.0 | Easy |
 | [Simon Says](https://open.kattis.com/problems/simon) | [simon](solutions/simon.java) | 3.0 | Medium |
