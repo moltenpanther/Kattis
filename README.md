@@ -212,6 +212,7 @@ Solved: 880+
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [deathstar](solutions/deathstar.java) | 1.8 | Easy |
 | [Decimal Deletion](https://open.kattis.com/problems/decimaldeletion) | [decimaldeletion](solutions/decimaldeletion.java) | 1.3 | Easy |
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [delimitersoup](solutions/delimitersoup.java) | 2.0 | Easy |
+| [Desiigner strengir](https://open.kattis.com/problems/desiigner) | [desiigner](solutions/desiigner.java) | 1.4 - 2.1 | Easy |
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](solutions/detaileddifferences.java) | 1.4 | Easy |
 | [Deterministic Finite Automata - Is the Empty Language?](https://open.kattis.com/problems/dfaisempty) | [dfaisempty](solutions/dfaisempty.java) | 3.9 | Medium |
 | [Deterministic Finite Automata - Minimum Word Length](https://open.kattis.com/problems/dfaminimumwordlength) | [dfaminimumwordlength](solutions/dfaminimumwordlength.java) | 2.2 | Easy |
@@ -380,6 +381,7 @@ Solved: 880+
 | [Hipp Hipp Húrra](https://open.kattis.com/problems/hipphipphurra) | [hipphipphurra](solutions/hipphipphurra.java) | 1.2 | Easy |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](solutions/hissingmicrophone.java) | 1.4 | Easy |
 | [Hitastig](https://open.kattis.com/problems/hitastig) | [hitastig](solutions/hitastig.java) | 1.4 - 1.5 | Easy |
+| [Hittast](https://open.kattis.com/problems/hittast) | [hittast](solutions/hittast.java) | 1.4 - 2.0 | Easy |
 | [Hitting the Targets](https://open.kattis.com/problems/hittingtargets) | [hittingtargets](solutions/hittingtargets.java) | 1.6 | Easy |
 | [Hnappasetningaskipti](https://open.kattis.com/problems/hnappasetningaskipti) | [hnappasetningaskipti](solutions/hnappasetningaskipti.java) | 1.7 - 2.7 | Easy |
 | [Höfundaleit](https://open.kattis.com/problems/hofundaleit) | [hofundaleit](solutions/hofundaleit.java) | 1.9 - 5.2 | Medium |
@@ -393,7 +395,6 @@ Solved: 880+
 | [Hraðgreining](https://open.kattis.com/problems/hradgreining) | [hradgreining](solutions/hradgreining.java) | 2.0 | Easy |
 | [H to O](https://open.kattis.com/problems/htoo) | [htoo](solutions/htoo.java) | 2.8 | Medium |
 | [Human Canonball](https://open.kattis.com/problems/humancannonball) | [humancannonball](solutions/humancannonball.java) | 2.2 | Easy |
-
 | [Hunt the Wumpus](https://open.kattis.com/problems/huntthewumpus) | [huntthewumpus](solutions/huntthewumpus.java) | 2.2 | Easy |
 | [Hvert Skal Maeta?](https://open.kattis.com/problems/hvertskalmaeta) | [hvertskalmaeta](solutions/hvertskalmaeta.java) | 1.8 | Easy |
 | [Hydra's Heads](https://open.kattis.com/problems/hydrasheads) | [hydrasheads](solutions/hydrasheads.java) | 1.8 | Easy |
