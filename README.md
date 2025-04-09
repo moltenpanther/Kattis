@@ -36,6 +36,7 @@ Solved: 880+
 | [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [almostperfect](solutions/almostperfect.java) | 3.0 | Medium |
 | [Alphabet](https://open.kattis.com/problems/alphabet) | [alphabet](solutions/alphabet.java) | 2.9 | Medium |
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [alphabetanimals](solutions/alphabetanimals.java) | 3.9 | Medium |
+| [Alphabetical Aristocrats](https://open.kattis.com/problems/alphabeticalaristocrats) | [alphabeticalaristocrats](solutions/alphabeticalaristocrats.java) | 2.0 | Easy |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](solutions/alphabetspam.java) | 1.5 | Easy |
 | [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke) | [artichoke](solutions/artichoke.java) | 2.7 | Easy |
 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [ameriskur](solutions/ameriskur.java) | 1.5 - 1.6 | Easy |
