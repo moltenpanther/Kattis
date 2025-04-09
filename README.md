@@ -42,7 +42,8 @@ Solved: 880+
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](solutions/anewalphabet.java) | 1.9 | Easy |
 | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick) | [anotherbrick](solutions/anotherbrick.java) | 2.1 | Easy |
 | [Another Candies](https://open.kattis.com/problems/anothercandies) | [aanothercandies](solutions/anothercandies.java) | 2.9 | Medium |
-| [Anti-Palindromel](https://open.kattis.com/problems/antipalindrome) | [antipalindrome](solutions/antipalindrome.java) | 1.7 | Easy |
+| [Anti-Palindrome](https://open.kattis.com/problems/antipalindrome) | [antipalindrome](solutions/antipalindrome.java) | 1.7 | Easy |
+| [Any Pythagorean Triple](https://open.kattis.com/problems/anypythagorean) | [anypythagorean](solutions/anypythagorean.java) | 2.0 | Easy |
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](solutions/apaxiaaans.java) | 1.4 | Easy |
 | [A Rank Problem](https://open.kattis.com/problems/rankproblem) | [rankproblem](solutions/rankproblem.java) | 2.3 | Easy |
 | [A Rational Sequence](https://open.kattis.com/problems/rationalsequence) | [rationalsequence](solutions/rationalsequence.java) | 4.9 | Medium |
