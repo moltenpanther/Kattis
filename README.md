@@ -65,6 +65,7 @@ Solved: 880+
 | [ASCII kassi](https://open.kattis.com/problems/asciikassi) | [asciikassi](solutions/asciikassi.java) | 1.7 - 1.8 | Easy |
 | [ASCII Kassi 2](https://open.kattis.com/problems/asciikassi2) | [asciikassi2](solutions/asciikassi2.java) | 2.2 - 2.3 | Easy |
 | [A Second Opinion](https://open.kattis.com/problems/secondopinion) | [secondopinion](solutions/secondopinion.java) | 1.7 | Easy |
+| [A Stack of Gold](https://open.kattis.com/problems/astackofgold) | [astackofgold](solutions/astackofgold.java) | 2.0 | Easy |
 | [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [astrologicalsign](solutions/astrologicalsign.java) | 2.2 | Easy |
 | [Attendance](https://open.kattis.com/problems/attendance2) | [attendance2](solutions/attendance2.java) | 2.0 | Easy |
 | [Atlogur](https://open.kattis.com/problems/atlogur) | [atlogur](solutions/atlogur.java) | 1.9 | Easy |
