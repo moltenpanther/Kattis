@@ -1,6 +1,6 @@
 **My Kattis Solutions**
 
-Solved: 880+
+Solved: 890+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
