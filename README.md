@@ -891,6 +891,7 @@ Solved: 880+
 | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [wizardofodds](solutions/wizardofodds.java) | 2.9 | Medium |
 | [Word Cloud](https://open.kattis.com/problems/wordcloud) | [wordcloud](solutions/wordcloud.java) | 2.5 | Medium |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [wordsfornumbers](solutions/wordsfornumbers.java) | 2.8 | Medium |
+| [XORsistinn](https://open.kattis.com/problems/xorsist) | [xorsist](solutions/xorsist.java) | 1.4 - 2.2 | Easy |
 | [Yoda](https://open.kattis.com/problems/yoda) | [yoda](solutions/yoda.java) | 2.1 | Easy |
 | [Zamka](https://open.kattis.com/problems/zamka) | [zamka](solutions/zamka.java) | 1.5 | Easy |
 | [Zoom](https://open.kattis.com/problems/zoom) | [zoom](solutions/zoom.java) | 1.7 | Easy |
