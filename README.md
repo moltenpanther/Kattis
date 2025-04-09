@@ -315,6 +315,7 @@ Solved: 890+
 | [Fractional Lotion](https://open.kattis.com/problems/fractionallotion) | [fractionallotion](solutions/fractionallotion.java) | 2.7 | Easy |
 | [Framtíðar FIFA](https://open.kattis.com/problems/fifa) | [fifa](solutions/fifa.java) | 1.5 - 1.6 | Easy |
 | [Free Food](https://open.kattis.com/problems/freefood) | [freefood](solutions/freefood.java) | 1.6 | Easy |
+| [Free-Form Input](https://open.kattis.com/problems/freeforminput) | [freeforminput](solutions/freeforminput.java) | 2.2 | Easy |
 | [Friday the 13th](https://open.kattis.com/problems/friday) | [friday](solutions/friday.java) | 2.0 | Easy |
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [froshweek2](solutions/froshweek2.java) | 2.2 | Easy |
 | [Frumtölur](https://open.kattis.com/problems/frumtolur) | [frumtolur](solutions/frumtolur.java) | 1.3 - 1.8 | Easy |
