@@ -344,6 +344,7 @@ Solved: 890+
 | [Goomba Stacks](https://open.kattis.com/problems/goombastacks) | [goombastacks](solutions/goombastacks.java) | 1.4 | Easy |
 | [Grading](https://open.kattis.com/problems/grading) | [grading](solutions/grading.java) | 1.6 | Easy |
 | [Graduation](https://open.kattis.com/problems/skolavslutningen) | [skolavslutningen](solutions/skolavslutningen.java) | 1.2 - 2.2 | Easy |
+| [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [grandpabernie](solutions/grandpabernie.java) | 2.6 | Easy |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](solutions/grassseed.java) | 1.4 | Easy |
 | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [greedilyincreasing](solutions/greedilyincreasing.java) | 2.1 | Easy |
 | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons) | [greedypolygons](solutions/greedypolygons.java) | 1.6 | Easy |
