@@ -829,6 +829,7 @@ Solved: 890+
 | [Time Travelling Temperatures](https://open.kattis.com/problems/temperature) | [temperature](solutions/temperature.java) | 2.2 | Easy |
 | [Title Cost](https://open.kattis.com/problems/titlecost) | [titlecost](solutions/titlecost.java) | 1.7 | Easy |
 | [Töflur](https://open.kattis.com/problems/toflur) | [toflur](solutions/toflur.java) | 1.7 - 2.5 | Easy |
+| [Toggi](https://open.kattis.com/problems/toggi) | [toggi](solutions/toggi.java) | 1.6 - 2.7 | Easy |
 | [Toilet Seat](https://open.kattis.com/problems/toilet) | [toilet](solutions/toilet.java) | 2.4 | Easy |
 | [Tok Tik](https://open.kattis.com/problems/toktik) | [toktik](solutions/toktik.java) | 1.4 - 1.6 | Easy |
 | [ToLower](https://open.kattis.com/problems/tolower) | [tolower](solutions/tolower.java) | 2.2 | Easy |
