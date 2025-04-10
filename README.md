@@ -336,6 +336,7 @@ Solved: 890+
 | [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](solutions/gerrymandering.java) | 1.6 | Easy |
 | [Ghost Leg](https://open.kattis.com/problems/ghostleg) | [ghostleg](solutions/ghostleg.java) | 1.4 | Easy |
 | [Gin Fizz](https://open.kattis.com/problems/ginfizz) | [ginfizz](solutions/ginfizz.java) | 1.4 | Easy |
+| [Giskaðu á svarið](https://open.kattis.com/problems/giskadu) | [giskadu](solutions/giskadu.java) | 2.2 - 2.8 | Easy |
 | [Git Good](https://open.kattis.com/problems/gitgood) | [gitgood](solutions/gitgood.java) | 1.5 - 2.0 | Easy |
 | [GlitchBot](https://open.kattis.com/problems/glitchbot) | [glitchbot](solutions/glitchbot.java) | 2.0 | Easy |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](solutions/goatrope.java) | 1.6 | Easy |
