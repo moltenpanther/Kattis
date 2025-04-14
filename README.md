@@ -301,6 +301,7 @@ Solved: 900+
 | [Ferskasta Jarmið](https://open.kattis.com/problems/ferskastajarmid) | [ferskastajarmid](solutions/ferskastajarmid.java) | 2.3 - 2.6 | Easy |
 | [Fibs og Dibs](https://open.kattis.com/problems/fibsogdibs) | [fibsogdibs](solutions/fibsogdibs.java) | 2.3 - 5.9 | Hard |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](solutions/fiftyshades.java) | 1.5 | Easy |
+| [File Extension](https://open.kattis.com/problems/nafnauki) | [nafnauki](solutions/nafnauki.java) | 1.7 - 2.3 | Easy |
 | [Filip](https://open.kattis.com/problems/filip) | [filip](solutions/filip.java) | 1.4 | Easy |
 | [Fimmtudagstilboð](https://open.kattis.com/problems/fimmtudagstilbod) | [fimmtudagstilbod](solutions/fimmtudagstilbod.java) | 1.3 - 1.6 | Easy |
 | [Final Exam](https://open.kattis.com/problems/finalexam2) | [finalexam2](solutions/finalexam2.java) | 1.7 | Easy |
@@ -619,6 +620,7 @@ Solved: 900+
 | [Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor) | [pervasiveheartmonitor](solutions/pervasiveheartmonitor.java) | 1.8 | Easy |
 | [Pet](https://open.kattis.com/problems/pet) | [pet](solutions/pet.java) | 1.4 | Easy |
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [pieceofcake2](solutions/pieceofcake2.java) | 1.5 | Easy |
+| [Pigeon-holes](https://open.kattis.com/problems/dufuskuffur) | [dufuskuffur](solutions/dufuskuffur.java) | 2.2 | Easy |
 | [Pig Latin](https://open.kattis.com/problems/piglatin) | [piglatin](solutions/piglatin.java) | 2.2 | Easy |
 | [Pinni Frændi](https://open.kattis.com/problems/pinnifraendi) | [pinnifraendi](solutions/pinnifraendi.java) | 1.8 - 2.8 | Easy |
 | [Pivot](https://open.kattis.com/problems/pivot) | [pivot](solutions/pivot.java) | 2.6 | Easy |
