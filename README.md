@@ -1,6 +1,6 @@
 **My Kattis Solutions**
 
-Solved: 890+
+Solved: 900+
 
 | **Problem** | **Solution** | **Score** | **Difficulty** | 
 | :-- | :-- | :-: | :-: |
@@ -174,9 +174,11 @@ Solved: 890+
 | [Composed Rhythms](https://open.kattis.com/problems/composedrhythms) | [composedrhythms](solutions/composedrhythms.java) | 1.5 | Easy |
 | [Completing the Square](https://open.kattis.com/problems/completingthesquare) | [completingthesquare](solutions/completingthesquare.java) | 2.0 | Easy |
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](solutions/compoundwords.java) | 1.7 | Easy |
+| [Concatenate](https://open.kattis.com/problems/skeytasaman) | [skeytasaman](solutions/skeytasaman.java) | 1.4 | Easy |
 | [Conformity](https://open.kattis.com/problems/conformity) | [conformity](solutions/conformity.java) | 1.6 | Easy |
 | [Conga Line](https://open.kattis.com/problems/congaline) | [congaline](solutions/congaline.java) | 1.2 - 4.7 | Medium |
 | [Contingency Planning](https://open.kattis.com/problems/contingencyplanning) | [contingencyplanning](solutions/contingencyplanning.java) | 2.0 | Easy |
+| [Contrarianism](https://open.kattis.com/problems/andmal) | [andmal](solutions/andmal.java) | 1.6 | Easy |
 | [Conquest Campaign](https://open.kattis.com/problems/conquestcampaign) | [conquestcampaign](solutions/conquestcampaign.java) | 2.2 | Easy |
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](solutions/conversationlog.java) | 2.9 | Medium |
 | [Convex Hull](https://open.kattis.com/problems/convexhull) | [convexhull](solutions/convexhull.java) | 4.0 | Medium |
@@ -264,6 +266,7 @@ Solved: 890+
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](solutions/encodedmessage.java) | 1.5 | Easy |
 | [Endurvinnsla](https://open.kattis.com/problems/endurvinnsla) | [endurvinnsla](solutions/endurvinnsla.java) | 2.3 | Easy |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [engineeringenglish](solutions/engineeringenglish.java) | 2.4 | Easy |
+| [Enjoy Your Repast!](https://open.kattis.com/problems/verditheradgodu) | [verditheradgodu](solutions/verditheradgodu.java) | 1.4 | Easy |
 | [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](solutions/enlarginghashtables.java) | 3.1 | Medium |
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [epigdanceoff](solutions/epigdanceoff.java) | 2.1 | Easy |
 | [Equal Shots](https://open.kattis.com/problems/equalshots) | [equalshots](solutions/equalshots.java) | 1.4 | Easy |
@@ -339,6 +342,7 @@ Solved: 890+
 | [Giskaðu á svarið](https://open.kattis.com/problems/giskadu) | [giskadu](solutions/giskadu.java) | 2.2 - 2.8 | Easy |
 | [Git Good](https://open.kattis.com/problems/gitgood) | [gitgood](solutions/gitgood.java) | 1.5 - 2.0 | Easy |
 | [GlitchBot](https://open.kattis.com/problems/glitchbot) | [glitchbot](solutions/glitchbot.java) | 2.0 | Easy |
+| [Gluttonous George](https://open.kattis.com/problems/goggi) | [goggi](solutions/goggi.java) | 1.6 | Easy |
 | [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](solutions/goatrope.java) | 1.6 | Easy |
 | [Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2) | [goldbach2](solutions/goldbach2.java) | 2.2 | Easy |
 | [Good Morning!](https://open.kattis.com/problems/goodmorning) | [goodmorning](solutions/goodmorning.java) | 2.8 | Medium |
